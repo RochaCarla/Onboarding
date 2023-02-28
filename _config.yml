@@ -1,6 +1,6 @@
 # Configurations
-title:            Métodos de Desenvolvimento de Software
-longtitle:        Métodos de Desenvolvimento de Software
+title:            Liderando Práticas Onboarding
+longtitle:        Liderando Práticas Onboarding - Como acelerar o aprendizado e disseminar cultura de inovação ágil
 author:           Carla Rocha
 email:            caguiar@unb.br
 description: >
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://rochacarla.github.io'
-baseurl:          '/livro-Onboarding'
+baseurl:          '/Onboarding'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
