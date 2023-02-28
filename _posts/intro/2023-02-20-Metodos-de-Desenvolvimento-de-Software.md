@@ -17,6 +17,8 @@ O modelo de referência importante para a construção de um curso eficaz é o m
 - **Conceitualização abstrata**: com base nas observações e reflexões, os participantes são convidados a formular conceitos, teorias e hipóteses que expliquem o que aconteceu e que possam ser aplicados em outras situações.
 - **Experimentação ativa**: por fim, os alunos são encorajados a aplicar os conceitos e teorias formulados em novas experiências, para verificar sua validade e eficácia.
 
+![image](../assets/figs/experiential-1.png)
+
 Esse ciclo de aprendizagem se repete continuamente, permitindo que os alunos ampliem e aprofundem seus conhecimentos e habilidades ao longo do tempo. Para que esse modelo seja efetivo, é importante que os educadores ofereçam um ambiente seguro e estimulante para as experiências, promovam a reflexão e a discussão das observações, incentivem a formulação de conceitos e teorias e apoiem os alunos em sua experimentação ativa.
 
 Um dos elementos-chave do modelo de aprendizagem experiencial é que ele requer um certo nível de autodescoberta e aprendizagem autônoma. A metodologia aqui apresentada é estruturada em quatro etapas. A primeira etapa, **de luta**, é quando os alunos são desafiados a experimentar algo novo, a se envolver em uma tarefa ou projeto que esteja fora de sua zona de conforto. Nessa fase, o objetivo é criar um senso de urgência e motivação nos alunos, incentivando-os a se engajar ativamente no processo de aprendizagem.
@@ -29,13 +31,15 @@ Por fim, a quarta etapa, **de sintetizar**, é quando os alunos consolidam suas 
 
 Para apoiar essas quatro etapas, uso uma variedade de métodos de ensino digital, como fóruns de discussão online e plataformas de colaboração. Cada método é escolhido com base nas necessidades específicas de cada etapa do processo de aprendizagem, ajudando os alunos a se engajar ativamente e a criar um ambiente de aprendizagem colaborativa e significativa.
 
+![image](../assets/figs/experiential-2.png)
+
 Já a aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores.  Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.
 
 Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.
 
-![image](../assets/figs/experiential-1.png)
 
-![image](../assets/figs/experiential-2.png)
+
+
 
 > ##### Ideia Principal
 >

@@ -1,5 +1,160 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Onboarding/" rel="alternate" type="text/html" /><updated>2023-02-28T12:19:44-03:00</updated><id>http://localhost:4000/Onboarding/feed.xml</id><title type="html">Liderando Práticas Onboarding</title><subtitle>Build Jekyll site with the GitBook style.
-</subtitle><author><name>Carla Rocha</name></author><entry><title type="html">Conceitos, práticas, cultura</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html" rel="alternate" type="text/html" title="Conceitos, práticas, cultura" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Conceitos</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html"><![CDATA[<blockquote class="block-tip">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Onboarding/" rel="alternate" type="text/html" /><updated>2023-02-28T15:54:39-03:00</updated><id>http://localhost:4000/Onboarding/feed.xml</id><title type="html">Liderando Práticas Onboarding</title><subtitle>Build Jekyll site with the GitBook style.
+</subtitle><author><name>Carla Rocha</name></author><entry><title type="html">Parte II - Execução</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-24-Execucao.html" rel="alternate" type="text/html" title="Parte II - Execução" /><published>2023-02-24T00:00:00-03:00</published><updated>2023-02-24T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Execucao</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-24-Execucao.html"><![CDATA[<h2 id="visão-geral">Visão Geral</h2>
+
+<p>Uma estratégia eficaz de aprendizagem deve integrar conceitos teóricos com sua aplicação prática, seguindo o princípio de “aprender fazendo”. Sem prática, não há aprendizado significativo. Portanto, o processo de ensino-aprendizagem deve incluir duas etapas fundamentais: sessões de assimilação de conceitos teóricos e sessões de prática.</p>
+
+<p>Embora o uso de casos acadêmicos possa ser útil, ele pode fornecer uma perspectiva limitada e estreita sobre o problema. Por isso, é fundamental preparar os alunos para a realidade do mercado de trabalho, especialmente em setores como desenvolvimento de software, que estão passando por mudanças significativas com a adoção da cultura DevOps. A integração da teoria com a prática permite que os alunos desenvolvam habilidades práticas e estejam prontos para enfrentar desafios reais em suas carreiras.</p>
+
+<p>Esse capítulo é dedicado aos participantes do processo do processo de onboarding com o objetivo de aprender sobre Métodos de Desenvolvimento de Software, mais especificamente aprender os conceitos e práticas relacionados aos métodos ágeis. É a concretização do planejamento realizado na etapa anterior.</p>
+
+<h2 id="recepção--orientações-gerais">Recepção + Orientações gerais</h2>
+
+<p>A primeira etapa da metodologia envolve ciclos de introdução às informações gerais necessárias para iniciar o projeto, formação das equipes, definição de papéis, escolha de ferramentas e práticas para acolher os participantes. A duração dessa etapa pode variar dependendo da frequência dos encontros. Por exemplo, se houver dois encontros semanais, a primeira etapa pode durar até duas semanas. Já se houver apenas um encontro semanal, a primeira etapa pode durar até um mês.</p>
+
+<blockquote class="block-tip">
+  <h5 id="objetivo">Objetivo</h5>
+
+  <p>Acolher novos colaboradores, e apresentar informações sobre a cultura e os processos,
+ além de conhecer os colegas de trabalho.</p>
+</blockquote>
+
+<p>Propomos sessões práticas focadas no desenvolvimento de projetos Open Source, onde os alunos têm a oportunidade de desenvolver o código-fonte, planejar e automatizar o pipeline de implantação, adotando práticas, ferramentas e orientação da comunidade OSS, conforme descrito na Tabela I.</p>
+
+<p>É interessante destacar que essa abordagem de deixar os alunos lutarem e procurarem informações por conta própria faz parte do modelo de aprendizagem experiencial de David Kolb, que valoriza a autodescoberta e a aprendizagem autônoma como elementos-chave para o processo de aprendizagem. Além disso, ao apresentar os entregáveis esperados em macro atividades, permite-se que os alunos tenham liberdade para definir seus próprios caminhos e desenvolver suas habilidades não técnicas, o que pode ser extremamente valioso para sua formação como desenvolvedores. Nessa etapa são desenvolvidas várias habilidades não técnicas, como comunicação efetiva, auto aprendizagem, gestão de horas, gestão de conflitos, agir mesmo com pouca informação. Esse setup é bastante próximo de início de projetos no mercado.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Papéis do Aluno</td>
+      <td>Tech lead, Estrategista de produto, Desenvolvedores, Arquiteto de Software, Engenheiro de DevOps</td>
+    </tr>
+    <tr>
+      <td>Funções não estudantis (partes interessadas)</td>
+      <td>Professor, instrutor, cliente (opcional), profissionais de mercado, ex-alunos</td>
+    </tr>
+    <tr>
+      <td>Releases</td>
+      <td>2 Releases (Viabilidade Técnica e Prova de Conceito final)</td>
+    </tr>
+    <tr>
+      <td>Ponto de Partida</td>
+      <td>Ideia fornecida aos alunos por qualquer parte interessada</td>
+    </tr>
+    <tr>
+      <td>Horários de trabalho da equipe</td>
+      <td>Toda a equipe se reúne 5-8 horas por semana</td>
+    </tr>
+    <tr>
+      <td>Reuniões</td>
+      <td>Equipa de estudantes reúne semanalmente com stakeholders</td>
+    </tr>
+    <tr>
+      <td>Gestão de Projetos do dia-a-dia</td>
+      <td>Gerenciada pela equipe de estudantes</td>
+    </tr>
+    <tr>
+      <td>Práticas de Desenvolvimento</td>
+      <td>Definido por equipe de alunos (Scrum, XP, lean, entre outros)</td>
+    </tr>
+    <tr>
+      <td>Tecnologias de Desenvolvimento</td>
+      <td>Selecionada pela equipe de alunos</td>
+    </tr>
+    <tr>
+      <td>Testes</td>
+      <td>cobertura de teste de unidade obrigatória de 90%; Teste de integração também são obrigatórios</td>
+    </tr>
+    <tr>
+      <td>Conjunto de ferramentas DevOps</td>
+      <td>Selecionado pela equipe de alunos</td>
+    </tr>
+    <tr>
+      <td>Pipeline</td>
+      <td>Necessário para a implementação: conteinerização, integração contínua, análise de código estático, conformidade com folhas de estilo, automação de teste, pipeline de implantação automatizada e um modo de ramificação de controle de origem</td>
+    </tr>
+    <tr>
+      <td>Padrões OSS</td>
+      <td>Padrões da comunidade OSS devem ser adotados</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="papéis">Papéis</h3>
+
+<p>Cada aluno desempenha um papel único em uma equipe DevOps, que se assemelha a uma equipe de produto, com a responsabilidade coletiva de “Você construiu, você executa”.</p>
+
+<p>As funções, suas responsabilidades e entregas são as seguintes:</p>
+
+<ul>
+  <li><em>Scrum Master/Tech Leader</em>: Responsável pela execução de conceitos e práticas de gerenciamento de projetos. Entregáveis esperados incluem documentação de processo, métricas de produtividade e análise e avaliação contínuas da maturidade das práticas ágeis da equipe.</li>
+  <li><em>Estrategista de Produto</em>: Responsável pela execução de conceitos e práticas de gestão de produto. Essa função deve descrever as personas do usuário, como o produto se encaixa no mercado atual e como atingirá as metas de negócios. Entregáveis esperados incluem planos de produtos, roteiro, plano de negócios, testes de usabilidade e identidade visual do produto.</li>
+  <li><em>Arquiteto de Software</em>: Responsável pela execução de conceitos e práticas de gerenciamento de produtos e categorias de processo de construção. Essa função lida com o aplicativo e seu fluxo de dados definindo estruturas, ferramentas e tecnologias. Entregáveis esperados incluem definição e documentação de arquitetura, seleção de linguagem de programação, uso de serviços externos (Open Source), reutilização de funcionalidades e integração de serviços e definição de critérios de qualidade.</li>
+  <li><em>Engenheiro de Release/DevOps</em>: Responsável pela execução de conceitos e práticas das categorias de integração contínua, automação de implantação e monitoramento e registro. Essa função define os estágios do pipeline de implantação, as ferramentas de automação, configura esse pipeline nos ambientes de preparação e produção. Entregáveis esperados incluem documentação, implementação de estágios de pipeline, automação de implantação contínua e testes automatizados. Monitorar o ambiente de produção é opcional.</li>
+  <li><em>Equipe de Desenvolvimento</em>: Implementa o backlog do produto em funcionalidade potencialmente entregável seguindo tecnologias estabelecidas e critérios de qualidade. Entregáveis esperados incluem o código-fonte do projeto, testes de unidade, comunicação via problemas e execução de práticas de software de código aberto.</li>
+  <li><em>Professor</em>: Auxilia no gerenciamento de riscos, apresenta conceitos teóricos relacionados ao DevOps e facilita a comunicação com outras partes interessadas.</li>
+  <li><em>Instrutor</em>: Auxilia a equipe com treinamento e feedback sobre ferramentas, tecnologias e melhores práticas no desenvolvimento de produtos de software de código aberto. Eles ajudam na cultura de colaboração e compartilham suas lições aprendidas.</li>
+</ul>
+
+<p>É dada aos alunos total autonomia para auto-organização, para que pudessem experimentar trabalhar em um ambiente similar a empresas. Os alunos recebem total autonomia para decidir como querem organizar suas equipes. A maioria dos alunos se destaca com a autonomia total e elogiou o aspecto de autoaprendizagem do curso. Como um aluno explicou: <em>“A diferença crucial neste curso que o destaca de todas as outras ofertas de cursos na universidade é a imensa mudança em direção à autoaprendizagem e independência de uma equipe de ensino/apoio. A quantidade de trabalho necessária rapidamente aumentou de um sprint para o próximo - o que significou que eu precisava explorar novas abordagens para aprender e, mais importante, colaborar com os outros”</em>.</p>
+
+<h3 id="tópicostemas-de-projetos">Tópicos/Temas de projetos</h3>
+
+<p>Os temas do projeto são apresentados no primeiro dia e sugeridos por praticantes, ex-alunos e potenciais clientes, dando às equipes autonomia para escolher o escopo do projeto, a stack tecnologica, a arquitetura de software e as ferramentas de automação.</p>
+
+<p>Com o objetivo de simular a experiência de múltiplas equipes da indústria, o projeto deste ano envolveu a concepção e implementação de um software de agendamento de cursos universitários para o departamento de Engenharia de Software e Ciência da Computação da nossa universidade, utilizando práticas Scrum. Apesar de parecer um projeto simples, considerou-se que ambos os departamentos não possuíam atualmente um programa de agendamento de cursos.</p>
+
+<p>Hence, the requirements for this project included allowing users to</p>
+
+<p>As restrições do projeto são importantes para limitar o escopo do projeto, estabelecer os critérios e checklist de avaliação, orientar o planejamento, execução e priorização das tarefas. Elas também ajudam os instrutores a avaliar continuamente os riscos do projeto e dar feedback constante às equipes, de acordo com os limites definidos pelas restrições. A comunidade OSS tem uma série de padrões recomendados com foco na construção de comunidades acolhedoras. Essas práticas visam manter normas, qualidade de código, padrões técnicos, comunicação, disseminação de conhecimento, conscientização da equipe, compartilhamento de propriedade e dar boas-vindas continuamente aos novos membros. Não abordamos neste trabalho os critérios detalhados de avaliação dos alunos. Baseados fortemente nas comunidades e padrões OSS, definimos um conjunto de restrições de projeto para orientar a tomada de decisão dos alunos:</p>
+
+<ul>
+  <li>Ambientes: cada equipe deve ter ambientes de teste e produção disponíveis;</li>
+  <li>Padrões OSS: os padrões da comunidade OSS devem ser adotados. Padronização e problemas de modelo, modelo de branch de controle de origem, documentação do projeto, pipeline de implantação, comunicação de problemas e feedback em Pull Requests são exemplos de padrão OSS;</li>
+  <li>Ciclos de entrega: existem dois lançamentos oficiais significativos no curso, nos quais as equipes apresentam suas soluções a um conselho de avaliação.</li>
+</ul>
+
+<p>Regenerate response</p>
+
+<h3 id="práticas-obrigatórias">Práticas Obrigatórias</h3>
+
+<h3 id="entregáveis">Entregáveis</h3>
+
+<p>Embora o foco principal do curso fosse o desenvolvimento do projeto para avaliar o resultado da aprendizagem, foram estabelecidos alguns outros entregáveis ao longo do período. A lista de entregáveis inclui:</p>
+
+<ul>
+  <li>Documento de especificação de requisitos (Roadmap, StoryMap)</li>
+  <li>Planejamento, demonstração e retrospectiva para cada sprint</li>
+  <li>Revisão por pares para cada sprint</li>
+  <li>Logbook para cada sprint</li>
+  <li>4 postagens de blog reflexivas baseadas em leituras obrigatórias</li>
+  <li>Documentação do projeto  de acordo com padrões de Software Livre e relatório final (Release notes)</li>
+  <li>Apresentação final</li>
+</ul>
+
+<p>O logbook, ou diário de bordo, é uma ferramenta utilizada para cada aluno registrar as atividades realizadas pelos durante cada sprint, bem como o número de horas dedicadas a cada uma delas. Essa prática permite uma melhor gestão do tempo e das atividades, além de facilitar o monitoramento do progresso individual de cada estudante.</p>
+
+<p>Na última semana, cada equipe é solicitada a apresentar uma demonstração ao vivo da solução para o cliente e realizar uma apresentação final. Além disso, cada equipe escreve um relatório final contendo todas as decisões de projeto, suposições e resultados obtidos.</p>
+
+<h3 id="timeline-do-projeto">Timeline do projeto</h3>
+
+<p>A metodologia apresentada pode ser aplicada em vários timelines.</p>
+
+<h2 id="acompanhamento--feedback-contínuo">Acompanhamento + feedback contínuo</h2>
+
+<h2 id="práticas">Práticas</h2>
+<p>The labs on the other hand, consisted of sprint activities such as planning, demo and retrospectives</p>
+
+<h2 id="sessões-teóricas">Sessões Teóricas</h2>
+
+<p>Durante o curso, os alunos participaram de aulas teóricas, palestras e painéis de discussão sobre tópicos como: habilidades críticas de engenharia de software, regras não ditas para iniciar sua carreira, coordenação e comunicação, gestão do conhecimento, cultura e confiança. Nos painéis, eles tem a oportunidade de compartilhar suas experiências de trabalho no projeto e aprender com os painelistas da indústria.</p>
+
+<p>Além disso, os alunos são desafiados a escrever reflexões em postagens de blog, conectando os tópicos com suas experiências e projetos. Por exemplo, eles poderiam escrever sobre como a coordenação e a comunicação foram importantes para o sucesso do projeto de programação de cursos. Essas atividades ajudaram os alunos a refletir sobre suas habilidades e conhecimentos e a aplicá-los no contexto do projeto.</p>
+
+<h2 id="entregáveis--avaliação">Entregáveis + avaliação</h2>
+
+<h1 id="parte-iii---melhoria-contínua">Parte III - Melhoria Contínua</h1>
+
+<h2 id="retrospectiva-e-pontos-de-melhoria">Retrospectiva e pontos de melhoria</h2>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Visão Geral]]></summary></entry><entry><title type="html">Conceitos, práticas, cultura</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html" rel="alternate" type="text/html" title="Conceitos, práticas, cultura" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Conceitos</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html"><![CDATA[<blockquote class="block-tip">
   <h5 id="dica">Dica</h5>
 
   <p>O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
@@ -33,6 +188,8 @@ além da mentoria/liderança serem crucial para o compartilhamento de práticas 
   <li>Acompanhamento: Durante as primeiras semanas, é importante que o novo colaborador receba um acompanhamento para esclarecer dúvidas e orientá-lo sobre as expectativas da empresa.</li>
 </ul>
 
+<p><img src="../assets/figs/boss.png" alt="image" /></p>
+
 <p>Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
 
 <ul>
@@ -41,8 +198,6 @@ além da mentoria/liderança serem crucial para o compartilhamento de práticas 
   <li>Treinamento: capacitar o novo colaborador para desempenhar suas funções.</li>
   <li>Acompanhamento: oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila.</li>
 </ul>
-
-<p><img src="../assets/figs/boss.png" alt="image" /></p>
 
 <blockquote class="block-tip">
   <h5 id="ideia-principal">Ideia Principal</h5>
@@ -71,6 +226,8 @@ além da mentoria/liderança serem crucial para o compartilhamento de práticas 
   <li><strong>Experimentação ativa</strong>: por fim, os alunos são encorajados a aplicar os conceitos e teorias formulados em novas experiências, para verificar sua validade e eficácia.</li>
 </ul>
 
+<p><img src="../assets/figs/experiential-1.png" alt="image" /></p>
+
 <p>Esse ciclo de aprendizagem se repete continuamente, permitindo que os alunos ampliem e aprofundem seus conhecimentos e habilidades ao longo do tempo. Para que esse modelo seja efetivo, é importante que os educadores ofereçam um ambiente seguro e estimulante para as experiências, promovam a reflexão e a discussão das observações, incentivem a formulação de conceitos e teorias e apoiem os alunos em sua experimentação ativa.</p>
 
 <p>Um dos elementos-chave do modelo de aprendizagem experiencial é que ele requer um certo nível de autodescoberta e aprendizagem autônoma. A metodologia aqui apresentada é estruturada em quatro etapas. A primeira etapa, <strong>de luta</strong>, é quando os alunos são desafiados a experimentar algo novo, a se envolver em uma tarefa ou projeto que esteja fora de sua zona de conforto. Nessa fase, o objetivo é criar um senso de urgência e motivação nos alunos, incentivando-os a se engajar ativamente no processo de aprendizagem.</p>
@@ -83,13 +240,11 @@ além da mentoria/liderança serem crucial para o compartilhamento de práticas 
 
 <p>Para apoiar essas quatro etapas, uso uma variedade de métodos de ensino digital, como fóruns de discussão online e plataformas de colaboração. Cada método é escolhido com base nas necessidades específicas de cada etapa do processo de aprendizagem, ajudando os alunos a se engajar ativamente e a criar um ambiente de aprendizagem colaborativa e significativa.</p>
 
+<p><img src="../assets/figs/experiential-2.png" alt="image" /></p>
+
 <p>Já a aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores.  Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.</p>
 
 <p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
-
-<p><img src="../assets/figs/experiential-1.png" alt="image" /></p>
-
-<p><img src="../assets/figs/experiential-2.png" alt="image" /></p>
 
 <blockquote class="block-tip">
   <h5 id="ideia-principal">Ideia Principal</h5>
