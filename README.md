@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Liderando Onboarding  - Como acelerar o aprendizado e disseminar cultura de inovação ágil
+title: Readme
 permalink: /
 ---
 

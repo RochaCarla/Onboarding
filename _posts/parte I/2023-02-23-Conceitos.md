@@ -1,7 +1,7 @@
 ---
-title: Aprendizado orientado à Experiência - Princípios básicos
+title: Conceitos, práticas, cultura
 author: Carla Rocha
-date: 2023-02-20
+date: 2023-03-03
 category: Jekyll
 layout: post
 ---

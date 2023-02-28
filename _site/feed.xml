@@ -1,19 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/livro-Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/livro-Onboarding/" rel="alternate" type="text/html" /><updated>2023-02-25T12:01:50-03:00</updated><id>http://localhost:4000/livro-Onboarding/feed.xml</id><title type="html">Métodos de Desenvolvimento de Software</title><subtitle>Build Jekyll site with the GitBook style.
-</subtitle><author><name>Carla Rocha</name></author><entry><title type="html">Aprendizado orientado à Experiência - Princípios básicos</title><link href="http://localhost:4000/livro-Onboarding/jekyll/2023-02-20-Metodos-de-Desenvolvimento-de-Software.html" rel="alternate" type="text/html" title="Aprendizado orientado à Experiência - Princípios básicos" /><published>2023-02-20T00:00:00-03:00</published><updated>2023-02-20T00:00:00-03:00</updated><id>http://localhost:4000/livro-Onboarding/jekyll/Metodos-de-Desenvolvimento-de-Software</id><content type="html" xml:base="http://localhost:4000/livro-Onboarding/jekyll/2023-02-20-Metodos-de-Desenvolvimento-de-Software.html"><![CDATA[<p>Aprendizagem orientada a experiência e aprendizagem orientada a projetos são abordagens de ensino cada vez mais utilizadas na área de engenharia de software e métodos ágeis. Essas abordagens colocam o estudante no centro do processo de aprendizagem, permitindo que ele vivencie situações reais e desafiadoras de desenvolvimento de software. Quando combinadas com o desenvolvimento de um projeto open source e padrões de comunidades open source, essas abordagens oferecem ainda mais benefícios para a formação dos estudantes.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/livro-Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/livro-Onboarding/" rel="alternate" type="text/html" /><updated>2023-02-28T12:01:30-03:00</updated><id>http://localhost:4000/livro-Onboarding/feed.xml</id><title type="html">Métodos de Desenvolvimento de Software</title><subtitle>Build Jekyll site with the GitBook style.
+</subtitle><author><name>Carla Rocha</name></author><entry><title type="html">Conceitos, práticas, cultura</title><link href="http://localhost:4000/livro-Onboarding/jekyll/2023-02-23-Conceitos.html" rel="alternate" type="text/html" title="Conceitos, práticas, cultura" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/livro-Onboarding/jekyll/Conceitos</id><content type="html" xml:base="http://localhost:4000/livro-Onboarding/jekyll/2023-02-23-Conceitos.html"><![CDATA[<blockquote class="block-tip">
+  <h5 id="dica">Dica</h5>
 
-<p>A aprendizagem orientada a experiência permite que os estudantes aprendam de forma significativa e duradoura. Em vez de apenas receber informações teóricas, eles são colocados em situações reais de aprendizado, em que podem aplicar os conceitos teóricos aprendidos e vivenciar na prática os desafios enfrentados na área de engenharia de software. Dessa forma, a aprendizagem orientada a experiência promove a reflexão sobre as experiências vivenciadas, permitindo que os estudantes extraiam lições relevantes para sua formação.</p>
+  <p>O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
+além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura</p>
+</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Dica O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura]]></summary></entry><entry><title type="html">Processo de Onboarding - Princípios básicos</title><link href="http://localhost:4000/livro-Onboarding/jekyll/2023-02-21-Intro.html" rel="alternate" type="text/html" title="Processo de Onboarding - Princípios básicos" /><published>2023-02-21T00:00:00-03:00</published><updated>2023-02-21T00:00:00-03:00</updated><id>http://localhost:4000/livro-Onboarding/jekyll/Intro</id><content type="html" xml:base="http://localhost:4000/livro-Onboarding/jekyll/2023-02-21-Intro.html"><![CDATA[<p><em>Onboarding</em> refere-se ao processo que surge ao incorporar novos desenvolvedores em uma equipe de desenvolvimento de software.</p>
 
-<p>Já a aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores. Esse tipo de aprendizado é particularmente eficaz na engenharia de software, em que a prática é essencial para o desenvolvimento de habilidades profissionais. Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.</p>
+<p>Em uma Linha de Produtos de Software, o <em>onboarding</em> de novos desenvolvedores pode ser ainda mais complexo, pois essas equipes trabalham em sistemas complexos e altamente personalizáveis. Além disso, os novos desenvolvedores precisam entender os diferentes componentes e variantes da linha de produtos, bem como as práticas e convenções de desenvolvimento específicas da equipe. Esse processo pode levar várias semanas ou até meses, o que pode ter um impacto significativo na produtividade da equipe e na qualidade do software produzido.</p>
 
-<p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
+<p>Para lidar com esses desafios, as equipes de desenvolvimento de software podem utilizar diferentes estratégias de <em>onboarding</em>, como a criação de um programa de treinamento formal, a documentação detalhada do código e do processo de desenvolvimento, e a utilização de ferramentas de suporte ao desenvolvimento colaborativo, como wikis e sistemas de controle de versão. Além disso, as equipes podem contar com a ajuda de mentorias, onde os desenvolvedores mais experientes trabalham em estreita colaboração com os novos membros da equipe para ajudá-los a se adaptarem ao novo ambiente de trabalho.</p>
 
-<p>Além disso, o desenvolvimento de um projeto open source permite que os estudantes aprendam sobre os padrões de comunidades open source, incluindo como contribuir para projetos existentes, como iniciar e gerenciar um projeto open source, e como trabalhar em equipe com desenvolvedores de todo o mundo. Esses padrões são cada vez mais valorizados no mercado de trabalho, tornando essa abordagem de ensino uma excelente oportunidade para que os estudantes desenvolvam habilidades profissionais valiosas.</p>
+<p>Os recém-chegados (<em>newcomers</em>) enfrentam diferentes tipos de barreiras quando são incorporados a um novo projeto de desenvolvimento de software, a saber:</p>
+<ul>
+  <li>barreiras pessoais, que incluem a relutância dos recém-chegados em pedir ajuda a seus colegas no início de seus processos de resolução de problemas por medo de perder tempo</li>
+  <li>barreiras interpessoais, que, por exemplo, referem-se a problemas de comunicação que surgem quando os recém-chegados são incorporados a uma equipe diversificada, onde pessoas diferentes com objetivos diferentes, culturas diferentes e habilidades interpessoais diferentes se reúnem</li>
+  <li>barreiras de processo, onde os recém-chegados encontram dificuldades em ter uma perspectiva holística do software para o qual estão contribuindo e em descobrir por onde começar a trabalhar</li>
+  <li>barreiras técnicas, os recém-chegados frequentemente encontram problemas devido à alta complexidade dos sistemas que estão sendo desenvolvidos [14], [3]. Este problema é acompanhado pela falta de conhecimento prévio do domínio onde ocorre o desenvolvimento</li>
+</ul>
 
-<p>Em resumo, a aprendizagem orientada a experiência, a aprendizagem orientada a projetos e o desenvolvimento de projetos open source e padrões de comunidades open source são abordagens de ensino poderosas para a formação de estudantes em engenharia de software e métodos ágeis. Elas permitem que os estudantes aprendam de forma significativa e duradoura, enfrentando desafios reais e desenvolvendo habilidades profissionais valiosas para sua carreira. Por isso, é fundamental que as instituições de ensino invistam em abordagens de ensino inovadoras e eficazes</p>
+<p>Além disso, essas barreiras também podem levar a um aumento no tempo e no custo do projeto, pois a incorporação de novos desenvolvedores pode atrasar a conclusão de tarefas importantes [3]. Além disso, a qualidade do software desenvolvido pode ser comprometida, pois os recém-chegados podem cometer erros ou não seguir as melhores práticas estabelecidas [14].</p>
+
+<p>Para superar essas barreiras, é necessário implementar estratégias eficazes de onboarding que abordem cada uma das áreas mencionadas acima. Isso pode incluir o uso de ferramentas e tecnologias que facilitem a comunicação e a colaboração entre os membros da equipe, a criação de um ambiente de trabalho acolhedor e inclusivo que incentive os recém-chegados a pedir ajuda e a compartilhar conhecimento, e a implementação de treinamentos e orientações adequados que permitam que os recém-chegados compreendam melhor o processo de desenvolvimento e os sistemas em que estão trabalhando.</p>
+
+<p>Para que o processo de onboarding seja eficaz, é importante que a empresa tenha uma cultura de integração, processos bem definidos e ferramentas adequadas para apoiar a atividade. A cultura de integração é criada a partir do momento em que a empresa valoriza e investe no processo de integração. Os processos bem definidos são aqueles que estabelecem o que deve ser feito em cada etapa do onboarding. As ferramentas incluem desde sistemas de gestão de aprendizagem até manuais e guias que ajudam os novos colaboradores a se orientarem na empresa.</p>
+
+<p>O processo de onboarding pode variar de acordo com a empresa, mas geralmente envolve as seguintes etapas:</p>
+
+<ul>
+  <li>Boas-vindas: Nesta etapa, o novo colaborador é recebido pela equipe e apresentado à empresa, incluindo a missão, visão e valores.</li>
+  <li>Introdução: O novo colaborador recebe informações sobre a cultura e os processos da empresa, além de conhecer os colegas de trabalho.</li>
+  <li>Treinamento: O novo colaborador recebe o treinamento necessário para desempenhar suas funções.</li>
+  <li>Acompanhamento: Durante as primeiras semanas, é importante que o novo colaborador receba um acompanhamento para esclarecer dúvidas e orientá-lo sobre as expectativas da empresa.</li>
+</ul>
+
+<p>Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
+
+<ul>
+  <li>Boas-vindas: criar um ambiente acolhedor e encorajador para o novo colaborador.</li>
+  <li>Introdução: ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho.</li>
+  <li>Treinamento: capacitar o novo colaborador para desempenhar suas funções.</li>
+  <li>Acompanhamento: oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila.</li>
+</ul>
+
+<p><img src="/figs/boss.png" alt="image" /></p>
+
+<blockquote class="block-tip">
+  <h5 id="ideia-principal">Ideia Principal</h5>
+
+  <p>O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
+além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais</p>
+</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Onboarding refere-se ao processo que surge ao incorporar novos desenvolvedores em uma equipe de desenvolvimento de software.]]></summary></entry><entry><title type="html">Ferramentas</title><link href="http://localhost:4000/livro-Onboarding/jekyll/2023-02-21-Ferramentas.html" rel="alternate" type="text/html" title="Ferramentas" /><published>2023-02-21T00:00:00-03:00</published><updated>2023-02-21T00:00:00-03:00</updated><id>http://localhost:4000/livro-Onboarding/jekyll/Ferramentas</id><content type="html" xml:base="http://localhost:4000/livro-Onboarding/jekyll/2023-02-21-Ferramentas.html"><![CDATA[<p>Comunicação - canal unificado e acolhedor</p>
+
+<p>Comunidades abertas - software livre, colaborativos etc</p>
 
 <blockquote class="block-tip">
   <h5 id="dica">Dica</h5>
 
   <p>O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
 além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura</p>
+</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Comunicação - canal unificado e acolhedor]]></summary></entry><entry><title type="html">Aprendizado orientado à Experiência - Princípios básicos</title><link href="http://localhost:4000/livro-Onboarding/jekyll/2023-02-20-Metodos-de-Desenvolvimento-de-Software.html" rel="alternate" type="text/html" title="Aprendizado orientado à Experiência - Princípios básicos" /><published>2023-02-20T00:00:00-03:00</published><updated>2023-02-20T00:00:00-03:00</updated><id>http://localhost:4000/livro-Onboarding/jekyll/Metodos-de-Desenvolvimento-de-Software</id><content type="html" xml:base="http://localhost:4000/livro-Onboarding/jekyll/2023-02-20-Metodos-de-Desenvolvimento-de-Software.html"><![CDATA[<p>Aprendizagem orientada a experiência e aprendizagem orientada a projetos são abordagens de ensino cada vez mais utilizadas na área de engenharia de software e métodos ágeis. Essas abordagens colocam o estudante no centro do processo de aprendizagem, permitindo que ele vivencie situações reais e desafiadoras de desenvolvimento de software. Quando combinadas com o desenvolvimento de um projeto open source e padrões de comunidades open source, essas abordagens oferecem ainda mais benefícios para a formação dos estudantes.</p>
+
+<p>A aprendizagem orientada a experiência permite que os participantes aprendam de forma significativa e duradoura. Em vez de apenas receber informações teóricas, eles são colocados em situações reais de aprendizado, em que podem aplicar os conceitos teóricos aprendidos e vivenciar na prática os desafios enfrentados na área de engenharia de software.</p>
+
+<p>O modelo de referência importante para a construção de um curso eficaz é o modelo de aprendizagem experiencial de David Kolb (Figura 1). Esse modelo sugere que os alunos precisam passar por uma “jornada de descoberta”, onde eles sentem que ganharam a compreensão da lição por meio do processo experiencial de chegar lá. O ciclo de Kolb é composto de quatro etapas principais:</p>
+
+<ul>
+  <li><strong>Experiência concreta</strong>: é a fase inicial, onde os participantes são expostos a uma experiência real e concreta, no nosso caso, um projeto de Software.</li>
+  <li><strong>Observação reflexiva</strong>: após a experiência, os participantes são incentivados a refletir sobre o que aconteceu, a analisar as causas e consequências e a identificar padrões e tendências.</li>
+  <li><strong>Conceitualização abstrata</strong>: com base nas observações e reflexões, os participantes são convidados a formular conceitos, teorias e hipóteses que expliquem o que aconteceu e que possam ser aplicados em outras situações.</li>
+  <li><strong>Experimentação ativa</strong>: por fim, os alunos são encorajados a aplicar os conceitos e teorias formulados em novas experiências, para verificar sua validade e eficácia.</li>
+</ul>
+
+<p>Esse ciclo de aprendizagem se repete continuamente, permitindo que os alunos ampliem e aprofundem seus conhecimentos e habilidades ao longo do tempo. Para que esse modelo seja efetivo, é importante que os educadores ofereçam um ambiente seguro e estimulante para as experiências, promovam a reflexão e a discussão das observações, incentivem a formulação de conceitos e teorias e apoiem os alunos em sua experimentação ativa.</p>
+
+<p>Um dos elementos-chave do modelo de aprendizagem experiencial é que ele requer um certo nível de autodescoberta e aprendizagem autônoma. A metodologia aqui apresentada é estruturada em quatro etapas. A primeira etapa, <strong>de luta</strong>, é quando os alunos são desafiados a experimentar algo novo, a se envolver em uma tarefa ou projeto que esteja fora de sua zona de conforto. Nessa fase, o objetivo é criar um senso de urgência e motivação nos alunos, incentivando-os a se engajar ativamente no processo de aprendizagem.</p>
+
+<p>A segunda etapa, <strong>de estruturar</strong>, envolve ajudar os alunos a organizar suas observações e reflexões, a fim de extrair significado e compreensão a partir de suas experiências. Isso pode ser feito por meio de discussões em grupo, anotações individuais, mind maps ou outras ferramentas que ajudem os alunos a organizar suas ideias.</p>
+
+<p>A terceira etapa, <strong>de sistematizar</strong>, é quando os alunos começam a aplicar conceitos e teorias para dar sentido às suas observações e reflexões. Essa etapa envolve a construção de conexões entre a experiência e o conhecimento adquirido, ajudando os alunos a formular ideias mais amplas e abstratas.</p>
+
+<p>Por fim, a quarta etapa, <strong>de sintetizar</strong>, é quando os alunos consolidam suas aprendizagens, integrando seus novos conhecimentos e habilidades em suas vidas cotidianas. Nessa etapa, é importante incentivar os alunos a refletir sobre o que aprenderam e como podem aplicar suas novas habilidades em sua vida profissional ou pessoal.</p>
+
+<p>Para apoiar essas quatro etapas, uso uma variedade de métodos de ensino digital, como fóruns de discussão online e plataformas de colaboração. Cada método é escolhido com base nas necessidades específicas de cada etapa do processo de aprendizagem, ajudando os alunos a se engajar ativamente e a criar um ambiente de aprendizagem colaborativa e significativa.</p>
+
+<p>Já a aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores.  Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.</p>
+
+<p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
+
+<p><img src="/figs/experiential-1.png" alt="image" /></p>
+
+<p><img src="/figs/experiential-2.png" alt="image" /></p>
+
+<blockquote class="block-tip">
+  <h5 id="ideia-principal">Ideia Principal</h5>
+
+  <p>O principal foco da metodologia apresentada é criar a “jornada de descoberta”, para que 
+o aluno tenha aprendizagem autônoma, além de práticas e cultura alinhadas com demandas do mercado</p>
 </blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Aprendizagem orientada a experiência e aprendizagem orientada a projetos são abordagens de ensino cada vez mais utilizadas na área de engenharia de software e métodos ágeis. Essas abordagens colocam o estudante no centro do processo de aprendizagem, permitindo que ele vivencie situações reais e desafiadoras de desenvolvimento de software. Quando combinadas com o desenvolvimento de um projeto open source e padrões de comunidades open source, essas abordagens oferecem ainda mais benefícios para a formação dos estudantes.]]></summary></entry></feed>
