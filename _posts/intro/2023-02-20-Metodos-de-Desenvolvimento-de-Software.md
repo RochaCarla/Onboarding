@@ -33,9 +33,9 @@ Já a aprendizagem orientada a projetos desafia os estudantes a resolver problem
 
 Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.
 
-![image](/figs/experiential-1.png)
+![image](../assets/figs/experiential-1.png)
 
-![image](/figs/experiential-2.png)
+![image](../assets/figs/experiential-2.png)
 
 > ##### Ideia Principal
 >
