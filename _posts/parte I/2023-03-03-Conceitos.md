@@ -50,7 +50,7 @@ A partir do Manifesto Ágil, foram desenvolvidos diversos frameworks e métodos 
 
 ### Metodologias Ágeis
 
-No que diz respeito às Pessoas, as metodologias ágeis enfatizam a importância do relacionamento entre as pessoas e buscam melhorar esse relacionamento por meio de práticas como retrospectivas, liderança servil e design centrado no usuário. O objetivo é criar um ambiente colaborativo e produtivo em que as pessoas possam se comunicar de forma clara e trabalhar juntas para alcançar os objetivos do projeto.
+Valores ou "cultura" são fundamentais em software! No que diz respeito às Pessoas, as metodologias ágeis enfatizam a importância do relacionamento entre as pessoas e buscam melhorar esse relacionamento por meio de práticas como retrospectivas, liderança servil e design centrado no usuário. O objetivo é criar um ambiente colaborativo e produtivo em que as pessoas possam se comunicar de forma clara e trabalhar juntas para alcançar os objetivos do projeto.
 
 Em relação ao Processo, as metodologias ágeis trazem melhorias na forma como as equipes trabalham e nos processos que elas seguem. Esses processos são mais eficientes, com métricas que permitem visibilidade e ferramentas que possibilitam a melhoria contínua. Os processos são mais leves do que os métodos tradicionais, o que os torna mais flexíveis e adaptáveis às mudanças.
 

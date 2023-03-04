@@ -1,161 +1,49 @@
 ---
 layout: home
-title: Readme
+title: Apresentação
 permalink: /
 ---
 
 
+A maioria das empresas de tecnologia trabalhava com uma abordagem mais tradicional e sequencial, conhecida como "cascata". Essa abordagem envolve uma fase de planejamento detalhado, seguida por uma fase de design, depois uma fase de implementação e, finalmente, uma fase de testes.
 
-## How to Get Started
+No entanto, com a crescente complexidade dos projetos de software, muitas empresas perceberam que essa abordagem era muito rígida e inflexível. Surgiu então a metodologia ágil, que se concentra em colaboração, iteração e flexibilidade.
 
-This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
-see [the official guide][13] as well.
+Para acelerar o aprendizado e disseminar a cultura de inovação ágil, é importante que as empresas invistam em treinamento e desenvolvimento para seus funcionários. Isso pode incluir cursos de treinamento específicos sobre metodologias ágeis, como Scrum e Kanban, bem como a criação de equipes multidisciplinares e grupos de discussão para compartilhar ideias e práticas.
 
-You can introduce this jekyll theme into your own site by either
+Além disso, as empresas devem incentivar seus funcionários a experimentar novas ideias e abordagens. Isso pode envolver a criação de um ambiente seguro para tentativas e erros, bem como a celebração dos sucessos e aprendizados.
 
-- [Fork][3] this repository and add your markdown posts to the `_posts` folder.
-- Use as a remote theme in your [`_config.yml`][14](just like what we do for this
-  site itself),
+Outra maneira de acelerar o aprendizado e disseminar a cultura de inovação ágil é por meio da implementação de ferramentas e tecnologias que suportem o processo de desenvolvimento ágil. Isso pode incluir ferramentas de gerenciamento de projetos, ferramentas de colaboração e comunicação, bem como plataformas de automação e integração contínua.
 
-```yaml
-remote_theme: sighingnow/jekyll-gitbook
-```
+Em resumo, para acelerar o aprendizado e disseminar a cultura de inovação ágil, as empresas devem investir em treinamento e desenvolvimento, incentivar a experimentação e implementar ferramentas e tecnologias que suportem o processo de desenvolvimento ágil. Com essas medidas, as empresas podem criar equipes mais produtivas e inovadoras, capazes de lidar com os desafios da indústria de tecnologia em constante evolução.
 
-### Deploy Locally with Jekyll Serve
 
-This theme can be ran locally using Ruby and Gemfiles.
 
-[Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
+## O que você encontrará aqui
 
-## Full-text search
 
-The search functionality in jekyll-gitbook theme is powered by the [gitbook-plugin-search-pro][5] plugin and is enabled by default.
+## Como surgiu o livro que você tem em mãos
 
-[https://sighingnow.github.io/jekyll-gitbook/?q=generated](https://sighingnow.github.io/jekyll-gitbook/?q=generated)
+Inicialmente, é importante discutir os elementos que, em minha opinião, são fundamentais para compor a estrutura de um curso eficiente, independentemente de ser presencial ou online. Acredito que a aprendizagem dos alunos é mais significativa quando eles experimentam as seguintes condições:
 
-## Code highlight
+- **Ativa participação**: os estudantes são incentivados a participar ativamente das atividades, discussões e projetos propostos pelo curso, o que os torna protagonistas do processo de aprendizagem;
+- **Responsabilidade pela própria aprendizagem**: é fundamental que os alunos sejam encorajados a assumir a responsabilidade por seu próprio aprendizado, o que os estimula a buscar o conhecimento e a resolver problemas de forma autônoma;
+- **Controle significativo sobre a experiência**: os alunos devem ter um papel ativo na construção de sua própria experiência de aprendizagem, podendo escolher entre diferentes abordagens e metodologias, de acordo com suas necessidades e interesses.
 
-The code highlight style is configurable the following entry in `_config.yaml`:
+Essas condições são essenciais para que os alunos se sintam motivados e engajados, desenvolvam habilidades e competências relevantes e, consequentemente, alcancem melhores resultados em seu processo de aprendizagem.
 
-```yaml
-syntax_highlighter_style: colorful
-```
+Para alcançar esses objetivos, é fundamental que nós, como educadores, atuemos como facilitadores da aprendizagem, orientando a experiência de forma cuidadosa e respeitando a autonomia dos alunos. Nesse sentido, é importante adotar uma postura mais flexível e adaptativa, permitindo que os estudantes tenham a liberdade de explorar, experimentar e descobrir, com o apoio e a supervisão necessários. Desse modo, poderemos oferecer um ensino mais personalizado, que atenda às necessidades individuais dos alunos e promova o desenvolvimento de habilidades e competências relevantes para o seu futuro.
 
-The default code highlight style is `colorful`, the full supported styles can be found from [the rouge repository][6]. Customized
-style can be added to [./assets/gitbook/rouge/](./assets/gitbook/rouge/).
 
-## How to generate TOC
+Essa metodologia já foi aplicada com sucesso em diversas disciplinas, bem como em programas de mentoria e residência TIC. Um exemplo bem-sucedido é o programa de mentoria Big Open Source Siblings - BOSS ([https://github.com/BOSS-BigOpenSourceSister/BigSister](https://github.com/BOSS-BigOpenSourceSister/BigSister)), cuja metodologia foi premiada pelo GNOME Community Engagement Challenge ([https://www.gnome.org/challenge/](https://www.gnome.org/challenge/)). Em um concurso que contou com a participação de 150 projetos, o BOSS conquistou o primeiro lugar, comprovando a eficácia da metodologia na promoção de uma aprendizagem significativa e colaborativa. Além disso, a metodologia já foi experiênciada por mais de 500 alunos de graduação do curso de Engenharia de Software da Universidade de Brasília ([https://github.com/fga-eps-mds](https://github.com/fga-eps-mds)).
 
-The jekyll-gitbook theme leverages [jekyll-toc][4] to generate the *Contents* for the page.
-The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
-configuration in `_config.yml`:
+Esses resultados evidenciam a importância de uma abordagem mais personalizada e flexível na educação, que valorize o protagonismo dos alunos e sua participação ativa na construção do conhecimento. Além disso, mostram que é possível inovar e reinventar práticas pedagógicas, por meio do uso criativo de tecnologias e metodologias de ensino.
 
-```yaml
-toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
-```
 
-## Google Analytics, etc.
+![image](./assets/figs/gpp_mds.png)
 
-The jekyll-gitboook theme supports embedding the [Google Analytics][7], [CNZZ][8] and [Application Insights][9] website analytical tools with the following
-minimal configuration in `_config.yaml`:
 
-```yaml
-tracker:
-  google_analytics: "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
-```
 
-Similarly, CNZZ can be added with the following configuration in `_config.yaml`
+## Licença
 
-```yaml
-tracker:
-  cnzz: "<YOUR CNZZ ANALYTICS KEY, e.g., xxxxxxxx>"
-```
-
-Application Insights can be added with the following configuration in `_config.yaml`
-
-```yaml
-tracker:
-  application_insights: "<YOUR APPLICATION INSIGHTS CONNECTION STRING>"
-```
-
-## Extra StyleSheet or Javascript elements
-
-You can add extra CSS or JavaScript references using configuration collections:
-
-- extra_css: for additional style sheets. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-- extra_header_js: for additional scripts to be included in the `<head>` tag, after the `extra_css` has been added. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-- extra_footer_js: for additional scripts to be included at the end of the HTML document, just before the site tracking script. If the url does not start by http, the path must be relative to the root of the site, without a starting `/`.
-
-## Customizing font settings
-
-The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
-
-```css
-.book.font-family-0 {
-    font-family: Georgia, serif;
-}
-.book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-```
-
-## Tips, Warnings and Dangers blocks
-
-The jekyll-gitbook theme supports customized kramdown attributes (`{: .block-tip }`, `{: .block-warning }`,
-`{: .block-danger }`) like that displayed in [the discord.js website][11]. The marker can be used like
-
-```markdown
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-```
-
-Rendered page can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html)
-
-## Cover image inside pages
-
-The jekyll-gitbook theme supports adding a cover image to a specific page by adding
-a `cover` field to the page metadata:
-
-```diff
-  ---
-  title: Page with cover image
-  author: Tao He
-  date: 2022-05-24
-  category: Jekyll
-  layout: post
-+ cover: /assets/jekyll-gitbook/dinosaur.gif
-  ---
-```
-
-The effect can be previewed from
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
-
-## License
-
-This work is open sourced under the Apache License, Version 2.0.
-
-Copyright 2019 Tao He.
-
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
-[4]: https://github.com/allejo/jekyll-toc
-[5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
-[6]: https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
-[7]: https://analytics.google.com/analytics/web/
-[8]: https://www.cnzz.com/
-[9]: https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
-[10]: https://github.com/sighingnow/jekyll-gitbook/blob/master/gitbook/custom.css
-[11]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
-[12]: https://rubygems.org/gems/jekyll-remote-theme
-[13]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-[14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
+Copyright 2023 Carla Rocha.
