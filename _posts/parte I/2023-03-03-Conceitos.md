@@ -1,20 +1,31 @@
 ---
-title: Parte I - Desenvolvimento de Software Ágil
+title: Parte I - Cultura de Inovação Ágil
 author: Carla Rocha
 date: 2023-02-23
 category: Jekyll
 layout: post
 ---
 
-
-
-# Introdução
+# Ciclo de Desenvolvimento de Projeto de Software 
 
 Esse capítulo é dedicado à instrutores, professores, gestores que tem interesse em 
 
-## Métodos Ágeis
 
-### Manifesto ágil
+![image](../assets/figs/LDSP.png)
+
+Saída do Ciclo de desenvolvimento de projto de Software
+
+ - **Prova de conceito (PoC)**: É uma demonstração de um conceito ou ideia para verificar a sua viabilidade ou para avaliar se é possível implementar algo. Geralmente, a PoC é uma versão simplificada do produto ou solução final, desenvolvida para validar a tecnologia, a arquitetura ou as funcionalidades-chave do projeto.
+- **Mínimo Produto Viável (MVP)**: É a versão mais básica de um produto ou serviço que pode ser lançada no mercado para validar a sua aceitação pelos clientes. O MVP é desenvolvido com o objetivo de obter feedback dos usuários e testar hipóteses sobre o produto, sem a necessidade de investir muito tempo e recursos em seu desenvolvimento.
+- **Release de software**: É a versão de um produto de software que é lançada para uso público. A release inclui as funcionalidades desenvolvidas e testadas até aquele momento, com o objetivo de fornecer aos usuários uma versão estável e confiável do produto. Cada release é numerada e pode incluir correções de bugs, melhorias de desempenho e novas funcionalidades em relação às versões anteriores. As releases são normalmente numeradas seguindo um esquema de versionamento, como o SemVer (Semantic Versioning).
+
+
+
+
+
+# Métodos Ágeis
+
+## Manifesto ágil
 
 Em fevereiro de 2001, nos Estados Unidos, 17 desenvolvedores de software iniciaram um movimento que se tornaria a base para a criação dos frameworks e métodos ágeis. Insatisfeitos com os resultados obtidos na adoção das metodologias existentes, o grupo criou uma declaração de valores e princípios que representam uma maneira melhor de desenvolver software.
 
@@ -48,7 +59,7 @@ Esses desenvolvedores não criaram um novo método específico, mas sim um conju
 
 A partir do Manifesto Ágil, foram desenvolvidos diversos frameworks e métodos ágeis, como Scrum, XP (Extreme Programming), Kanban, entre outros, que buscam implementar esses valores e princípios em práticas específicas de desenvolvimento de software. O Manifesto Ágil é um marco importante na história do desenvolvimento de software e continua a ser uma influência significativa na maneira como projetos de software são gerenciados e executados atualmente.
 
-### Metodologias Ágeis
+## Metodologias Ágeis
 
 Valores ou "cultura" são fundamentais em software! No que diz respeito às Pessoas, as metodologias ágeis enfatizam a importância do relacionamento entre as pessoas e buscam melhorar esse relacionamento por meio de práticas como retrospectivas, liderança servil e design centrado no usuário. O objetivo é criar um ambiente colaborativo e produtivo em que as pessoas possam se comunicar de forma clara e trabalhar juntas para alcançar os objetivos do projeto.
 
@@ -61,23 +72,36 @@ Finalmente, um conceito chave das metodologias ágeis é o *Time-Box*. O conceit
 
 ### Scrum - Produtividade da Equipe
 
-O Scrum é um framework ágil de gestão de projetos que visa entregar valor de forma iterativa e incremental. Ele se baseia em um processo iterativo e incremental que permite à equipe de desenvolvimento se adaptar rapidamente a mudanças, aumentando assim a eficácia da equipe. Foi proposto pelo Jeff Sutherland, e o guia completo do Scrum é constantemente atualizado e disponibilizado em português [aqui](https://scrumguides.org/index.html).
 
-- Objetivo 
-- Princípios
-- Práticas
+O Scrum é um framework ágil que visa a entrega de produtos complexos. Embora tenha sido inicialmente proposto para projetos de desenvolvimento de software, ele pode ser aplicado em qualquer contexto de projetos complexos e inovadores, especialmente aqueles com requisitos emergentes ou que mudam rapidamente. Foi proposto pelo Jeff Sutherland, e o guia completo do Scrum é constantemente atualizado e disponibilizado em português [aqui](https://scrumguides.org/index.html).
+
+> ##### Objetivo
+>
+> O principal objetivo do Scrum é oferecer um framework ágil para o desenvolvimento, entrega e sustentação de produtos complexos. 
+> Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizando assim a produtividade e entrega.
+{: .block-tip }
+
+Uma das características essenciais do Scrum é a formação de um time colaborativo, multifuncional e auto-organizado. A equipe é responsável pela entrega do produto e deve trabalhar de forma alinhada e conjunta para alcançar os objetivos definidos. No Scrum, o processo é dividido em sprints, períodos de tempo curtos que geralmente variam entre uma a quatro semanas, nos quais o time se concentra em uma parte específica do produto e trabalha para entregá-la até o final da sprint.
+
+O Scrum é composto por papéis, eventos e artefatos. Os papéis incluem o Scrum Master, o Product Owner e o time de desenvolvimento. Os eventos incluem a sprint, a reunião diária, a revisão da sprint e a retrospectiva da sprint. Os artefatos incluem a lista do produto, a lista da sprint e o incremento do produto. Por ser um framework flexível e adaptável, o Scrum pode ser utilizado em diferentes tipos de projetos, desde que a equipe esteja comprometida com os valores e princípios do framework.
 
 ![image](../assets/figs/scrum.png)
 
 ### Extreme Programming (XP) - Produtividade do Código
 
-O prim
+Extreme Programming, conhecido como XP, busca unir toda a equipe de desenvolvimento de software em torno de metas comuns e alcançáveis. Usando os valores e princípios do XP, as equipes aplicam as práticas apropriadas em seu próprio contexto, escolhendo aquelas que incentivam a criatividade humana e aceitam a fragilidade humana. Equipes XP produzem software de qualidade a um ritmo sustentável.
 
-Valores
+> ##### Objetivo
+>
+> O principal objetivo do XP é alcançar resultados de software excepcionais, com um desenvolvimento mais eficiente e efetivo e menos defeitos do que é esperado atualmente 
+> Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizando assim a produtividade e entrega.
+{: .block-tip }
 
-Princípios 
+O XP busca alcançar esses objetivos celebrando e atendendo às necessidades humanas de todos os envolvidos no desenvolvimento de software, desde patrocinadores, gerentes, testadores, usuários até programadores. Embora o XP tenha começado como uma metodologia para equipes pequenas que trabalham em projetos internos, equipes em todo o mundo usam o XP para projetos em grande escala, incorporados e embalados. 
 
-Praticas
+- Princípios 
+
+- Praticas
 
 ![image](../assets/figs/xp1.png)
 
@@ -85,7 +109,7 @@ Praticas
 
 ![image](../assets/figs/spotify.png)
 
-### Outros
+# Práticas Ágeis
 
 ## Produtividade da Equipe
 
@@ -101,7 +125,7 @@ Por fim, é importante destacar que a pessoa que lidera a reunião desempenha um
 
 Em resumo, as reuniões são uma ferramenta valiosa para a comunicação e colaboração em ambientes de trabalho, mas devem ser bem organizadas e estruturadas para serem eficazes. A pessoa Tech Lead tem um papel fundamental no sucesso da reunião, e a comunicação é importante não apenas para transmitir informações, mas também para construir relacionamentos interpessoais e aumentar a coesão da equipe.
 
-#### Papel do Scrum Master/Teach Lead na reunião?
+### Papel do Scrum Master/Teach Lead na reunião?
 
 As reuniões são sustentadas por quatro pilares fundamentais que guiam todas as ações e atitudes do Scrum Master. Esses pilares são: guiar as pessoas, criar conexões, observar e intervir e consenso ou consentimento.
 
@@ -116,7 +140,7 @@ Os erros e acertos são oportunidades excelentes para aprender e evoluir na habi
 Para ajudá-lo a evitar alguns dos erros comuns na facilitação, gostaríamos de compartilhar alguns dos erros communs já observados na disciplina: tentar resolver todos os problemas em uma única reunião, falta de energia da pessoa facilitadora ou do grupo, e não alinhar o contexto e objetivo da reunião. Para mais detalhes sobre cada um desses erros, você pode consultar nosso livro A Arte da Facilitação.
 A importância de reconhecer e aprender com nossos erros e acertos é fundamental para a evolução profissional. Devemos estar abertos a cometer erros e aprender com eles, pois nenhuma jornada é construída apenas com sucessos.
 
-#### Problemas que podem ocorrer nas reuniões
+### Problemas que podem ocorrer nas reuniões
 
 As reuniões podem ser altamente produtivas e eficazes, mas também estão sujeitas a uma série de disfunções que podem prejudicar seu propósito e resultados. Algumas das disfunções comuns incluem bate-boca e confronto, falta de tempo disponível, voltar à estaca zero e lidar com um grande número de pessoas e suas contribuições. No entanto, existem estratégias que as pessoas Tech Leads podem usar para minimizar essas disfunções e maximizar a eficácia da reunião.
 
@@ -129,7 +153,7 @@ Ao lidar com um grande número de pessoas, a pessoa Tech Lead deve buscar o cons
 Com essas estratégias em mente, a pessoa Tech Lead pode garantir uma reunião produtiva e eficaz para todos os participantes.
 
 
-#### Checklist para Tech Lead em reuniões
+### Checklist para Tech Lead em reuniões
 
 - Visibilidade do tempo de duração
 - Não seja o centro das atenções
@@ -141,6 +165,18 @@ Com essas estratégias em mente, a pessoa Tech Lead pode garantir uma reunião p
 - Intervalos regulares
 
 ## Produtividade de Software
+
+### Atrasos de Entregas
+
+
+É importante lembrar que existem muitos outros fatores que podem contribuir para atrasos, como falta de recursos, problemas de comunicação ou mudanças nos requisitos do projeto. No entanto, durante as execuções da metodologia,  os três motivos abaixo são comumente citados como causas de atrasos:
+
+- **Falta de alinhamento sobre datas e entregáveis**: Quando não há um acordo claro sobre prazos e objetivos, pode haver uma falta de foco e priorização no projeto. Isso pode levar a um atraso na entrega dos trabalhos, uma vez que as equipes não estão trabalhando juntas em direção a um objetivo comum.
+- **Atraso da Sprint Zero**: A Sprint Zero é uma fase inicial em que a equipe se concentra em preparar o ambiente para o projeto e definir o escopo e os requisitos iniciais. Se essa fase não for concluída a tempo, pode levar a um atraso no início do desenvolvimento do projeto e, consequentemente, no prazo de entrega final. É importante ter uma visão realista do que é necessário para concluir a Sprint Zero com sucesso. Isso inclui alocar tempo e recursos suficientes para realizar todas as tarefas necessárias, incluindo a configuração do ambiente, a definição dos requisitos, a criação de protótipos e a documentação do projeto. Além disso, é importante ter uma comunicação clara entre a equipe e as partes interessadas para que todos entendam o que é necessário para concluir a Sprint Zero e quais são as expectativas para o projeto. Dessa forma, é possível minimizar os riscos de atrasos na Sprint Zero e garantir que o projeto comece com o pé direito.
+- **Problemas de comunicação**: 
+- **Membros do time com dedicação/ritmo de trabalho heterogêneos**: Quando membros da equipe não alinham o ritmo de trabalho esperados, isso pode afetar a produtividade e a eficiência do projeto, uma vez que há uma curva de aprendizado para os membros se adaptem ao projeto e trabalhem efetivamente. Isso pode resultar em atrasos no desenvolvimento e na entrega do projeto, conflitos entre membros, não compartilhamento do conhecimento, sobrecarga de alguns membros.
+
+### Dicas para aumentar a produtividade
 
 
 

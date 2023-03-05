@@ -10,7 +10,7 @@ Ciclo de vida de projeto de software + processo de onboarding + aprendizagem ori
 
 
 
-![image](../assets/figs/LDSP.png)
+
 
 
 ![image](../assets/figs/conteudo.png)

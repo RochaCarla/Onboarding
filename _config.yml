@@ -1,10 +1,10 @@
 # Configurations
-title:            Como acelerar o aprendizado e disseminar cultura de inovação ágil
-longtitle:        Como acelerar o aprendizado e disseminar cultura de inovação ágil
+title:            Disseminando a Cultura de Inovação Ágil
+longtitle:        Como Acelerar o Aprendizado e Disseminando a Cultura de Inovação Ágil
 author:           Carla Rocha
 email:            caguiar@unb.br
 description: >
-  Build Jekyll site with the GitBook style.
+  Livro construido com o Jekyll com o estilo GitBook.
 
 version:          1.0
 gitbook_version:  3.2.3

@@ -4,11 +4,10 @@
                 "google": false,
                 "github": true,
                 "github_link": "https://github.com/RochaCarla",
-                "telegram": false,
-                "telegram_link": "https://t.me",
+                "telegram": true,
+                "telegram_link": "https://t.me/carla_rocha",
                 "instapaper": false,
-                "twitter": true,
-                "vk": false,
-                "weibo": true,
-                "weibo_link": "carlarocha.org"
+                "twitter": false,
+                "twitter_link": "https://t.me/carla_rocha",
+                "vk": false
             },
