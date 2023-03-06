@@ -1,14 +1,24 @@
 ---
-title: Metodologia proposta
+title: Metodologia Proposta
 author: Carla Rocha
 date: 2023-02-21
 category: Jekyll
 layout: post
 ---
 
+> ##### Ideia Principal
+>
+> O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado 
+> além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais
+{: .block-tip }
+
 Ciclo de vida de projeto de software + processo de onboarding + aprendizagem orientada a experiencia + Comunidades de Software Livre
 
+Aprendizagem orientada a experiência e aprendizagem orientada a projetos são abordagens cada vez mais utilizadas na área de engenharia de software e métodos ágeis. Essas abordagens colocam o estudante/participante no centro do processo de aprendizagem, permitindo que ele vivencie situações reais e desafiadoras de desenvolvimento de software. Quando combinadas com o desenvolvimento de um projeto open source e padrões de comunidades open source, essas abordagens oferecem ainda mais benefícios para a formação dos estudantes.
 
+Já a aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores.  Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.
+
+Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.
 
 
 
@@ -23,9 +33,3 @@ Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:
 
 
 
-
-> ##### Ideia Principal
->
-> O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
-> além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais
-{: .block-tip }

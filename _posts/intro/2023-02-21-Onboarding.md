@@ -6,12 +6,17 @@ category: Jekyll
 layout: post
 ---
 
-*Onboarding* refere-se ao processo que surge ao incorporar novos desenvolvedores em uma equipe de desenvolvimento de software.
+> ##### Ideia Principal
+>
+> O principal foco do Onboarding é guiar novos desenvolvedores na adoção de práticas e cultura organizacionais, 
+> além da mentoria/liderança serem crucial para o compartilhamento. 
+{: .block-tip }
 
-Em uma Linha de Produtos de Software, o *onboarding* de novos desenvolvedores pode ser ainda mais complexo, pois essas equipes trabalham em sistemas complexos e altamente personalizáveis. Além disso, os novos desenvolvedores precisam entender os diferentes componentes e variantes da linha de produtos, bem como as práticas e convenções de desenvolvimento específicas da equipe. Esse processo pode levar várias semanas ou até meses, o que pode ter um impacto significativo na produtividade da equipe e na qualidade do software produzido.
+*Onboarding* refere-se ao processo que surge ao incorporar novos desenvolvedores/colaboradores em uma equipe de desenvolvimento de software.
 
+Em uma Linha de Produtos de Software, o *onboarding* de novos desenvolvedores/colaboradores pode ser ainda mais complexo, pois essas equipes trabalham em sistemas complexos e altamente personalizáveis. Além disso, os novos desenvolvedores precisam entender os diferentes componentes e variantes da linha de produtos, bem como as práticas e convenções de desenvolvimento específicas da equipe. Esse processo pode levar várias semanas ou até meses, o que pode ter um impacto significativo na produtividade da equipe e na qualidade do software produzido.
 
-Para lidar com esses desafios, as equipes de desenvolvimento de software podem utilizar diferentes estratégias de *onboarding*, como a criação de um programa de treinamento formal, a documentação detalhada do código e do processo de desenvolvimento, e a utilização de ferramentas de suporte ao desenvolvimento colaborativo, como wikis e sistemas de controle de versão. Além disso, as equipes podem contar com a ajuda de mentorias, onde os desenvolvedores mais experientes trabalham em estreita colaboração com os novos membros da equipe para ajudá-los a se adaptarem ao novo ambiente de trabalho.
+Uma das estratégias de *onboarding* é a criação de um programa de treinamento formal. Nisso, a documentação detalhada do código e do processo de desenvolvimento, e a utilização de ferramentas de suporte ao desenvolvimento colaborativo, como wikis e sistemas de controle de versão. Além disso, as equipes podem contar com a ajuda de mentorias, onde os desenvolvedores mais experientes trabalham em estreita colaboração com os novos membros da equipe para ajudá-los a se adaptarem ao novo ambiente de trabalho.
 
 Os recém-chegados (*newcomers*) enfrentam diferentes tipos de barreiras quando são incorporados a um novo projeto de desenvolvimento de software, a saber:
 - barreiras pessoais, que incluem a relutância dos recém-chegados em pedir ajuda a seus colegas no início de seus processos de resolução de problemas por medo de perder tempo
@@ -44,8 +49,3 @@ Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:
 
 
 
-> ##### Ideia Principal
->
-> O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
-> além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais
-{: .block-tip }

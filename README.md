@@ -45,4 +45,7 @@ Esses resultados evidenciam a importância de uma abordagem mais personalizada e
 
 ## Licença
 
+The content of this work is published under the CC BY 4.0
+(Creative Commons Attribution 4.0 International License)
+
 Copyright 2023 Carla Rocha.
