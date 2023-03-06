@@ -6,7 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-
 Se você escolheu este livro porque é uma pessoa interessada em trabalhar com equipes multidisciplinares, auto didatas, produtivas e inovadoras. 
 Se você não sabe por onde começar para promover esse modelo de aprendizado/trabalho, você está no lugar certo. Se você deseja se tornar um engenheiro de Software que domine tanto as habilidades técnicas quanto as habilidades não técnicas exigidas pelo mercado, espero que este livro forneça algumas dicas úteis.
 
@@ -18,4 +17,4 @@ Este livro foi escrito tendo em mente dois grupos principais:
 
 - Estudantes de Engenharia de Software, ciência da computação, engenharia da Produção e outros alunos universitários que queiram aprender sobre as metodologias ágeis na prática.
 
-Imagino que a maioria dos leitores deste livro saiba desenvolver projetos de software. A segunda parte do livro, onde estão as perguntas, é bastante focado na metodologia de como planejar e organizar um ciclo de aprendizagem utilizando a metodologia proposta. No entanto, como os métodos ágeis encontra seu uso em mais setores o campo precisa de mais pessoas com interesses diversos. Se você está interessado em métodos ágeis e desenvolvimento de software, mas hesita em segui-lo porque não possui um diploma de engenharia, eu o encorajo fortemente a explorá-lo. Este livro, especialmente a primeira parte, pode atender a algumas de suas necessidades. 
+Imagino que a maioria dos leitores deste livro ainda não desenvolveu seu primeiro projeto de software. A primeira parte do livro explora a fundamentação teórica e um guia prático de como adotar as metodologias ágeis. A segunda parte do livro é bastante focado na metodologia de como planejar e organizar um ciclo de aprendizagem utilizando a metodologia proposta. Se você está interessado em métodos ágeis e desenvolvimento de software, mas hesita em segui-lo porque não possui um diploma de engenharia, eu o encorajo fortemente a explorá-lo. Este livro, especialmente a primeira parte, pode atender a algumas de suas necessidades. 

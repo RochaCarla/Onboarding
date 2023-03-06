@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Como Acelerar o Aprendizado e Disseminando Cultura de Inovação Ágil
+title: Como Acelerar o Aprendizado e Disseminar a Cultura de Inovação Ágil
 permalink: /
 ---
 
