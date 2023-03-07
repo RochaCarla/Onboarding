@@ -69,6 +69,40 @@ No que se refere ao Produto, as metodologias ágeis buscam a eficácia na criaç
 
 Finalmente, um conceito chave das metodologias ágeis é o *Time-Box*. O conceito de time-boxing é uma das práticas-chave das metodologias ágeis. Time-boxing significa definir um tempo limite para a realização de uma atividade, reunião ou ciclo de desenvolvimento. Por exemplo, as sprints do Scrum são time-boxes para o desenvolvimento de software, com um período definido de 1 a 4 semanas para concluir uma série de tarefas. A prática de time-boxing ajuda a criar um senso de urgência e foco na equipe, além de garantir que as atividades sejam concluídas dentro de um período definido. Isso também ajuda a evitar o desperdício de tempo e recursos, uma vez que a equipe sabe que tem um prazo limitado para concluir uma determinada atividade.
 
+### Time
+
+Stakeholders ou pessoas envolvidas no ciclo de projeto de software:
+
+- Testers 
+- Interaction Designers Architects 
+- Project Managers 
+- Product Managers Executives 
+- Technical Writers  
+- Users Programmers 
+- Human Resources 
+- Roles 
+
+Nos times ágeis, os papéis e as responsabilidades são substituídos por atribuições, o que significa que o foco é colocado nas tarefas que precisam ser realizadas e não em quem deve fazê-las. Essas atribuições são flexíveis e podem ser desempenhadas por uma ou mais pessoas no time. Também é comum que um único indivíduo assuma várias atribuições para garantir que as necessidades do projeto sejam atendidas de maneira eficiente.
+
+Essa abordagem é uma resposta ao modelo cascata, no qual cada etapa do processo é conduzida por profissionais específicos, definidos pelos seus papéis. Nos times ágeis, há uma maior flexibilidade e colaboração entre os membros da equipe, permitindo que as habilidades individuais sejam utilizadas de forma mais adaptável às necessidades do projeto.
+
+As atribuições em times ágeis são frequentemente mais focadas em entregas específicas, em vez de tarefas individuais, o que ajuda a manter o foco no objetivo geral do projeto e promove uma abordagem mais centrada no cliente. Isso significa que as equipes ágeis estão mais preparadas para lidar com mudanças inesperadas e se adaptar rapidamente, mantendo-se alinhadas com as necessidades do negócio.
+
+Um time tipicamente ágil, temos a necessidade das seguintes atribuições
+- Product Owner - Embora o termo "Product Owner" tenha sido introduzido pelo Scrum como uma atribuição específica em equipes ágeis, é comum encontrar outras variações de definição e nomenclatura dessa função em diferentes contextos empresariais. Alguns exemplos incluem "Estrategista de Produto" (Product Strategist) e "Gestor de Produto" (Product Manager), que podem ter algumas diferenças em suas responsabilidades e atribuições específicas, mas, em geral, têm como objetivo liderar a estratégia e o desenvolvimento de produtos para atender às necessidades dos clientes e do negócio. Independentemente da nomenclatura, o papel do Product Owner ou suas variações é crucial para o sucesso de projetos ágeis, pois eles são responsáveis por definir as prioridades, tomar decisões e garantir a entrega de valor para o cliente. 
+
+
+- Scrum Master - 
+
+- DevOps
+
+- Arquiteto
+ 
+ - Back-end
+ 
+ - Front-end
+
+
 
 ### Scrum - Produtividade da Equipe
 
@@ -101,7 +135,49 @@ O XP busca alcançar esses objetivos celebrando e atendendo às necessidades hum
 
 - Princípios 
 
+
+Humanity Economics 
+Mutual Benefit 
+
+Self-Similarity 
+Improvement 
+Diversity
+Reflection 
+Flow 
+Opportunity 
+Redundancy 
+Failure 
+Quality 
+Baby Steps 
+Accepted Responsibility .............................
+
+
 - Praticas
+
+- Sit Together 
+- Whole Team 
+- Informative Workspace
+- Energized Work
+- Pair Programming 
+- Stories
+- Weekly Cycle 
+- Quarterly Cycle
+- Slack 
+- Ten-Minute Build 
+- Continuous Integration 
+- Test-First Programming 
+- Incremental Design 
+- Real Customer Involvement 
+- Incremental Deployment
+- Team Continuity 
+- Shrinking Teams 
+- Root-Cause Analysis 
+- Shared Code 
+- Code and Tests 
+- Single Code Base 
+- Daily Deployment
+- Negotiated Scope Contract 
+- Pay-Per-Use 
 
 ![image](../assets/figs/xp1.png)
 
@@ -109,9 +185,40 @@ O XP busca alcançar esses objetivos celebrando e atendendo às necessidades hum
 
 ![image](../assets/figs/spotify.png)
 
+
+### DevOps
+
+
 # Práticas Ágeis
 
+
 ## Produtividade da Equipe
+
+- Planejamento
+- Review
+- Retrospectiva
+- Stand up
+
+
+- Programação em pares (Pair Programming): dois programadores trabalham juntos em um único computador para desenvolver o código, revisando e testando cada linha de código.
+- Releases pequenos e frequentes (Small Releases): novas funcionalidades são entregues em pequenos pacotes frequentemente, para obter feedback rápido e permitir mudanças de direção.
+- Cliente presente (On-Site Customer): um representante do cliente está presente durante todo o processo de desenvolvimento, para garantir que as necessidades do cliente sejam atendidas.
+- Metáfora (Metaphor): uma metáfora é usada para descrever o sistema, tornando mais fácil para os desenvolvedores entenderem a complexidade do sistema.
+- Ritmo sustentável (Sustainable Pace): a equipe de desenvolvimento trabalha em um ritmo saudável e sustentável, para evitar o esgotamento e manter a qualidade do trabalho.
+
+Sit Together 
+Whole Team 
+Informative Workspace
+Energized Work
+ Pair Programming 
+ Stories
+  Weekly Cycle 
+  Quarterly Cycle
+   Slack 
+   Ten-Minute Build 
+   Continuous Integration 
+    Test-First Programming 
+     Incremental Design 
 
 ### Reuniões: por que elas existem?
 
@@ -164,8 +271,16 @@ Com essas estratégias em mente, a pessoa Tech Lead pode garantir uma reunião p
 - Faça acordos prévios
 - Intervalos regulares
 
+
+
 ## Produtividade de Software
 
+1. Desenvolvimento guiado por testes (Test Driven Development - TDD): os testes são escritos antes do código, para garantir que a funcionalidade esteja correta e funcionando corretamente.
+2. Integração contínua (Continuous Integration - CI): o código é integrado e testado automaticamente várias vezes ao dia para evitar conflitos e detectar erros de integração.
+3. Refactoring: o código é constantemente melhorado para torná-lo mais limpo, legível e fácil de manter.
+4. Design simples (Simple Design): o código é mantido o mais simples possível para evitar complexidade desnecessária.
+5. Programação orientada a objetos (Object-Oriented Programming - OOP): o código é organizado em objetos para facilitar a compreensão e a manutenção.
+6. 
 ### Atrasos de Entregas
 
 

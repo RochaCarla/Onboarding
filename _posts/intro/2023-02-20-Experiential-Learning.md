@@ -41,3 +41,8 @@ Por fim, a quarta etapa, **de sintetizar**, é quando os alunos consolidam seus 
 Para apoiar essas quatro etapas, uso uma variedade de métodos de ensino digital, como fóruns de discussão online e plataformas de colaboração. Cada método é escolhido com base nas necessidades específicas de cada etapa do processo de aprendizagem, ajudando os alunos a se engajar ativamente e a criar um ambiente de aprendizagem colaborativa e significativa. Na próxima sessão, vamos apresentar como aplicamos os conceitos relacionados a aprendizagem orientada a experiencia para acelerar a imersão em conceitos relacionados à Engenharia de Software.
 
 
+# Saiba mais sobre Aprendizagem Orientado à Experiência
+
+Caso você tenha interesse em aprofundar seus conhecimentos na metodologia do Aprendizado Orientado à Experiência (experiential learning), seguem abaixo algumas referências úteis:
+
+[^my_footnote]: This also works fine.

@@ -1,7 +1,7 @@
 ---
 title: Metodologia Proposta
 author: Carla Rocha
-date: 2023-02-21
+date: 2023-02-23
 category: Jekyll
 layout: post
 ---

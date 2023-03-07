@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Onboarding/" rel="alternate" type="text/html" /><updated>2023-03-06T16:18:19-03:00</updated><id>http://localhost:4000/Onboarding/feed.xml</id><title type="html">Disseminando a Cultura de Inovação Ágil</title><subtitle>Livro construido com o Jekyll com o estilo GitBook.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Onboarding/" rel="alternate" type="text/html" /><updated>2023-03-07T13:54:38-03:00</updated><id>http://localhost:4000/Onboarding/feed.xml</id><title type="html">Disseminando a Cultura de Inovação Ágil</title><subtitle>Livro construido com o Jekyll com o estilo GitBook.
 </subtitle><author><name>Carla Rocha</name></author><entry><title type="html">Parte II - Acelerando o Aprendizado</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-24-Execucao.html" rel="alternate" type="text/html" title="Parte II - Acelerando o Aprendizado" /><published>2023-02-24T00:00:00-03:00</published><updated>2023-02-24T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Execucao</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-24-Execucao.html"><![CDATA[<h2 id="visão-geral">Visão Geral</h2>
 
 <p>Uma estratégia eficaz de aprendizagem deve integrar conceitos teóricos com sua aplicação prática, seguindo o princípio de “aprender fazendo”. Sem prática, não há aprendizado significativo. Portanto, o processo de ensino-aprendizagem deve incluir duas etapas fundamentais: sessões de assimilação de conceitos teóricos e sessões de prática.</p>
@@ -345,7 +345,39 @@
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Organizar um evento para que os clientes possam apresentar os problemas a serem resolvidos com software</li>
 </ul>
 
-<p>Segue um checklist para ajudar na organização da primeira etapa do onboarding para os instrutores.</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Visão Geral]]></summary></entry><entry><title type="html">Parte I - Cultura de Inovação Ágil</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html" rel="alternate" type="text/html" title="Parte I - Cultura de Inovação Ágil" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Conceitos</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html"><![CDATA[<h1 id="ciclo-de-desenvolvimento-de-projeto-de-software">Ciclo de Desenvolvimento de Projeto de Software</h1>
+<p>Segue um checklist para ajudar na organização da primeira etapa do onboarding para os instrutores.</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Visão Geral]]></summary></entry><entry><title type="html">Bias em Projetos de Software</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Bias.html" rel="alternate" type="text/html" title="Bias em Projetos de Software" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Bias</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Bias.html"><![CDATA[<blockquote class="block-tip">
+  <h5 id="ideia-principal">Ideia Principal</h5>
+
+  <p>O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado 
+além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais</p>
+</blockquote>
+
+<p>A presença feminina em projetos de software de código aberto (OSS) é baixa, o que acarreta prejuízos tanto para a carreira e o desenvolvimento de habilidades das mulheres quanto para os próprios projetos, que sofrem com a falta de diversidade de perspectivas.</p>
+
+<p>TODO</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais]]></summary></entry><entry><title type="html">Metodologia Proposta</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Metodologia.html" rel="alternate" type="text/html" title="Metodologia Proposta" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Metodologia</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Metodologia.html"><![CDATA[<blockquote class="block-tip">
+  <h5 id="ideia-principal">Ideia Principal</h5>
+
+  <p>O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado 
+além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais</p>
+</blockquote>
+
+<p>Ciclo de vida de projeto de software + processo de onboarding + aprendizagem orientada a experiencia + Comunidades de Software Livre</p>
+
+<p>Aprendizagem orientada a experiência e aprendizagem orientada a projetos são abordagens cada vez mais utilizadas na área de engenharia de software e métodos ágeis. Essas abordagens colocam o estudante/participante no centro do processo de aprendizagem, permitindo que ele vivencie situações reais e desafiadoras de desenvolvimento de software. Quando combinadas com o desenvolvimento de um projeto open source e padrões de comunidades open source, essas abordagens oferecem ainda mais benefícios para a formação dos estudantes.</p>
+
+<p>Já a aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores.  Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.</p>
+
+<p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
+
+<p><img src="../assets/figs/conteudo.png" alt="image" />
+Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
+
+<ul>
+  <li>Boas-vindas: criar um ambiente acolhedor e encorajador para o novo colaborador.</li>
+  <li>Introdução: ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho.</li>
+  <li>Treinamento: capacitar o novo colaborador para desempenhar suas funções.</li>
+  <li>Acompanhamento: oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila.</li>
+</ul>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais]]></summary></entry><entry><title type="html">Parte I - Cultura de Inovação Ágil</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html" rel="alternate" type="text/html" title="Parte I - Cultura de Inovação Ágil" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Conceitos</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html"><![CDATA[<h1 id="ciclo-de-desenvolvimento-de-projeto-de-software">Ciclo de Desenvolvimento de Projeto de Software</h1>
 
 <p>Esse capítulo é dedicado à instrutores, professores, gestores que tem interesse em</p>
 
@@ -409,6 +441,49 @@
 
 <p>Finalmente, um conceito chave das metodologias ágeis é o <em>Time-Box</em>. O conceito de time-boxing é uma das práticas-chave das metodologias ágeis. Time-boxing significa definir um tempo limite para a realização de uma atividade, reunião ou ciclo de desenvolvimento. Por exemplo, as sprints do Scrum são time-boxes para o desenvolvimento de software, com um período definido de 1 a 4 semanas para concluir uma série de tarefas. A prática de time-boxing ajuda a criar um senso de urgência e foco na equipe, além de garantir que as atividades sejam concluídas dentro de um período definido. Isso também ajuda a evitar o desperdício de tempo e recursos, uma vez que a equipe sabe que tem um prazo limitado para concluir uma determinada atividade.</p>
 
+<h3 id="time">Time</h3>
+
+<p>Stakeholders ou pessoas envolvidas no ciclo de projeto de software:</p>
+
+<ul>
+  <li>Testers</li>
+  <li>Interaction Designers Architects</li>
+  <li>Project Managers</li>
+  <li>Product Managers Executives</li>
+  <li>Technical Writers</li>
+  <li>Users Programmers</li>
+  <li>Human Resources</li>
+  <li>Roles</li>
+</ul>
+
+<p>Nos times ágeis, os papéis e as responsabilidades são substituídos por atribuições, o que significa que o foco é colocado nas tarefas que precisam ser realizadas e não em quem deve fazê-las. Essas atribuições são flexíveis e podem ser desempenhadas por uma ou mais pessoas no time. Também é comum que um único indivíduo assuma várias atribuições para garantir que as necessidades do projeto sejam atendidas de maneira eficiente.</p>
+
+<p>Essa abordagem é uma resposta ao modelo cascata, no qual cada etapa do processo é conduzida por profissionais específicos, definidos pelos seus papéis. Nos times ágeis, há uma maior flexibilidade e colaboração entre os membros da equipe, permitindo que as habilidades individuais sejam utilizadas de forma mais adaptável às necessidades do projeto.</p>
+
+<p>As atribuições em times ágeis são frequentemente mais focadas em entregas específicas, em vez de tarefas individuais, o que ajuda a manter o foco no objetivo geral do projeto e promove uma abordagem mais centrada no cliente. Isso significa que as equipes ágeis estão mais preparadas para lidar com mudanças inesperadas e se adaptar rapidamente, mantendo-se alinhadas com as necessidades do negócio.</p>
+
+<p>Um time tipicamente ágil, temos a necessidade das seguintes atribuições</p>
+<ul>
+  <li>
+    <p>Product Owner - Embora o termo “Product Owner” tenha sido introduzido pelo Scrum como uma atribuição específica em equipes ágeis, é comum encontrar outras variações de definição e nomenclatura dessa função em diferentes contextos empresariais. Alguns exemplos incluem “Estrategista de Produto” (Product Strategist) e “Gestor de Produto” (Product Manager), que podem ter algumas diferenças em suas responsabilidades e atribuições específicas, mas, em geral, têm como objetivo liderar a estratégia e o desenvolvimento de produtos para atender às necessidades dos clientes e do negócio. Independentemente da nomenclatura, o papel do Product Owner ou suas variações é crucial para o sucesso de projetos ágeis, pois eles são responsáveis por definir as prioridades, tomar decisões e garantir a entrega de valor para o cliente.</p>
+  </li>
+  <li>
+    <p>Scrum Master -</p>
+  </li>
+  <li>
+    <p>DevOps</p>
+  </li>
+  <li>
+    <p>Arquiteto</p>
+  </li>
+  <li>
+    <p>Back-end</p>
+  </li>
+  <li>
+    <p>Front-end</p>
+  </li>
+</ul>
+
 <h3 id="scrum---produtividade-da-equipe">Scrum - Produtividade da Equipe</h3>
 
 <p>O Scrum é um framework ágil que visa a entrega de produtos complexos. Embora tenha sido inicialmente proposto para projetos de desenvolvimento de software, ele pode ser aplicado em qualquer contexto de projetos complexos e inovadores, especialmente aqueles com requisitos emergentes ou que mudam rapidamente. Foi proposto pelo Jeff Sutherland, e o guia completo do Scrum é constantemente atualizado e disponibilizado em português <a href="https://scrumguides.org/index.html">aqui</a>.</p>
@@ -440,12 +515,52 @@ Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizand
 <p>O XP busca alcançar esses objetivos celebrando e atendendo às necessidades humanas de todos os envolvidos no desenvolvimento de software, desde patrocinadores, gerentes, testadores, usuários até programadores. Embora o XP tenha começado como uma metodologia para equipes pequenas que trabalham em projetos internos, equipes em todo o mundo usam o XP para projetos em grande escala, incorporados e embalados.</p>
 
 <ul>
-  <li>
-    <p>Princípios</p>
-  </li>
+  <li>Princípios</li>
+</ul>
+
+<p>Humanity Economics 
+Mutual Benefit</p>
+
+<p>Self-Similarity 
+Improvement 
+Diversity
+Reflection 
+Flow 
+Opportunity 
+Redundancy 
+Failure 
+Quality 
+Baby Steps 
+Accepted Responsibility ………………………..</p>
+
+<ul>
   <li>
     <p>Praticas</p>
   </li>
+  <li>Sit Together</li>
+  <li>Whole Team</li>
+  <li>Informative Workspace</li>
+  <li>Energized Work</li>
+  <li>Pair Programming</li>
+  <li>Stories</li>
+  <li>Weekly Cycle</li>
+  <li>Quarterly Cycle</li>
+  <li>Slack</li>
+  <li>Ten-Minute Build</li>
+  <li>Continuous Integration</li>
+  <li>Test-First Programming</li>
+  <li>Incremental Design</li>
+  <li>Real Customer Involvement</li>
+  <li>Incremental Deployment</li>
+  <li>Team Continuity</li>
+  <li>Shrinking Teams</li>
+  <li>Root-Cause Analysis</li>
+  <li>Shared Code</li>
+  <li>Code and Tests</li>
+  <li>Single Code Base</li>
+  <li>Daily Deployment</li>
+  <li>Negotiated Scope Contract</li>
+  <li>Pay-Per-Use</li>
 </ul>
 
 <p><img src="../assets/figs/xp1.png" alt="image" /></p>
@@ -454,9 +569,39 @@ Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizand
 
 <p><img src="../assets/figs/spotify.png" alt="image" /></p>
 
+<h3 id="devops">DevOps</h3>
+
 <h1 id="práticas-ágeis">Práticas Ágeis</h1>
 
 <h2 id="produtividade-da-equipe">Produtividade da Equipe</h2>
+
+<ul>
+  <li>Planejamento</li>
+  <li>Review</li>
+  <li>Retrospectiva</li>
+  <li>
+    <p>Stand up</p>
+  </li>
+  <li>Programação em pares (Pair Programming): dois programadores trabalham juntos em um único computador para desenvolver o código, revisando e testando cada linha de código.</li>
+  <li>Releases pequenos e frequentes (Small Releases): novas funcionalidades são entregues em pequenos pacotes frequentemente, para obter feedback rápido e permitir mudanças de direção.</li>
+  <li>Cliente presente (On-Site Customer): um representante do cliente está presente durante todo o processo de desenvolvimento, para garantir que as necessidades do cliente sejam atendidas.</li>
+  <li>Metáfora (Metaphor): uma metáfora é usada para descrever o sistema, tornando mais fácil para os desenvolvedores entenderem a complexidade do sistema.</li>
+  <li>Ritmo sustentável (Sustainable Pace): a equipe de desenvolvimento trabalha em um ritmo saudável e sustentável, para evitar o esgotamento e manter a qualidade do trabalho.</li>
+</ul>
+
+<p>Sit Together 
+Whole Team 
+Informative Workspace
+Energized Work
+ Pair Programming 
+ Stories
+  Weekly Cycle 
+  Quarterly Cycle
+   Slack 
+   Ten-Minute Build 
+   Continuous Integration 
+    Test-First Programming 
+     Incremental Design</p>
 
 <h3 id="reuniões-por-que-elas-existem">Reuniões: por que elas existem?</h3>
 
@@ -512,7 +657,16 @@ A importância de reconhecer e aprender com nossos erros e acertos é fundamenta
 
 <h2 id="produtividade-de-software">Produtividade de Software</h2>
 
-<h3 id="atrasos-de-entregas">Atrasos de Entregas</h3>
+<ol>
+  <li>Desenvolvimento guiado por testes (Test Driven Development - TDD): os testes são escritos antes do código, para garantir que a funcionalidade esteja correta e funcionando corretamente.</li>
+  <li>Integração contínua (Continuous Integration - CI): o código é integrado e testado automaticamente várias vezes ao dia para evitar conflitos e detectar erros de integração.</li>
+  <li>Refactoring: o código é constantemente melhorado para torná-lo mais limpo, legível e fácil de manter.</li>
+  <li>Design simples (Simple Design): o código é mantido o mais simples possível para evitar complexidade desnecessária.</li>
+  <li>Programação orientada a objetos (Object-Oriented Programming - OOP): o código é organizado em objetos para facilitar a compreensão e a manutenção.</li>
+  <li>
+    <h3 id="atrasos-de-entregas">Atrasos de Entregas</h3>
+  </li>
+</ol>
 
 <p>É importante lembrar que existem muitos outros fatores que podem contribuir para atrasos, como falta de recursos, problemas de comunicação ou mudanças nos requisitos do projeto. No entanto, durante as execuções da metodologia,  os três motivos abaixo são comumente citados como causas de atrasos:</p>
 
@@ -530,32 +684,47 @@ A importância de reconhecer e aprender com nossos erros e acertos é fundamenta
 
   <p>O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
 além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura</p>
-</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ciclo de Desenvolvimento de Projeto de Software]]></summary></entry><entry><title type="html">Processo de Onboarding - Princípios básicos</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-21-Onboarding.html" rel="alternate" type="text/html" title="Processo de Onboarding - Princípios básicos" /><published>2023-02-21T00:00:00-03:00</published><updated>2023-02-21T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Onboarding</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-21-Onboarding.html"><![CDATA[<blockquote class="block-tip">
+</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ciclo de Desenvolvimento de Projeto de Software]]></summary></entry><entry><title type="html">Software Livre</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-22-OSS.html" rel="alternate" type="text/html" title="Software Livre" /><published>2023-02-22T00:00:00-03:00</published><updated>2023-02-22T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/OSS</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-22-OSS.html"><![CDATA[<blockquote class="block-tip">
+  <h5 id="ideia-principal">Ideia Principal</h5>
+
+  <p>Comunidades de Software adotam práticas, ferramentas e automações utilizadas no mercado.
+Assim como os padrões de gestão de projeto de software,  documentação, e comunicação.</p>
+</blockquote>
+
+<h1 id="o-que-é-software-livre">O que é software Livre</h1>
+
+<h1 id="qual-a-diferença-do-software-livre-e-open-source">Qual a diferença do Software Livre e Open Source</h1>
+
+<h1 id="principais-práticas-de-comunidades-de-software-livreopen-source">Principais práticas de Comunidades de Software Livre/Open Source</h1>
+
+<h1 id="saiba-mais-sobre-software-livre">Saiba mais sobre Software Livre</h1>
+
+<p>Caso você tenha interesse em aprofundar seus conhecimentos Software Livre, como contribuir em comunidades de Software Livre seguem abaixo algumas referências úteis:</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal Comunidades de Software adotam práticas, ferramentas e automações utilizadas no mercado. Assim como os padrões de gestão de projeto de software, documentação, e comunicação.]]></summary></entry><entry><title type="html">Processo de Onboarding - Princípios básicos</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-21-Onboarding.html" rel="alternate" type="text/html" title="Processo de Onboarding - Princípios básicos" /><published>2023-02-21T00:00:00-03:00</published><updated>2023-02-21T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Onboarding</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-21-Onboarding.html"><![CDATA[<blockquote class="block-tip">
   <h5 id="ideia-principal">Ideia Principal</h5>
 
   <p>O principal foco do Onboarding é guiar novos desenvolvedores na adoção de práticas e cultura organizacionais, 
 além da mentoria/liderança serem crucial para o compartilhamento.</p>
 </blockquote>
 
-<p><em>Onboarding</em> refere-se ao processo que surge ao incorporar novos desenvolvedores/colaboradores em uma equipe de desenvolvimento de software.</p>
+<p>Quando engenheiros de software são contratados por uma empresa, eles precisam passar por um período de adaptação para se ajustarem à cultura, práticas, processos e ferramentas da organização. Esse período de adaptação técnica e cultural pode durar meses e é geralmente considerado um período improdutivo, uma vez que a ênfase é no aprendizado de uma nova maneira de trabalhar.</p>
 
-<p>Em uma Linha de Produtos de Software, o <em>onboarding</em> de novos desenvolvedores/colaboradores pode ser ainda mais complexo, pois essas equipes trabalham em sistemas complexos e altamente personalizáveis. Além disso, os novos desenvolvedores precisam entender os diferentes componentes e variantes da linha de produtos, bem como as práticas e convenções de desenvolvimento específicas da equipe. Esse processo pode levar várias semanas ou até meses, o que pode ter um impacto significativo na produtividade da equipe e na qualidade do software produzido.</p>
-
-<p>Uma das estratégias de <em>onboarding</em> é a criação de um programa de treinamento formal. Nisso, a documentação detalhada do código e do processo de desenvolvimento, e a utilização de ferramentas de suporte ao desenvolvimento colaborativo, como wikis e sistemas de controle de versão. Além disso, as equipes podem contar com a ajuda de mentorias, onde os desenvolvedores mais experientes trabalham em estreita colaboração com os novos membros da equipe para ajudá-los a se adaptarem ao novo ambiente de trabalho.</p>
-
-<p>Os recém-chegados (<em>newcomers</em>) enfrentam diferentes tipos de barreiras quando são incorporados a um novo projeto de desenvolvimento de software, a saber:</p>
+<p>Durante esse período, os novos colaboradores (newcomers) podem enfrentar várias barreiras ao serem incorporados em um novo projeto de desenvolvimento de software, incluindo:</p>
 <ul>
-  <li>barreiras pessoais, que incluem a relutância dos recém-chegados em pedir ajuda a seus colegas no início de seus processos de resolução de problemas por medo de perder tempo</li>
-  <li>barreiras interpessoais, que, por exemplo, referem-se a problemas de comunicação que surgem quando os recém-chegados são incorporados a uma equipe diversificada, onde pessoas diferentes com objetivos diferentes, culturas diferentes e habilidades interpessoais diferentes se reúnem</li>
-  <li>barreiras de processo, onde os recém-chegados encontram dificuldades em ter uma perspectiva holística do software para o qual estão contribuindo e em descobrir por onde começar a trabalhar</li>
-  <li>barreiras técnicas, os recém-chegados frequentemente encontram problemas devido à alta complexidade dos sistemas que estão sendo desenvolvidos [14], [3]. Este problema é acompanhado pela falta de conhecimento prévio do domínio onde ocorre o desenvolvimento</li>
+  <li><strong>Barreiras pessoais</strong>, que incluem a relutância dos recém-chegados em pedir ajuda a seus colegas no início de seus processos de resolução de problemas por medo de perder tempo</li>
+  <li><strong>Barreiras interpessoais</strong>, que, por exemplo, referem-se a problemas de comunicação que surgem quando os recém-chegados são incorporados a uma equipe diversificada, no qual pessoas diferentes com objetivos diferentes, culturas diferentes e habilidades interpessoais diferentes se reúnem</li>
+  <li><strong>Barreiras de processo</strong>, onde os recém-chegados encontram dificuldades em ter uma perspectiva holística do software para o qual estão contribuindo e em descobrir por onde começar a trabalhar</li>
+  <li><strong>Barreiras técnicas</strong>, os recém-chegados frequentemente encontram problemas devido à alta complexidade dos sistemas que estão sendo desenvolvidos. Este problema é acompanhado pela falta de conhecimento prévio do domínio onde ocorre o desenvolvimento</li>
 </ul>
 
-<p>Além disso, essas barreiras também podem levar a um aumento no tempo e no custo do projeto, pois a incorporação de novos desenvolvedores pode atrasar a conclusão de tarefas importantes [3]. Além disso, a qualidade do software desenvolvido pode ser comprometida, pois os recém-chegados podem cometer erros ou não seguir as melhores práticas estabelecidas [14].</p>
+<p>Quando novos engenheiros de software são incorporados a uma equipe, eles precisam passar por um processo de adaptação que pode ser desafiador. Essas barreiras podem resultar em atrasos no projeto e aumento nos custos, já que a incorporação de novos desenvolvedores pode levar mais tempo para a conclusão de tarefas importantes. Além disso, a qualidade do software desenvolvido pode ser comprometida, uma vez que os recém-chegados podem cometer erros ou não seguir as melhores práticas adotadas pela equipe.</p>
 
-<p>Para superar essas barreiras, é necessário implementar estratégias eficazes de onboarding que abordem cada uma das áreas mencionadas acima. Isso pode incluir o uso de ferramentas e tecnologias que facilitem a comunicação e a colaboração entre os membros da equipe, a criação de um ambiente de trabalho acolhedor e inclusivo que incentive os recém-chegados a pedir ajuda e a compartilhar conhecimento, e a implementação de treinamentos e orientações adequados que permitam que os recém-chegados compreendam melhor o processo de desenvolvimento e os sistemas em que estão trabalhando.</p>
+<p>Quando novos engenheiros de software são incorporados a uma equipe, eles precisam passar por um processo de adaptação que pode ser desafiador. Essas barreiras podem resultar em atrasos no projeto e aumento nos custos, já que a incorporação de novos desenvolvedores pode levar mais tempo para a conclusão de tarefas importantes. Além disso, a qualidade do software desenvolvido pode ser comprometida, uma vez que os recém-chegados podem cometer erros ou não seguir as melhores práticas adotadas pela equipe.</p>
 
-<p>Para que o processo de onboarding seja eficaz, é importante que a empresa tenha uma cultura de integração, processos bem definidos e ferramentas adequadas para apoiar a atividade. A cultura de integração é criada a partir do momento em que a empresa valoriza e investe no processo de integração. Os processos bem definidos são aqueles que estabelecem o que deve ser feito em cada etapa do onboarding. As ferramentas incluem desde sistemas de gestão de aprendizagem até manuais e guias que ajudam os novos colaboradores a se orientarem na empresa.</p>
+<p>Para superar essas barreiras, é fundamental implementar estratégias eficazes de <em>Onboarding</em>, ou integração, de novos colaboradores (<em>newcomers</em>). O <strong>onboarding</strong> é o processo de incorporar novos desenvolvedores em uma equipe de software, que inclui o uso de ferramentas e tecnologias para facilitar a comunicação e a colaboração entre a equipe. Isso também inclui a criação de um ambiente de trabalho acolhedor e inclusivo que incentiva os recém-chegados a pedir ajuda e compartilhar conhecimento, além da implementação de treinamentos e orientações adequados para ajudar os novos desenvolvedores a compreender melhor o processo de desenvolvimento e os sistemas em que estão trabalhando.</p>
+
+<p>Para que o processo de <strong>onboarding</strong> seja eficaz, é importante que a empresa tenha uma cultura de integração, processos bem definidos e ferramentas adequadas para apoiar a atividade. Os processos bem definidos estabelecem o que deve ser feito em cada etapa do <strong>onboarding</strong>, enquanto as ferramentas incluem desde sistemas de gestão de aprendizagem até manuais e guias que ajudam os novos colaboradores a se orientarem na empresa.</p>
+
+<p>Em produtos de software, o <strong>onboarding</strong> de novos colaboradores pode ser ainda mais complexo, pois as equipes trabalham em sistemas complexos e altamente personalizáveis. Os novos desenvolvedores precisam entender os diferentes componentes e variantes dos produtos, bem como as práticas e convenções de desenvolvimento específicas da equipe. Esse processo pode levar várias semanas ou até meses, o que pode ter um impacto significativo na produtividade da equipe e na qualidade do software produzido. Por isso, é importante que as equipes contem com a ajuda de mentorias, onde os desenvolvedores mais experientes trabalham em estreita colaboração com os novos membros da equipe para ajudá-los a se adaptarem ao novo ambiente de trabalho.</p>
 
 <p>O processo de onboarding pode variar de acordo com a empresa, mas geralmente envolve as seguintes etapas:</p>
 
@@ -564,41 +733,26 @@ além da mentoria/liderança serem crucial para o compartilhamento.</p>
   <li>Introdução: O novo colaborador recebe informações sobre a cultura e os processos da empresa, além de conhecer os colegas de trabalho.</li>
   <li>Treinamento: O novo colaborador recebe o treinamento necessário para desempenhar suas funções.</li>
   <li>Acompanhamento: Durante as primeiras semanas, é importante que o novo colaborador receba um acompanhamento para esclarecer dúvidas e orientá-lo sobre as expectativas da empresa.</li>
+  <li>Imersão no projeto: O novo colaborador é apresentado ao projeto ou equipe em que irá trabalhar e recebe informações sobre a metodologia de trabalho e as ferramentas utilizadas.</li>
+  <li>Desafios iniciais: O novo colaborador recebe tarefas e projetos menores para se adaptar gradualmente ao ambiente de trabalho e ganhar confiança.</li>
+  <li>Feedback: É importante que a empresa ofereça um feedback constante para o novo colaborador sobre seu desempenho e orientações sobre como melhorar.</li>
+  <li>Integração contínua: O processo de onboarding não deve se limitar às primeiras semanas de trabalho, mas deve ser um processo contínuo de integração do novo colaborador à equipe e à cultura da empresa.</li>
 </ul>
 
 <p><img src="../assets/figs/boss.png" alt="image" /></p>
 
-<p>Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
+<p>O processo de onboarding é composto por várias etapas, cada uma com seus próprios objetivos específicos. Essas etapas incluem:</p>
 
 <ul>
-  <li>Boas-vindas: criar um ambiente acolhedor e encorajador para o novo colaborador.</li>
-  <li>Introdução: ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho.</li>
-  <li>Treinamento: capacitar o novo colaborador para desempenhar suas funções.</li>
-  <li>Acompanhamento: oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila.</li>
-</ul>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco do Onboarding é guiar novos desenvolvedores na adoção de práticas e cultura organizacionais, além da mentoria/liderança serem crucial para o compartilhamento.]]></summary></entry><entry><title type="html">Metodologia Proposta</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-21-Metodologia.html" rel="alternate" type="text/html" title="Metodologia Proposta" /><published>2023-02-21T00:00:00-03:00</published><updated>2023-02-21T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Metodologia</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-21-Metodologia.html"><![CDATA[<blockquote class="block-tip">
-  <h5 id="ideia-principal">Ideia Principal</h5>
+  <li>Boas-vindas: O objetivo desta etapa é criar um ambiente acolhedor e amigável para o novo colaborador. Isso pode incluir apresentar a equipe, fornecer informações básicas sobre a empresa, como a missão e visão, e ajudar o colaborador a se sentir confortável e incluído desde o início.</li>
+  <li>Introdução: Nesta etapa, o objetivo é ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho. Isso pode incluir informações sobre os processos da empresa, a dinâmica da equipe e os valores que são valorizados na empresa. Também pode ser útil apresentar o colaborador aos colegas de trabalho e estabelecer as primeiras conexões dentro da equipe.</li>
+  <li>Treinamento: O objetivo desta etapa é capacitar o novo colaborador para desempenhar suas funções. Isso pode incluir fornecer informações específicas sobre as tarefas que o colaborador será responsável por realizar, bem como treinamento sobre as ferramentas e tecnologias que serão usadas. O treinamento também pode incluir instruções sobre as políticas e procedimentos da empresa.</li>
+  <li>Acompanhamento: Durante as primeiras semanas ou meses, o objetivo desta etapa é oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila. Isso pode incluir responder perguntas, fornecer feedback e orientar o colaborador sobre as expectativas da empresa. Também pode ser útil estabelecer metas claras e acompanhar o progresso do colaborador regularmente.</li>
+</ul>
 
-  <p>O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado 
-além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais</p>
-</blockquote>
+<h1 id="saiba-mais-sobre-onboarding">Saiba mais sobre Onboarding</h1>
 
-<p>Ciclo de vida de projeto de software + processo de onboarding + aprendizagem orientada a experiencia + Comunidades de Software Livre</p>
-
-<p>Aprendizagem orientada a experiência e aprendizagem orientada a projetos são abordagens cada vez mais utilizadas na área de engenharia de software e métodos ágeis. Essas abordagens colocam o estudante/participante no centro do processo de aprendizagem, permitindo que ele vivencie situações reais e desafiadoras de desenvolvimento de software. Quando combinadas com o desenvolvimento de um projeto open source e padrões de comunidades open source, essas abordagens oferecem ainda mais benefícios para a formação dos estudantes.</p>
-
-<p>Já a aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores.  Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.</p>
-
-<p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
-
-<p><img src="../assets/figs/conteudo.png" alt="image" />
-Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
-
-<ul>
-  <li>Boas-vindas: criar um ambiente acolhedor e encorajador para o novo colaborador.</li>
-  <li>Introdução: ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho.</li>
-  <li>Treinamento: capacitar o novo colaborador para desempenhar suas funções.</li>
-  <li>Acompanhamento: oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila.</li>
-</ul>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais]]></summary></entry><entry><title type="html">Aprendizado Orientado à Experiência - Princípios básicos</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-20-Experiential-Learning.html" rel="alternate" type="text/html" title="Aprendizado Orientado à Experiência - Princípios básicos" /><published>2023-02-20T00:00:00-03:00</published><updated>2023-02-20T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Experiential-Learning</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-20-Experiential-Learning.html"><![CDATA[<blockquote class="block-tip">
+<p>Caso você tenha interesse em aprofundar seus conhecimentos Onboarding, seguem abaixo algumas referências úteis:</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco do Onboarding é guiar novos desenvolvedores na adoção de práticas e cultura organizacionais, além da mentoria/liderança serem crucial para o compartilhamento.]]></summary></entry><entry><title type="html">Aprendizado Orientado à Experiência - Princípios básicos</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-20-Experiential-Learning.html" rel="alternate" type="text/html" title="Aprendizado Orientado à Experiência - Princípios básicos" /><published>2023-02-20T00:00:00-03:00</published><updated>2023-02-20T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Experiential-Learning</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-20-Experiential-Learning.html"><![CDATA[<blockquote class="block-tip">
   <h5 id="ideia-principal">Ideia Principal</h5>
 
   <p>O principal foco do aprendizado orientado à experiência é criar a “jornada de descoberta”, para que 
@@ -633,4 +787,8 @@ Para desenvolver essas habilidades em um ciclo de aprendizagem ativa, o estudant
 
 <p>Por fim, a quarta etapa, <strong>de sintetizar</strong>, é quando os alunos consolidam seus aprendizagens, integrando seus novos conhecimentos e habilidades em suas vidas cotidianas. Nessa etapa, é importante incentivar os alunos a refletir sobre o que aprenderam e como podem aplicar suas novas habilidades em sua vida profissional ou pessoal.</p>
 
-<p>Para apoiar essas quatro etapas, uso uma variedade de métodos de ensino digital, como fóruns de discussão online e plataformas de colaboração. Cada método é escolhido com base nas necessidades específicas de cada etapa do processo de aprendizagem, ajudando os alunos a se engajar ativamente e a criar um ambiente de aprendizagem colaborativa e significativa. Na próxima sessão, vamos apresentar como aplicamos os conceitos relacionados a aprendizagem orientada a experiencia para acelerar a imersão em conceitos relacionados à Engenharia de Software.</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco do aprendizado orientado à experiência é criar a “jornada de descoberta”, para que o aluno tenha aprendizagem autônoma, além de práticas e cultura alinhadas com demandas do mercado]]></summary></entry></feed>
+<p>Para apoiar essas quatro etapas, uso uma variedade de métodos de ensino digital, como fóruns de discussão online e plataformas de colaboração. Cada método é escolhido com base nas necessidades específicas de cada etapa do processo de aprendizagem, ajudando os alunos a se engajar ativamente e a criar um ambiente de aprendizagem colaborativa e significativa. Na próxima sessão, vamos apresentar como aplicamos os conceitos relacionados a aprendizagem orientada a experiencia para acelerar a imersão em conceitos relacionados à Engenharia de Software.</p>
+
+<h1 id="saiba-mais-sobre-aprendizagem-orientado-à-experiência">Saiba mais sobre Aprendizagem Orientado à Experiência</h1>
+
+<p>Caso você tenha interesse em aprofundar seus conhecimentos na metodologia do Aprendizado Orientado à Experiência (experiential learning), seguem abaixo algumas referências úteis:</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco do aprendizado orientado à experiência é criar a “jornada de descoberta”, para que o aluno tenha aprendizagem autônoma, além de práticas e cultura alinhadas com demandas do mercado]]></summary></entry></feed>
