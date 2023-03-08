@@ -34,24 +34,24 @@ Em produtos de software, o **onboarding** de novos colaboradores pode ser ainda 
 
 O processo de onboarding pode variar de acordo com a empresa, mas geralmente envolve as seguintes etapas:
 
-- Boas-vindas: Nesta etapa, o novo colaborador é recebido pela equipe e apresentado à empresa, incluindo a missão, visão e valores.
-- Introdução: O novo colaborador recebe informações sobre a cultura e os processos da empresa, além de conhecer os colegas de trabalho.
-- Treinamento: O novo colaborador recebe o treinamento necessário para desempenhar suas funções.
-- Acompanhamento: Durante as primeiras semanas, é importante que o novo colaborador receba um acompanhamento para esclarecer dúvidas e orientá-lo sobre as expectativas da empresa.
-- Imersão no projeto: O novo colaborador é apresentado ao projeto ou equipe em que irá trabalhar e recebe informações sobre a metodologia de trabalho e as ferramentas utilizadas.
-- Desafios iniciais: O novo colaborador recebe tarefas e projetos menores para se adaptar gradualmente ao ambiente de trabalho e ganhar confiança.
-- Feedback: É importante que a empresa ofereça um feedback constante para o novo colaborador sobre seu desempenho e orientações sobre como melhorar.
-- Integração contínua: O processo de onboarding não deve se limitar às primeiras semanas de trabalho, mas deve ser um processo contínuo de integração do novo colaborador à equipe e à cultura da empresa.
+- **Boas-vindas**: Nesta etapa, o novo colaborador é recebido pela equipe e apresentado à empresa, incluindo a missão, visão e valores.
+- **Introdução**: O novo colaborador recebe informações sobre a cultura e os processos da empresa, além de conhecer os colegas de trabalho.
+- **Treinamento**: O novo colaborador recebe o treinamento necessário para desempenhar suas funções.
+- **Desafios iniciais**: O novo colaborador recebe tarefas e projetos menores para se adaptar gradualmente ao ambiente de trabalho e ganhar confiança.
+- **Feedback**: É importante que a empresa ofereça um feedback constante para o novo colaborador sobre seu desempenho e orientações sobre como melhorar.
+- **Acompanhamento**: Durante as primeiras semanas, é importante que o novo colaborador receba um acompanhamento para esclarecer dúvidas e orientá-lo sobre as expectativas da empresa.
+- **Imersão no projeto**: O novo colaborador é apresentado ao projeto ou equipe em que irá trabalhar e recebe informações sobre a metodologia de trabalho e as ferramentas utilizadas.
+- **Integração contínua**: O processo de onboarding não deve se limitar às primeiras semanas de trabalho, mas deve ser um processo contínuo de integração do novo colaborador à equipe e à cultura da empresa.
 
 
 ![image](../assets/figs/boss.png)
 
-O processo de onboarding é composto por várias etapas, cada uma com seus próprios objetivos específicos. Essas etapas incluem:
+Cada uma das etapas tem seus próprios objetivos específicos que incluem:
 
-- Boas-vindas: O objetivo desta etapa é criar um ambiente acolhedor e amigável para o novo colaborador. Isso pode incluir apresentar a equipe, fornecer informações básicas sobre a empresa, como a missão e visão, e ajudar o colaborador a se sentir confortável e incluído desde o início.
-- Introdução: Nesta etapa, o objetivo é ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho. Isso pode incluir informações sobre os processos da empresa, a dinâmica da equipe e os valores que são valorizados na empresa. Também pode ser útil apresentar o colaborador aos colegas de trabalho e estabelecer as primeiras conexões dentro da equipe.
-- Treinamento: O objetivo desta etapa é capacitar o novo colaborador para desempenhar suas funções. Isso pode incluir fornecer informações específicas sobre as tarefas que o colaborador será responsável por realizar, bem como treinamento sobre as ferramentas e tecnologias que serão usadas. O treinamento também pode incluir instruções sobre as políticas e procedimentos da empresa.
-- Acompanhamento: Durante as primeiras semanas ou meses, o objetivo desta etapa é oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila. Isso pode incluir responder perguntas, fornecer feedback e orientar o colaborador sobre as expectativas da empresa. Também pode ser útil estabelecer metas claras e acompanhar o progresso do colaborador regularmente.
+- **Boas-vindas**: O objetivo desta etapa é criar um ambiente acolhedor e amigável para o novo colaborador. Isso pode incluir apresentar a equipe, fornecer informações básicas sobre a comunidade, como a missão e visão, e ajudar o colaborador a se sentir confortável e incluído desde o início.
+- **Introdução**: Nesta etapa, o objetivo é ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho. Isso pode incluir informações sobre os processos da empresa, a dinâmica da equipe e os valores que são valorizados na comunidade. Também pode ser útil apresentar o colaborador aos colegas de trabalho e estabelecer as primeiras conexões dentro da equipe.
+- **Treinamento**: O objetivo desta etapa é capacitar o novo colaborador para desempenhar suas funções. Isso pode incluir fornecer informações específicas sobre as tarefas que o colaborador será responsável por realizar, bem como treinamento sobre as ferramentas e tecnologias que serão usadas. 
+- **Acompanhamento**: Durante as primeiras semanas ou meses, o objetivo desta etapa é oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila. Isso pode incluir responder perguntas, fornecer feedback e orientar o colaborador sobre as expectativas da comunidade. Também pode ser útil estabelecer metas claras e acompanhar o progresso do colaborador regularmente.
 
 # Saiba mais sobre Onboarding
 

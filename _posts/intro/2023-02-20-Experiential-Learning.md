@@ -45,4 +45,3 @@ Para apoiar essas quatro etapas, uso uma variedade de métodos de ensino digital
 
 Caso você tenha interesse em aprofundar seus conhecimentos na metodologia do Aprendizado Orientado à Experiência (experiential learning), seguem abaixo algumas referências úteis:
 
-[^my_footnote]: This also works fine.
