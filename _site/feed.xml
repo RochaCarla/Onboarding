@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Onboarding/" rel="alternate" type="text/html" /><updated>2023-03-07T21:06:40-03:00</updated><id>http://localhost:4000/Onboarding/feed.xml</id><title type="html">Disseminando a Cultura de Inovação Ágil</title><subtitle>Livro construido com o Jekyll com o estilo GitBook.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Onboarding/" rel="alternate" type="text/html" /><updated>2023-03-15T21:40:00-03:00</updated><id>http://localhost:4000/Onboarding/feed.xml</id><title type="html">Disseminando a Cultura de Inovação Ágil</title><subtitle>Livro construido com o Jekyll com o estilo GitBook.
 </subtitle><author><name>Carla Rocha</name></author><entry><title type="html">Parte II - Acelerando o Aprendizado</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-24-Execucao.html" rel="alternate" type="text/html" title="Parte II - Acelerando o Aprendizado" /><published>2023-02-24T00:00:00-03:00</published><updated>2023-02-24T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Execucao</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-24-Execucao.html"><![CDATA[<h2 id="visão-geral">Visão Geral</h2>
 
 <p>Uma estratégia eficaz de aprendizagem deve integrar conceitos teóricos com sua aplicação prática, seguindo o princípio de “aprender fazendo”. Sem prática, não há aprendizado significativo. Portanto, o processo de ensino-aprendizagem deve incluir duas etapas fundamentais: sessões de assimilação de conceitos teóricos e sessões de prática.</p>
@@ -9,7 +9,7 @@
 
 <h2 id="roadmap-do-onboard">Roadmap do Onboard</h2>
 
-<p><img src="../assets/figs/roadmap.jpg" alt="image" /></p>
+<p><img src="../assets/figs/roadmap.png" alt="image" /></p>
 
 <h2 id="recepção--orientações-gerais">Recepção + Orientações gerais</h2>
 
@@ -85,9 +85,14 @@
 
 <p>Além disso, ao apresentar os entregáveis esperados em macro atividades, permite-se que os alunos tenham liberdade para definir seus próprios caminhos e desenvolver suas habilidades não técnicas, o que pode ser extremamente valioso para sua formação como desenvolvedores. Nessa etapa são desenvolvidas várias habilidades não técnicas, como comunicação efetiva, auto aprendizagem, gestão de horas, gestão des conflitos, agir mesmo com pouca informação. Esse setup é bastante próximo de início de projetos no mercado.</p>
 
-<h3 id="papéis">Papéis</h3>
+<h3 id="formação-das-equipes">Formação das Equipes</h3>
 
 <p>Cada aluno desempenha um papel único em uma equipe DevOps, que se assemelha a uma equipe de produto, com a responsabilidade coletiva de “Você construiu, você executa”.</p>
+
+<p>5.1 Time multidisciplinar
+5.2 Time auto-organizável
+5.3 Sentando lado a lado
+5.4 As reuniões de retrospectiva e a melhoria contínua</p>
 
 <p>As funções, suas responsabilidades e entregas são as seguintes:</p>
 
@@ -117,7 +122,7 @@
   <li>Ciclos de entrega: existem dois lançamentos oficiais significativos no curso, nos quais as equipes apresentam suas soluções a um conselho de avaliação.</li>
 </ul>
 
-<h3 id="práticas-obrigatórias">Práticas Obrigatórias</h3>
+<h3 id="práticas-de-aprendizagem">Práticas de aprendizagem</h3>
 
 <table>
   <thead>
@@ -161,7 +166,17 @@
   </tbody>
 </table>
 
-<h3 id="entregáveis">Entregáveis</h3>
+<h3 id="especificar-projetar-trabalhar-tudo-em-par">Especificar, projetar, trabalhar, tudo em par</h3>
+
+<p>Benefícios Programação em par</p>
+
+<p>Nivelando o conhecimento</p>
+
+<p>Pair programming essentially means that two people write code together on one machine. It is a very collaborative way of working and involves a lot of communication. While a pair of developers work on a task together, they do not only write code, they also plan and discuss their work. They clarify ideas on the way, discuss approaches and come to better solutions.</p>
+
+<p>https://martinfowler.com/articles/on-pair-programming.html</p>
+
+<h3 id="entregas">Entregas</h3>
 
 <p>Embora o foco principal do curso fosse o desenvolvimento do projeto para avaliar o resultado da aprendizagem, foram estabelecidos alguns outros entregáveis ao longo do período. A lista de entregáveis inclui:</p>
 
@@ -272,6 +287,8 @@
 
 <p>https://caroli.org/medir-a-produtividade-em-equipes-de-software-vai-alem-de-olhar-apenas-o-volume-de-codigo-produzido-voce-precisa-do-coeficiente-de-produtividade/</p>
 
+<h3 id="definindo-o-significado-de-pronto">Definindo o significado de Pronto</h3>
+
 <h2 id="práticas">Práticas</h2>
 <p>The labs on the other hand, consisted of sprint activities such as planning, demo and retrospectives</p>
 
@@ -361,39 +378,75 @@ além da mentoria/liderança serem crucial para o compartilhamento de práticas 
 além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais</p>
 </blockquote>
 
-<p>Ciclo de vida de projeto de software + processo de onboarding + aprendizagem orientada a experiencia + Comunidades de Software Livre</p>
+<p>A principal ideia por trás da metodologia proposta é utilizar o ciclo de onboarding e os princípios e práticas de aprendizagem baseada em experiência, a fim de aplicá-los em um ciclo de desenvolvimento de software que atenda aos padrões adotados pelas comunidades de software livre.  Essa abordagem não apenas aumenta a eficiência e qualidade do projeto, mas também incentiva o desenvolvimento de habilidades e conhecimentos dos membros da equipe, promovendo um ambiente de trabalho colaborativo e produtivo.</p>
 
 <p>Aprendizagem orientada a experiência e aprendizagem orientada a projetos são abordagens cada vez mais utilizadas na área de engenharia de software e métodos ágeis. Essas abordagens colocam o estudante/participante no centro do processo de aprendizagem, permitindo que ele vivencie situações reais e desafiadoras de desenvolvimento de software. Quando combinadas com o desenvolvimento de um projeto open source e padrões de comunidades open source, essas abordagens oferecem ainda mais benefícios para a formação dos estudantes.</p>
 
-<p>Já a aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores.  Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.</p>
+<p>A aprendizagem orientada a projetos desafia os estudantes a resolver problemas reais, por meio da criação de projetos significativos e desafiadores.  Ao criar projetos, os estudantes são capazes de aplicar as habilidades e conhecimentos adquiridos em situações práticas, trabalhar em equipe, desenvolver habilidades de gerenciamento de projetos e aprimorar a capacidade de comunicação, que são habilidades essenciais na área de engenharia de software.</p>
 
-<p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, os estudantes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
+<p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, as equipes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
 
-<p><img src="../assets/figs/conteudo.png" alt="image" />
-Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
+<p><img src="../assets/figs/macroetapas.png" alt="image" /></p>
+
+<p>Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
 
 <ul>
   <li>Boas-vindas: criar um ambiente acolhedor e encorajador para o novo colaborador.</li>
   <li>Introdução: ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho.</li>
   <li>Treinamento: capacitar o novo colaborador para desempenhar suas funções.</li>
   <li>Acompanhamento: oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila.</li>
-</ul>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais]]></summary></entry><entry><title type="html">Parte I - Cultura de Inovação Ágil</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html" rel="alternate" type="text/html" title="Parte I - Cultura de Inovação Ágil" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Conceitos</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html"><![CDATA[<h1 id="visão-geral">Visão Geral</h1>
+</ul>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais]]></summary></entry><entry><title type="html">Parte I - Cultura de Inovação Ágil</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html" rel="alternate" type="text/html" title="Parte I - Cultura de Inovação Ágil" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Conceitos</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Conceitos.html"><![CDATA[<h1 id="agilidade">Agilidade</h1>
 
-<p>Este capítulo tem como objetivo apresentar uma introdução aos conceitos teóricos e guias práticos para a adoção de métodos ágeis. Embora seja uma literatura introdutória, ela é fundamental para uma compreensão inicial desses conceitos. Além disso, são disponibilizadas referências bibliográficas complementares para aqueles que desejam se aprofundar ainda mais no assunto.</p>
+<p>O desenvolvimento ágil é um método adaptativo, ao invés de preditivo, e coloca as pessoas em primeiro lugar, ao invés de focar nos processos. Isso significa que não há uma divisão clara entre as fases e as disciplinas podem, muitas vezes, ser executadas em paralelo. O objetivo principal dos projetos ágeis é entregar um produto de qualidade para o cliente, e no caso de projetos de software, essa entrega envolve a criação de software de qualidade. Esse resultado é alcançado através de um planejamento, projeto e desenvolvimento iterativo e incremental do produto de software, com a participação e validação contínua dos clientes ou patrocinadores da ideia.</p>
 
-<h1 id="ciclo-de-desenvolvimento-de-projeto-de-software">Ciclo de Desenvolvimento de Projeto de Software</h1>
+<h1 id="pessoas-envolvidas-em-um-projeto-de-software">Pessoas envolvidas em um projeto de software</h1>
 
-<p><img src="../assets/figs/LDSP.png" alt="image" /></p>
-
-<p>Saída do Ciclo de desenvolvimento de projto de Software</p>
+<p>Stakeholders são todas as pessoas, grupos ou organizações que têm interesse ou influência no resultado de um projeto de software. Eles podem ser internos, como membros da equipe de desenvolvimento, gerentes de projeto, líderes de equipe, ou externos, como clientes, usuários finais, fornecedores ou parceiros comerciais. Entre os stakeholders comuns em um ciclo de projeto de software, estão:</p>
 
 <ul>
-  <li><strong>Prova de conceito (PoC)</strong>: É uma demonstração de um conceito ou ideia para verificar a sua viabilidade ou para avaliar se é possível implementar algo. Geralmente, a PoC é uma versão simplificada do produto ou solução final, desenvolvida para validar a tecnologia, a arquitetura ou as funcionalidades-chave do projeto.</li>
-  <li><strong>Mínimo Produto Viável (MVP)</strong>: É a versão mais básica de um produto ou serviço que pode ser lançada no mercado para validar a sua aceitação pelos clientes. O MVP é desenvolvido com o objetivo de obter feedback dos usuários e testar hipóteses sobre o produto, sem a necessidade de investir muito tempo e recursos em seu desenvolvimento.</li>
-  <li><strong>Release de software</strong>: É a versão de um produto de software que é lançada para uso público. A release inclui as funcionalidades desenvolvidas e testadas até aquele momento, com o objetivo de fornecer aos usuários uma versão estável e confiável do produto. Cada release é numerada e pode incluir correções de bugs, melhorias de desempenho e novas funcionalidades em relação às versões anteriores. As releases são normalmente numeradas seguindo um esquema de versionamento, como o SemVer (Semantic Versioning).</li>
+  <li><strong>Testadores</strong>: responsáveis por testar e validar o software para garantir que ele atenda aos requisitos e padrões de qualidade estabelecidos.</li>
+  <li><strong>Interaction Designers</strong>: são responsáveis pela criação da interface do usuário, garantindo que a experiência do usuário seja intuitiva, eficiente e agradável</li>
+  <li><strong>Arquitetos</strong>: são responsáveis por projetar a arquitetura do sistema, garantindo que ele seja escalável, seguro e fácil de manter.</li>
+  <li><strong>Gestor de Projeto</strong>:  são responsáveis por liderar o projeto e garantir que ele seja entregue dentro do prazo, orçamento e escopo estabelecidos</li>
+  <li><strong>Gestor de Produto e Executivos</strong>: têm como objetivo liderar a estratégia e o desenvolvimento de produtos para atender às necessidades dos clientes e do negócio</li>
+  <li><strong>Escritores técnicos</strong>:  são responsáveis pela criação da documentação do software, incluindo manuais de usuário, guias de instalação e documentos técnicos</li>
+  <li><strong>Usuários finais</strong>: são a razão pela qual o software está sendo desenvolvido, e suas necessidades e feedbacks devem ser levados em consideração em todo o processo</li>
+  <li><strong>Programadores</strong>: são responsáveis pela codificação e desenvolvimento do software, transformando as ideias em código.</li>
+  <li><strong>Recursos Humanos</strong>: responsável por recrutar, contratar e gerenciar a equipe de desenvolvimento de software</li>
 </ul>
 
-<h1 id="métodos-ágeis">Métodos Ágeis</h1>
+<p>Nos times ágeis, os papéis e as responsabilidades são substituídos por atribuições, o que significa que o foco é colocado nas tarefas que precisam ser realizadas e não em quem deve fazê-las. Essas atribuições são flexíveis e podem ser desempenhadas por uma ou mais pessoas no time. Também é comum que um único indivíduo assuma várias atribuições para garantir que as necessidades do projeto sejam atendidas de maneira eficiente.</p>
+
+<p>Essa abordagem é uma resposta ao modelo cascata, no qual cada etapa do processo é conduzida por profissionais específicos, definidos pelos seus papéis. Nos times ágeis, há uma maior flexibilidade e colaboração entre os membros da equipe, permitindo que as habilidades individuais sejam utilizadas de forma mais adaptável às necessidades do projeto.</p>
+
+<p>As atribuições em times ágeis são frequentemente mais focadas em entregas específicas, em vez de tarefas individuais, o que ajuda a manter o foco no objetivo geral do projeto e promove uma abordagem mais centrada no cliente. Isso significa que as equipes ágeis estão mais preparadas para lidar com mudanças inesperadas e se adaptar rapidamente, mantendo-se alinhadas com as necessidades do negócio.</p>
+
+<p>Um time tipicamente ágil, temos a necessidade das seguintes atribuições</p>
+<ul>
+  <li>
+    <p><strong>Product Owner</strong> - Embora o termo “Product Owner” tenha sido introduzido pelo Scrum como uma atribuição específica em equipes ágeis, é comum encontrar outras variações de definição e nomenclatura dessa função em diferentes contextos empresariais. Alguns exemplos incluem “Estrategista de Produto” (Product Strategist) e “Gestor de Produto” (Product Manager), que podem ter algumas diferenças em suas responsabilidades e atribuições específicas, mas, em geral, têm como objetivo liderar a estratégia e o desenvolvimento de produtos para atender às necessidades dos clientes e do negócio. Independentemente da nomenclatura, o papel do Product Owner ou suas variações é crucial para o sucesso de projetos ágeis, pois eles são responsáveis por definir as prioridades, tomar decisões e garantir a entrega de valor para o cliente.</p>
+  </li>
+  <li>
+    <p><strong>Scrum Master</strong>:  garantir que o processo Scrum seja seguido corretamente. Ele/ela trabalha para remover quaisquer impedimentos ou obstáculos que possam estar impedindo o time de cumprir seus objetivos, ajudando a equipe a se auto-organizar e colaborar de maneira eficaz. O Scrum Master também é responsável por liderar as cerimônias do Scrum, como a Daily Scrum, a Sprint Review e a Sprint Retrospective, e por promover uma cultura de melhoria contínua.</p>
+  </li>
+  <li>
+    <p><strong>DevOps</strong>: DevOps é uma cultura e prática que tem como objetivo integrar as equipes de desenvolvimento (Dev) e operações (Ops) para acelerar a entrega de software de alta qualidade. Em times ágeis, o DevOps é frequentemente uma função ou atribuição que ajuda a garantir que a entrega de software seja automatizada, segura e rápida. Os DevOps trabalham em conjunto com o time de desenvolvimento para garantir que o software seja entregue rapidamente e com qualidade, automatizando processos de testes, integração, entrega e monitoramento de software.</p>
+  </li>
+  <li>
+    <p><strong>Arquiteto</strong>: é responsável por definir a arquitetura do sistema e garantir que ela atenda às necessidades do negócio e do cliente. Em times ágeis, o arquiteto geralmente é uma função ou atribuição que trabalha em conjunto com o time de desenvolvimento para garantir que a arquitetura seja flexível, escalável e segura. O arquiteto também é responsável por manter a consistência da arquitetura em todo o sistema e garantir que as soluções sejam consistentes e sustentáveis.</p>
+  </li>
+  <li>
+    <p><strong>Desenvolvedor back-end</strong>: é responsável por trabalhar nos servidores, bancos de dados e outros componentes do software que não estão visíveis para o usuário final. Eles são responsáveis por desenvolver a lógica de negócios e a integração com outros sistemas, garantindo que o software funcione corretamente e de forma eficiente.</p>
+  </li>
+  <li>
+    <p><strong>Desenvolvedor Front-end</strong>: é responsável por desenvolver a interface do usuário, ou seja, tudo o que o usuário vê e interage com o software. Eles são responsáveis por garantir que a interface seja amigável, responsiva e intuitiva, trabalhando com designers para garantir uma experiência do usuário de alta qualidade. O desenvolvedor front-end também é responsável por garantir que o software seja compatível com diferentes navegadores e dispositivos.</p>
+  </li>
+</ul>
+
+<p>4.5 Cleaner
+4.6 Tracker
+4.7 Gerente
+4.8 Outros papéis</p>
 
 <h2 id="manifesto-ágil">Manifesto ágil</h2>
 
@@ -443,50 +496,6 @@ Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:<
 
 <p>Finalmente, um conceito chave das metodologias ágeis é o <em>Time-Box</em>. O conceito de time-boxing é uma das práticas-chave das metodologias ágeis. Time-boxing significa definir um tempo limite para a realização de uma atividade, reunião ou ciclo de desenvolvimento. Por exemplo, as sprints do Scrum são time-boxes para o desenvolvimento de software, com um período definido de 1 a 4 semanas para concluir uma série de tarefas. A prática de time-boxing ajuda a criar um senso de urgência e foco na equipe, além de garantir que as atividades sejam concluídas dentro de um período definido. Isso também ajuda a evitar o desperdício de tempo e recursos, uma vez que a equipe sabe que tem um prazo limitado para concluir uma determinada atividade.</p>
 
-<h3 id="pessoas-envolvidas-em-um-projeto-de-software">Pessoas envolvidas em um projeto de software</h3>
-
-<p>Stakeholders são todas as pessoas, grupos ou organizações que têm interesse ou influência no resultado de um projeto de software. Eles podem ser internos, como membros da equipe de desenvolvimento, gerentes de projeto, líderes de equipe, ou externos, como clientes, usuários finais, fornecedores ou parceiros comerciais. Entre os stakeholders comuns em um ciclo de projeto de software, estão:</p>
-
-<ul>
-  <li><strong>Testadores</strong>: responsáveis por testar e validar o software para garantir que ele atenda aos requisitos e padrões de qualidade estabelecidos.</li>
-  <li><strong>Interaction Designers</strong>: são responsáveis pela criação da interface do usuário, garantindo que a experiência do usuário seja intuitiva, eficiente e agradável</li>
-  <li><strong>Arquitetos</strong>: são responsáveis por projetar a arquitetura do sistema, garantindo que ele seja escalável, seguro e fácil de manter.</li>
-  <li><strong>Gestor de Projeto</strong>:  são responsáveis por liderar o projeto e garantir que ele seja entregue dentro do prazo, orçamento e escopo estabelecidos</li>
-  <li><strong>Gestor de Produto e Executivos</strong>: têm como objetivo liderar a estratégia e o desenvolvimento de produtos para atender às necessidades dos clientes e do negócio</li>
-  <li><strong>Escritores técnicos</strong>:  são responsáveis pela criação da documentação do software, incluindo manuais de usuário, guias de instalação e documentos técnicos</li>
-  <li><strong>Usuários finais</strong>: são a razão pela qual o software está sendo desenvolvido, e suas necessidades e feedbacks devem ser levados em consideração em todo o processo</li>
-  <li><strong>Programadores</strong>: são responsáveis pela codificação e desenvolvimento do software, transformando as ideias em código.</li>
-  <li><strong>Recursos Humanos</strong>: responsável por recrutar, contratar e gerenciar a equipe de desenvolvimento de software</li>
-</ul>
-
-<p>Nos times ágeis, os papéis e as responsabilidades são substituídos por atribuições, o que significa que o foco é colocado nas tarefas que precisam ser realizadas e não em quem deve fazê-las. Essas atribuições são flexíveis e podem ser desempenhadas por uma ou mais pessoas no time. Também é comum que um único indivíduo assuma várias atribuições para garantir que as necessidades do projeto sejam atendidas de maneira eficiente.</p>
-
-<p>Essa abordagem é uma resposta ao modelo cascata, no qual cada etapa do processo é conduzida por profissionais específicos, definidos pelos seus papéis. Nos times ágeis, há uma maior flexibilidade e colaboração entre os membros da equipe, permitindo que as habilidades individuais sejam utilizadas de forma mais adaptável às necessidades do projeto.</p>
-
-<p>As atribuições em times ágeis são frequentemente mais focadas em entregas específicas, em vez de tarefas individuais, o que ajuda a manter o foco no objetivo geral do projeto e promove uma abordagem mais centrada no cliente. Isso significa que as equipes ágeis estão mais preparadas para lidar com mudanças inesperadas e se adaptar rapidamente, mantendo-se alinhadas com as necessidades do negócio.</p>
-
-<p>Um time tipicamente ágil, temos a necessidade das seguintes atribuições</p>
-<ul>
-  <li>
-    <p><strong>Product Owner</strong> - Embora o termo “Product Owner” tenha sido introduzido pelo Scrum como uma atribuição específica em equipes ágeis, é comum encontrar outras variações de definição e nomenclatura dessa função em diferentes contextos empresariais. Alguns exemplos incluem “Estrategista de Produto” (Product Strategist) e “Gestor de Produto” (Product Manager), que podem ter algumas diferenças em suas responsabilidades e atribuições específicas, mas, em geral, têm como objetivo liderar a estratégia e o desenvolvimento de produtos para atender às necessidades dos clientes e do negócio. Independentemente da nomenclatura, o papel do Product Owner ou suas variações é crucial para o sucesso de projetos ágeis, pois eles são responsáveis por definir as prioridades, tomar decisões e garantir a entrega de valor para o cliente.</p>
-  </li>
-  <li>
-    <p><strong>Scrum Master</strong>:  garantir que o processo Scrum seja seguido corretamente. Ele/ela trabalha para remover quaisquer impedimentos ou obstáculos que possam estar impedindo o time de cumprir seus objetivos, ajudando a equipe a se auto-organizar e colaborar de maneira eficaz. O Scrum Master também é responsável por liderar as cerimônias do Scrum, como a Daily Scrum, a Sprint Review e a Sprint Retrospective, e por promover uma cultura de melhoria contínua.</p>
-  </li>
-  <li>
-    <p><strong>DevOps</strong>: DevOps é uma cultura e prática que tem como objetivo integrar as equipes de desenvolvimento (Dev) e operações (Ops) para acelerar a entrega de software de alta qualidade. Em times ágeis, o DevOps é frequentemente uma função ou atribuição que ajuda a garantir que a entrega de software seja automatizada, segura e rápida. Os DevOps trabalham em conjunto com o time de desenvolvimento para garantir que o software seja entregue rapidamente e com qualidade, automatizando processos de testes, integração, entrega e monitoramento de software.</p>
-  </li>
-  <li>
-    <p><strong>Arquiteto</strong>: é responsável por definir a arquitetura do sistema e garantir que ela atenda às necessidades do negócio e do cliente. Em times ágeis, o arquiteto geralmente é uma função ou atribuição que trabalha em conjunto com o time de desenvolvimento para garantir que a arquitetura seja flexível, escalável e segura. O arquiteto também é responsável por manter a consistência da arquitetura em todo o sistema e garantir que as soluções sejam consistentes e sustentáveis.</p>
-  </li>
-  <li>
-    <p><strong>Desenvolvedor back-end</strong>: é responsável por trabalhar nos servidores, bancos de dados e outros componentes do software que não estão visíveis para o usuário final. Eles são responsáveis por desenvolver a lógica de negócios e a integração com outros sistemas, garantindo que o software funcione corretamente e de forma eficiente.</p>
-  </li>
-  <li>
-    <p><strong>Desenvolvedor Front-end</strong>: é responsável por desenvolver a interface do usuário, ou seja, tudo o que o usuário vê e interage com o software. Eles são responsáveis por garantir que a interface seja amigável, responsiva e intuitiva, trabalhando com designers para garantir uma experiência do usuário de alta qualidade. O desenvolvedor front-end também é responsável por garantir que o software seja compatível com diferentes navegadores e dispositivos.</p>
-  </li>
-</ul>
-
 <h3 id="scrum---produtividade-da-equipe">Scrum - Produtividade da Equipe</h3>
 
 <p>O Scrum é um framework ágil que visa a entrega de produtos complexos. Embora tenha sido inicialmente proposto para projetos de desenvolvimento de software, ele pode ser aplicado em qualquer contexto de projetos complexos e inovadores, especialmente aqueles com requisitos emergentes ou que mudam rapidamente. Foi proposto pelo Jeff Sutherland, e o guia completo do Scrum é constantemente atualizado e disponibilizado em português <a href="https://scrumguides.org/index.html">aqui</a>.</p>
@@ -500,7 +509,7 @@ Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizand
 
 <p>Uma das características essenciais do Scrum é a formação de um time colaborativo, multifuncional e auto-organizado. A equipe é responsável pela entrega do produto e deve trabalhar de forma alinhada e conjunta para alcançar os objetivos definidos. No Scrum, o processo é dividido em sprints, períodos de tempo curtos que geralmente variam entre uma a quatro semanas, nos quais o time se concentra em uma parte específica do produto e trabalha para entregá-la até o final da sprint.</p>
 
-<p>O Scrum é composto por papéis, eventos e artefatos. Os papéis incluem o Scrum Master, o Product Owner e o time de desenvolvimento. Os eventos incluem a sprint, a reunião diária, a revisão da sprint e a retrospectiva da sprint. Os artefatos incluem a lista do produto, a lista da sprint e o incremento do produto. Por ser um framework flexível e adaptável, o Scrum pode ser utilizado em diferentes tipos de projetos, desde que a equipe esteja comprometida com os valores e princípios do framework.</p>
+<p>O Scrum é composto por atribuições/papéis, eventos e artefatos. Os papéis incluem o Scrum Master, o Product Owner e o time de desenvolvimento. Os eventos incluem a sprint, a reunião diária, a revisão da sprint e a retrospectiva da sprint. Os artefatos incluem a lista do produto, a lista da sprint e o incremento do produto. Por ser um framework flexível e adaptável, o Scrum pode ser utilizado em diferentes tipos de projetos, desde que a equipe esteja comprometida com os valores e princípios do framework. A Figura abaixo ilustra o Scrum, no qual as cores distiguem os papeis, dos rituais (reuniões) e</p>
 
 <p><img src="../assets/figs/scrum.png" alt="image" /></p>
 
@@ -516,6 +525,8 @@ Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizand
 </blockquote>
 
 <p>O XP busca alcançar esses objetivos celebrando e atendendo às necessidades humanas de todos os envolvidos no desenvolvimento de software, desde patrocinadores, gerentes, testadores, usuários até programadores. Embora o XP tenha começado como uma metodologia para equipes pequenas que trabalham em projetos internos, equipes em todo o mundo usam o XP para projetos em grande escala, incorporados e embalados.</p>
+
+<p><img src="../assets/figs/xp1.png" alt="image" /></p>
 
 <p>Princípios</p>
 
@@ -565,8 +576,6 @@ Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizand
   <li><strong>Contrato com Escopo Negociado</strong>: o contrato é baseado em um escopo negociado com o cliente, permitindo que as necessidades do cliente sejam atendidas de forma mais eficiente.</li>
 </ul>
 
-<p><img src="../assets/figs/xp1.png" alt="image" /></p>
-
 <h3 id="spotify---escalando-times-ágeis">Spotify - Escalando Times Ágeis</h3>
 
 <p>O Método Agile Spotify é uma abordagem de gestão de projetos que foi criada pela Spotify. Essa metodologia foi desenvolvida para atender às necessidades da empresa, que precisava de uma forma mais eficiente de gerenciar grandes equipes.</p>
@@ -581,11 +590,79 @@ Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizand
 
 <p><img src="../assets/figs/spotify.png" alt="image" /></p>
 
-<h3 id="devops">DevOps</h3>
+<h3 id="entrega-contínua-e-devops">Entrega contínua e DevOps</h3>
 
 <p>DevOps é uma evolução do movimento ágil. DevOps é um esforço colaborativo e multidisciplinar dentro de uma organização para automatizar a entrega contínua de novas versões de software, garantindo sua correção e confiabilidade. Do ponto de vista organizacional, o movimento DevOps promove uma colaboração mais próxima entre desenvolvedores e operadores.</p>
 
 <p>No livro (Continuous Delivery)[1], Humble defende um pipeline de implantação automatizado, no qual qualquer versão de software comitada no repositório deve ser uma versão candidata à produção. Depois de passar por <em>stages</em>, como compilação e testes automatizados, o software é enviado para produção com o apertar de um botão. Este processo é chamado de Entrega Contínua (<em>Continuous Delivery</em>). Uma variante é o Deploy Contínuo, que envia automaticamente para produção toda versão que passa pelo pipeline. Muitos autores relacionam DevOps com entrega e deploy contínuos.</p>
+
+<h1 id="ciclo-de-desenvolvimento-de-projeto-de-software">Ciclo de Desenvolvimento de Projeto de Software</h1>
+
+<p>Independente do tamanho, complexidade do produto a ser desnvolvido, do tamanho e maturidade da equipe de desenvolvimento,  qualquer projeto de software é um processo complexo e pode ser dividido em várias etapas, cada uma com suas próprias disciplinas e atividades específicas. Quanto as macro etapas de um ciclo de projeto de software, a figura abaixo ilustra tais etapas.</p>
+
+<p><img src="../assets/figs/LDSP.png" alt="image" /></p>
+
+<ul>
+  <li>
+    <p><strong>Planejamento</strong>: Esta etapa é fundamental para o sucesso do projeto de software. Envolve a identificação dos objetivos do projeto, a definição dos requisitos do sistema, a análise de riscos e a definição do escopo do projeto.</p>
+  </li>
+  <li>
+    <p><strong>Análise</strong>: Nesta etapa, os requisitos do sistema são analisados em detalhes. Isso inclui a identificação de requisitos funcionais e não funcionais, a definição da arquitetura do sistema e a elaboração de modelos de dados.</p>
+  </li>
+  <li>
+    <p><strong>Arquitetura</strong>: Na etapa de design, os modelos de dados são transformados em projetos técnicos e os requisitos funcionais são traduzidos em projetos de software. Isso inclui a definição das interfaces do usuário, a elaboração de diagramas de classe e a escolha das ferramentas e tecnologias a serem utilizadas.</p>
+  </li>
+  <li>
+    <p><strong>Implementação</strong>: Nesta etapa, o código-fonte é escrito com base no projeto técnico. Isso envolve a codificação, testes unitários e a integração de diferentes módulos do software.</p>
+  </li>
+  <li>
+    <p><strong>Testes (Verificação e Validação)</strong>: Na etapa de testes, o software é testado em diferentes níveis, incluindo testes de unidade, testes de integração e testes de sistema. Isso ajuda a identificar defeitos e garantir que o software atenda aos requisitos definidos.</p>
+  </li>
+  <li>
+    <p><strong>Implantação</strong>: Na etapa de implantação, o software é instalado e configurado em um ambiente de produção. Isso pode incluir a migração de dados, a instalação de software de terceiros e a configuração de hardware.</p>
+  </li>
+</ul>
+
+<p>Além das etapas mencionadas anteriormente, é importante destacar que o desenvolvimento de software envolve diversas disciplinas, tais como programação, gerenciamento de projetos, análise de negócios, engenharia de software, testes de software, qualidade de software e segurança de software. Cada uma dessas disciplinas desempenha um papel importante no processo de desenvolvimento de software, contribuindo para garantir a qualidade e efetividade do produto final. Algumas das disciplinas mais comuns em um projeto de software são:</p>
+
+<ul>
+  <li>
+    <p><strong>Engenharia de requisitos</strong>: Esta disciplina envolve a coleta,  documentação e gestão dos requisitos do software, incluindo os requisitos funcionais e não funcionais, para que se possa desenvolver um plano de projeto.</p>
+  </li>
+  <li>
+    <p><strong>Arquitetura de software</strong>: Esta disciplina envolve o projeto da estrutura do software, incluindo a definição das camadas, componentes e serviços, e a determinação da interação entre eles.</p>
+  </li>
+  <li>
+    <p><strong>Design de software</strong>: Esta disciplina envolve a criação de modelos de design detalhados para cada componente ou serviço do software, incluindo interfaces de usuário, bancos de dados, APIs e outras partes.</p>
+  </li>
+  <li>
+    <p><strong>Desenvolvimento de software</strong>: Esta disciplina envolve a implementação do software com base no design e na arquitetura definidos. Isso geralmente inclui a codificação, testes e integração.</p>
+  </li>
+  <li>
+    <p><strong>Teste de software</strong>: Esta disciplina envolve a verificação e validação do software para garantir que ele atenda aos requisitos especificados e funcione corretamente.</p>
+  </li>
+  <li>
+    <p><strong>Gerenciamento de projetos</strong>: Esta disciplina envolve a coordenação do planejamento, execução e monitoramento do projeto de software, incluindo o gerenciamento de recursos, prazos, orçamentos e riscos.</p>
+  </li>
+  <li>
+    <p><strong>Implantação de software</strong>: Esta disciplina envolve a distribuição e instalação do software em um ambiente de produção, incluindo a configuração e gerenciamento de servidores e sistemas.</p>
+  </li>
+</ul>
+
+<p>Após a fase de implementação, há uma etapa crucial no ciclo de vida do software: a manutenção. Essa fase consiste em um conjunto de atividades que visam garantir a continuidade da operação do software após sua implantação. A manutenção contínua é necessária para corrigir defeitos, atualizar dependências, implementar novas funcionalidades, refatorar código, aplicar patches de segurança e garantir que o software continue a funcionar corretamente. Essa fase pode ser subdividida em manutenção corretiva, preventiva e evolutiva, cada uma com seus próprios objetivos e atividades específicas.</p>
+
+<p>É importante destacar que o entregável varia de acordo com as necessidades e objetivos do projeto. É responsabilidade do gerente de projeto definir claramente o entregável e as etapas necessárias para chegar a ele, garantindo que o projeto seja concluído com sucesso e dentro do prazo e orçamento previstos. Dependendo do objetivo do projeto, do tempo e investimento,  o entregável ao fim de um ciclo de projeto pode ser:</p>
+
+<ul>
+  <li><strong>Protótipo</strong>: um protótipo é uma versão preliminar do software, geralmente usada para testar conceitos e validar requisitos de usuário. É comum que um protótipo contenha apenas uma pequena parte das funcionalidades finais do software.</li>
+  <li><strong>Prova de conceito (PoC)</strong>: É uma demonstração de um conceito ou ideia para verificar a sua viabilidade ou para avaliar se é possível implementar algo. Geralmente, a PoC é uma versão simplificada do produto ou solução final, desenvolvida para validar a tecnologia, a arquitetura ou as funcionalidades-chave do projeto.</li>
+  <li><strong>Mínimo Produto Viável (MVP)</strong>: É a versão mais básica de um produto ou serviço que pode ser lançada no mercado para validar a sua aceitação pelos clientes. O MVP é desenvolvido com o objetivo de obter feedback dos usuários e testar hipóteses sobre o produto, sem a necessidade de investir muito tempo e recursos em seu desenvolvimento.</li>
+  <li><strong>Release de software</strong>: É a versão de um produto de software que é lançada para uso público. A release inclui as funcionalidades desenvolvidas e testadas até aquele momento, com o objetivo de fornecer aos usuários uma versão estável e confiável do produto. Cada release é numerada e pode incluir correções de bugs, melhorias de desempenho e novas funcionalidades em relação às versões anteriores. As releases são normalmente numeradas seguindo um esquema de versionamento, como o SemVer (Semantic Versioning).</li>
+</ul>
+
+<h2 id="ciclo-de-projeto-ágil">Ciclo de Projeto Ágil</h2>
+
+<p><img src="../assets/figs/project-cycle_agile.png" alt="image" /></p>
 
 <h1 id="práticas-ágeis">Práticas Ágeis</h1>
 
@@ -626,6 +703,8 @@ Ele busca otimizar a colaboração e a comunicação entre as equipes, otimizand
   <li>Incremental Design</li>
 </ul>
 
+<h2 id="métricas-ágeis">Métricas Ágeis</h2>
+
 <h3 id="reuniões-por-que-elas-existem">Reuniões: por que elas existem?</h3>
 
 <p>As reuniões existem para atender à necessidade humana de comunicação e colaboração.  Elas são utilizadas para compartilhar informações importantes, alinhar objetivos e tomar decisões. No entanto, as reuniões devem ser bem organizadas e estruturadas para que sejam eficazes.</p>
@@ -664,6 +743,34 @@ A importância de reconhecer e aprender com nossos erros e acertos é fundamenta
 <p>Ao lidar com um grande número de pessoas, a pessoa Tech Lead deve buscar o consentimento do grupo para garantir uma tomada de decisão equilibrada e evitar uma decisão catastrófica.</p>
 
 <p>Com essas estratégias em mente, a pessoa Tech Lead pode garantir uma reunião produtiva e eficaz para todos os participantes.</p>
+
+<h2 id="reunião-diária-em-pé">Reunião diária em pé</h2>
+
+<p>A reunião diária em pé, também conhecida como “daily scrum” e “stand up”, é uma breve atualização de status em que toda a equipe se reúne diariamente.  São uma solução recorrente para um conjunto particular de problemas que surgem quando um grupo de pessoas tenta trabalhar juntas como equipe. Ficamos em pé para manter a reunião curta. Cada membro da equipe deve responder a 3 perguntas relativas as suas atividades no projeto: (1) o que fez ontem, (2) o que planeja fazer hoje, (3) quais são os problemas que tem enfrentado para realizar seu trabalho.  No entanto, essa definição simples não captura os detalhes sutis que distinguem uma reunião efetiva de uma perda de tempo. As reuniões diárias bem conduzidas agregam um valor significativo às equipes. Primeiro, é uma forma de manter o ritmo de trabalho, uma vez que diariamente a equipe deve compartilhar seu diário de bordo. Segundo, para gestores e lideres de projeto, é uma forma de identificar riscos no projeto (tarefas complexas, dependências organizacionais etc) e agir o mais rápido possivel para destravar essas travas de produtividades. Outros benefícios de sincronizar regularmente as equipes no stand up para:</p>
+
+<ul>
+  <li>
+    <p>Compartilhar problemas e melhorias. Um dos principais benefícios de uma equipe em relação ao trabalho individual é que os membros da equipe podem se ajudar quando alguém encontra um problema ou descobre uma maneira melhor de fazer algo. Uma “equipe” em que os membros da equipe não se sentem confortáveis em compartilhar problemas e/ou não se ajudam tende a ser ineficaz. Problemas podem ser identificados no stand-up, os membros da equipe que podem ajudar a resolve-los mapeados, e após o stand-up essas pessoas se reúnem para planejar a solução.</p>
+  </li>
+  <li>
+    <p>Compartilhar a compreensão dos objetivos. Mesmo que tenhamos pensado que entendemos uns aos outros no início (o que provavelmente não era o caso), nossa compreensão tende a se afastar, assim como o contexto em que estamos operando. Uma “equipe” em que cada membro está trabalhando em direção a objetivos diferentes tende a ser ineficaz.</p>
+  </li>
+  <li>
+    <p>Coordenar esforços. Se o trabalho não precisa ser coordenado, você não precisa de uma equipe. Por outro lado, se você tem uma equipe, presumo que o trabalho exija coordenação. Uma coordenação deficiente entre os membros da equipe tende a levar a resultados ruins.</p>
+  </li>
+  <li>
+    <p>Identificar-se como equipe. É muito difícil identificar-se psicologicamente com um grupo se você não se envolver regularmente com o grupo. Você não desenvolverá um forte senso de relacionamento mesmo que acredite que eles sejam capazes e busquem os mesmos objetivos.</p>
+  </li>
+</ul>
+
+<p>Time alinhado
+Troca de conhecimento
+Como começar?
+Erros mais comuns de uma reunião em pé</p>
+
+<h2 id="melhoria-contínua-com-retrospectivas">Melhoria contínua com retrospectivas</h2>
+
+<h2 id="feedback">Feedback</h2>
 
 <h3 id="checklist-para-tech-lead-em-reuniões">Checklist para Tech Lead em reuniões</h3>
 
@@ -706,7 +813,7 @@ A importância de reconhecer e aprender com nossos erros e acertos é fundamenta
 
   <p>O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
 além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura</p>
-</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Visão Geral]]></summary></entry><entry><title type="html">Software Livre</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-22-OSS.html" rel="alternate" type="text/html" title="Software Livre" /><published>2023-02-22T00:00:00-03:00</published><updated>2023-02-22T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/OSS</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-22-OSS.html"><![CDATA[<blockquote class="block-tip">
+</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Agilidade]]></summary></entry><entry><title type="html">Software Livre</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-22-OSS.html" rel="alternate" type="text/html" title="Software Livre" /><published>2023-02-22T00:00:00-03:00</published><updated>2023-02-22T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/OSS</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-22-OSS.html"><![CDATA[<blockquote class="block-tip">
   <h5 id="ideia-principal">Ideia Principal</h5>
 
   <p>Comunidades de Software adotam práticas, ferramentas e automações utilizadas no mercado.
