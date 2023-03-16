@@ -22,6 +22,9 @@ Durante esse período, os novos colaboradores (newcomers) podem enfrentar vária
 
 Quando novos engenheiros de software são incorporados a uma equipe, eles precisam passar por um processo de adaptação que pode ser desafiador. Essas barreiras podem resultar em atrasos no projeto e aumento nos custos, já que a incorporação de novos desenvolvedores pode levar mais tempo para a conclusão de tarefas importantes. Além disso, a qualidade do software desenvolvido pode ser comprometida, uma vez que os recém-chegados podem cometer erros ou não seguir as melhores práticas adotadas pela equipe.
 
+
+![image](../assets/figs/suporteOnboarding.png)
+
 Quando novos engenheiros de software são incorporados a uma equipe, eles precisam passar por um processo de adaptação que pode ser desafiador. Essas barreiras podem resultar em atrasos no projeto e aumento nos custos, já que a incorporação de novos desenvolvedores pode levar mais tempo para a conclusão de tarefas importantes. Além disso, a qualidade do software desenvolvido pode ser comprometida, uma vez que os recém-chegados podem cometer erros ou não seguir as melhores práticas adotadas pela equipe.
 
 Para superar essas barreiras, é fundamental implementar estratégias eficazes de *Onboarding*, ou integração, de novos colaboradores (*newcomers*). O **onboarding** é o processo de incorporar novos desenvolvedores em uma equipe de software, que inclui o uso de ferramentas e tecnologias para facilitar a comunicação e a colaboração entre a equipe. Isso também inclui a criação de um ambiente de trabalho acolhedor e inclusivo que incentiva os recém-chegados a pedir ajuda e compartilhar conhecimento, além da implementação de treinamentos e orientações adequados para ajudar os novos desenvolvedores a compreender melhor o processo de desenvolvimento e os sistemas em que estão trabalhando.
