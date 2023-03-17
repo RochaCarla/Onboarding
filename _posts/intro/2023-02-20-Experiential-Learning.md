@@ -1,5 +1,5 @@
 ---
-title: Aprendizado Orientado à Experiência - Princípios básicos
+title: Aprendizado por Experiência
 author: Carla Rocha
 date: 2023-02-20
 category: Jekyll

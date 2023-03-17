@@ -22,6 +22,11 @@ Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a
 
 ![image](../assets/figs/macroetapas.png)
 
+
+A imagem abaixo apresenta todos os elementos da metodologia utilizada para o desenvolvimento de um ciclo de formação a partir do projeto de software. A metodologia combina fundamentos de processo de onboarding, aprendizagem por experiência e práticas de comunidades de software livre para proporcionar uma experiência de aprendizagem completa e efetiva. A imagem ilustra a cronologia do ciclo de formação e destaca os principais pontos de cada fase.
+
+![image](../assets/figs/roadmap.png)
+
 Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:
 
 - Boas-vindas: criar um ambiente acolhedor e encorajador para o novo colaborador.

@@ -1,5 +1,5 @@
 ---
-title: Processo de Onboarding - Princípios básicos
+title: Processo de Onboarding
 author: Carla Rocha
 date: 2023-02-21
 category: Jekyll

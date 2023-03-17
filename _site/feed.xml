@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Onboarding/" rel="alternate" type="text/html" /><updated>2023-03-15T22:01:22-03:00</updated><id>http://localhost:4000/Onboarding/feed.xml</id><title type="html">Disseminando a Cultura de Inovação Ágil</title><subtitle>Livro construido com o Jekyll com o estilo GitBook.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/Onboarding/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Onboarding/" rel="alternate" type="text/html" /><updated>2023-03-16T21:49:47-03:00</updated><id>http://localhost:4000/Onboarding/feed.xml</id><title type="html">Disseminando a Cultura de Inovação Ágil</title><subtitle>Livro construido com o Jekyll com o estilo GitBook.
 </subtitle><author><name>Carla Rocha</name></author><entry><title type="html">Parte II - Acelerando o Aprendizado</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-24-Execucao.html" rel="alternate" type="text/html" title="Parte II - Acelerando o Aprendizado" /><published>2023-02-24T00:00:00-03:00</published><updated>2023-02-24T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Execucao</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-24-Execucao.html"><![CDATA[<h2 id="visão-geral">Visão Geral</h2>
 
 <p>Uma estratégia eficaz de aprendizagem deve integrar conceitos teóricos com sua aplicação prática, seguindo o princípio de “aprender fazendo”. Sem prática, não há aprendizado significativo. Portanto, o processo de ensino-aprendizagem deve incluir duas etapas fundamentais: sessões de assimilação de conceitos teóricos e sessões de prática.</p>
@@ -7,13 +7,17 @@
 
 <p>Esse capítulo é dedicado aos participantes do processo do processo de onboarding com o objetivo de aprender sobre Métodos de Desenvolvimento de Software, mais especificamente aprender os conceitos e práticas relacionados aos métodos ágeis. É a concretização do planejamento realizado na etapa anterior.</p>
 
-<h2 id="roadmap-do-onboard">Roadmap do Onboard</h2>
+<h2 id="roadmap-do-metodologia">Roadmap do Metodologia</h2>
+
+<p>A imagem abaixo reapresenta todos os elementos da metodologia utilizada para o desenvolvimento de um ciclo de formação a partir do projeto de software. A metodologia combina fundamentos de processo de onboarding, aprendizagem por experiência e práticas de comunidades de software livre para proporcionar uma experiência de aprendizagem completa e efetiva. A imagem ilustra a cronologia do ciclo de formação e destaca os principais pontos de cada fase.</p>
 
 <p><img src="../assets/figs/roadmap.png" alt="image" /></p>
 
-<h2 id="recepção--orientações-gerais">Recepção + Orientações gerais</h2>
+<h2 id="fase-explorar---boas-vindas-e-orientações-gerais">Fase Explorar - Boas Vindas e Orientações gerais</h2>
 
-<p>A primeira etapa da metodologia envolve ciclos de introdução às informações gerais necessárias para iniciar o projeto, formação das equipes, definição de papéis, escolha de ferramentas e práticas para acolher os participantes. A duração dessa etapa pode variar dependendo da frequência dos encontros. Por exemplo, se houver dois encontros semanais, a primeira etapa pode durar até duas semanas. Já se houver apenas um encontro semanal, a primeira etapa pode durar até um mês.</p>
+<p>A primeira etapa da metodologia envolve introdução às informações gerais necessárias para iniciar o projeto, formação das equipes, definição de papéis, escolha de ferramentas e práticas para acolher os participantes. A duração dessa etapa pode variar dependendo da frequência dos encontros. Por exemplo, se houver dois encontros semanais, a primeira etapa pode durar até duas semanas. Já se houver apenas um encontro semanal, a primeira etapa pode durar até um mês.</p>
+
+<p>Nesta etapa, as equipes começam o projeto com base nas informações gerais fornecidas. No entanto, a falta de detalhamento das entregas por sprint gera a sensação de dificuldade  dos alunos na execução das tarefas. É importante ressaltar que a dificuldade nesta fase é fundamental para a aprendizagem por experiência e para o desenvolvimento de habilidades não técnicas, tais como iniciativa, autodidatismo, tomada de decisão e gestão de erros. Portanto, é importante que haja um equilíbrio entre o detalhamento das tarefas e a oportunidade de enfrentar desafios e desenvolver habilidades valiosas.</p>
 
 <blockquote class="block-tip">
   <h5 id="objetivo">Objetivo</h5>
@@ -248,7 +252,7 @@
 
 <p>Segue um checklist para as equipes.</p>
 
-<h2 id="acompanhamento--feedback-contínuo">Acompanhamento + feedback contínuo</h2>
+<h2 id="fase-definirprototipar">Fase Definir/Prototipar</h2>
 
 <p>A medição da produtividade das equipes de software é uma tarefa complexa e desafiadora. Em primeiro lugar, a própria noção de produtividade pode ser subjetiva e variar de pessoa para pessoa. Mesmo quando se estabelecem parâmetros de referência e métricas, a percepção da produtividade por um engenheiro de software pode ser diferente daquela de um executivo ou membro do conselho.</p>
 
@@ -285,12 +289,30 @@
   <li>Colaboração com outras equipes ou departamentos da empresa, como equipes de operações, marketing e vendas, para garantir a integração efetiva do software no ambiente de negócios.</li>
 </ul>
 
-<p>https://caroli.org/medir-a-produtividade-em-equipes-de-software-vai-alem-de-olhar-apenas-o-volume-de-codigo-produzido-voce-precisa-do-coeficiente-de-produtividade/</p>
-
 <h3 id="definindo-o-significado-de-pronto">Definindo o significado de Pronto</h3>
 
-<h2 id="práticas">Práticas</h2>
-<p>The labs on the other hand, consisted of sprint activities such as planning, demo and retrospectives</p>
+<h3 id="checklist-1">Checklist</h3>
+<p>Nesta fase do projeto, espera-se que as práticas ágeis estejam sendo executadas de forma mais madura. Para ajudar a garantir a produtividade da equipe, segue um checklist com algumas práticas ágeis a serem consideradas:</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Os rituais de planejamento, review, retrospectiva estão acontecendo sempre no mesmo dia/horário?</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Os rituais são time-box (começam sem atraso e terminam no horário limite estipulado)?</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />A técnica de planning poker está sendo feita para pontuar as issues?</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />As issues (US, features, Épicos) são documentadas de forma padronizadas (seguind templates)?</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Tem pelo menos 1 issue por membro/dupla por sprint?</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Os stand-ups estão acontecendo todos os dias?</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Todos os membros se sentem a vontade para falar nos rituais?</li>
+  <li class="task-list-item">[ ]</li>
+</ul>
+
+<p>Segue um checklist de alguns artefatos desenvolvidos nessa etapa do projeto:</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Checklist dos padrões de comunidade de OSS devem ter sido cumpridos <a href="https://opensource.guide">https://opensource.guide</a></li>
+  <li class="task-list-item">[ ]</li>
+</ul>
+
+<h2 id="fase-desenvolvertestar">Fase Desenvolver/Testar</h2>
 
 <h2 id="sessões-teóricas">Sessões Teóricas</h2>
 
@@ -300,7 +322,7 @@
 
 <h2 id="entregáveis--avaliação">Entregáveis + avaliação</h2>
 
-<h3 id="checklist-1">Checklist</h3>
+<h3 id="checklist-2">Checklist</h3>
 
 <p>Segue um checklist para ajudar na organização do evento de recepção:</p>
 
@@ -332,46 +354,7 @@
 
 <h1 id="parte-iii---melhoria-contínua">Parte III - Melhoria Contínua</h1>
 
-<h2 id="retrospectiva-e-pontos-de-melhoria">Retrospectiva e pontos de melhoria</h2>
-
-<h3 id="checklist-2">Checklist</h3>
-
-<p>Segue um checklist para ajudar na organização do evento de recepção:</p>
-
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Definir dos dias/horários/local dos encontros semanais</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Apresentar a visão geral do processo de onboarding</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Apresentar as listas de Entregáveis para a Release I e Release II</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Definir as datas da Release I e Release II</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Definir as equipes/squads</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Definir os canais de comunicação (Comunicação rápida/informes, dúvidas, decisões, tarefas)</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Definir dias/horários/locais de disponibilidades dos instrutores</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Definir dias/horários/locais dos treinamentos</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Compartilhar os repositórios de projetos passados</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Garantir que todos os participantes tem todos acessos necessários (repositório, lista de e-mails, Discord, etc)</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Garantir que todos os participantes tenham os contatos dos instrutores</li>
-</ul>
-
-<p>Segue um checklist para ajudar na organização da primeira etapa do onboarding para o professor/mentor.</p>
-
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Apresentar o ciclo de vida de projetos de software</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Apresentar práticas de gestão de equipes ágeis - Scrum</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Apresentar práticas de documentação ágil - issues, templates de issues, comunicação de issues</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Apresentar o conceito de timebox e exercitar em atividades síncronas</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Organizar um evento para que os clientes possam apresentar os problemas a serem resolvidos com software</li>
-</ul>
-
-<p>Segue um checklist para ajudar na organização da primeira etapa do onboarding para os instrutores.</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Visão Geral]]></summary></entry><entry><title type="html">Bias em Projetos de Software</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Bias.html" rel="alternate" type="text/html" title="Bias em Projetos de Software" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Bias</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Bias.html"><![CDATA[<blockquote class="block-tip">
-  <h5 id="ideia-principal">Ideia Principal</h5>
-
-  <p>O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado 
-além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais</p>
-</blockquote>
-
-<p>A presença feminina em projetos de software de código aberto (OSS) é baixa, o que acarreta prejuízos tanto para a carreira e o desenvolvimento de habilidades das mulheres quanto para os próprios projetos, que sofrem com a falta de diversidade de perspectivas.</p>
-
-<p>TODO</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura organizacionais]]></summary></entry><entry><title type="html">Metodologia Proposta</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Metodologia.html" rel="alternate" type="text/html" title="Metodologia Proposta" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Metodologia</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Metodologia.html"><![CDATA[<blockquote class="block-tip">
+<h2 id="retrospectiva-e-pontos-de-melhoria">Retrospectiva e pontos de melhoria</h2>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Visão Geral]]></summary></entry><entry><title type="html">Metodologia Proposta</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-23-Metodologia.html" rel="alternate" type="text/html" title="Metodologia Proposta" /><published>2023-02-23T00:00:00-03:00</published><updated>2023-02-23T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Metodologia</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-23-Metodologia.html"><![CDATA[<blockquote class="block-tip">
   <h5 id="ideia-principal">Ideia Principal</h5>
 
   <p>O principal foco da Metodologia Proposta é guiar os membros em um processo de auto aprendizado 
@@ -387,6 +370,10 @@ além da mentoria/liderança serem crucial para o compartilhamento de práticas 
 <p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, as equipes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
 
 <p><img src="../assets/figs/macroetapas.png" alt="image" /></p>
+
+<p>A imagem abaixo apresenta todos os elementos da metodologia utilizada para o desenvolvimento de um ciclo de formação a partir do projeto de software. A metodologia combina fundamentos de processo de onboarding, aprendizagem por experiência e práticas de comunidades de software livre para proporcionar uma experiência de aprendizagem completa e efetiva. A imagem ilustra a cronologia do ciclo de formação e destaca os principais pontos de cada fase.</p>
+
+<p><img src="../assets/figs/roadmap.png" alt="image" /></p>
 
 <p>Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
 
@@ -813,22 +800,7 @@ Erros mais comuns de uma reunião em pé</p>
 
   <p>O principal foco do Onboarding é guiar os membros em um processo de auto aprendizado 
 além da mentoria/liderança serem crucial para o compartilhamento de práticas e cultura</p>
-</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Agilidade]]></summary></entry><entry><title type="html">Software Livre</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-22-OSS.html" rel="alternate" type="text/html" title="Software Livre" /><published>2023-02-22T00:00:00-03:00</published><updated>2023-02-22T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/OSS</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-22-OSS.html"><![CDATA[<blockquote class="block-tip">
-  <h5 id="ideia-principal">Ideia Principal</h5>
-
-  <p>Comunidades de Software adotam práticas, ferramentas e automações utilizadas no mercado.
-Assim como os padrões de gestão de projeto de software,  documentação, e comunicação.</p>
-</blockquote>
-
-<h1 id="o-que-é-software-livre">O que é software Livre</h1>
-
-<h1 id="qual-a-diferença-do-software-livre-e-open-source">Qual a diferença do Software Livre e Open Source</h1>
-
-<h1 id="principais-práticas-de-comunidades-de-software-livreopen-source">Principais práticas de Comunidades de Software Livre/Open Source</h1>
-
-<h1 id="saiba-mais-sobre-software-livre">Saiba mais sobre Software Livre</h1>
-
-<p>Caso você tenha interesse em aprofundar seus conhecimentos Software Livre, como contribuir em comunidades de Software Livre seguem abaixo algumas referências úteis:</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal Comunidades de Software adotam práticas, ferramentas e automações utilizadas no mercado. Assim como os padrões de gestão de projeto de software, documentação, e comunicação.]]></summary></entry><entry><title type="html">Processo de Onboarding - Princípios básicos</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-21-Onboarding.html" rel="alternate" type="text/html" title="Processo de Onboarding - Princípios básicos" /><published>2023-02-21T00:00:00-03:00</published><updated>2023-02-21T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Onboarding</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-21-Onboarding.html"><![CDATA[<blockquote class="block-tip">
+</blockquote>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Agilidade]]></summary></entry><entry><title type="html">Processo de Onboarding</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-21-Onboarding.html" rel="alternate" type="text/html" title="Processo de Onboarding" /><published>2023-02-21T00:00:00-03:00</published><updated>2023-02-21T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Onboarding</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-21-Onboarding.html"><![CDATA[<blockquote class="block-tip">
   <h5 id="ideia-principal">Ideia Principal</h5>
 
   <p>O principal foco do Onboarding é guiar novos desenvolvedores na adoção de práticas e cultura organizacionais, 
@@ -874,7 +846,7 @@ além da mentoria/liderança serem crucial para o compartilhamento.</p>
 
 <h1 id="saiba-mais-sobre-onboarding">Saiba mais sobre Onboarding</h1>
 
-<p>Caso você tenha interesse em aprofundar seus conhecimentos Onboarding, seguem abaixo algumas referências úteis:</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco do Onboarding é guiar novos desenvolvedores na adoção de práticas e cultura organizacionais, além da mentoria/liderança serem crucial para o compartilhamento.]]></summary></entry><entry><title type="html">Aprendizado Orientado à Experiência - Princípios básicos</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-20-Experiential-Learning.html" rel="alternate" type="text/html" title="Aprendizado Orientado à Experiência - Princípios básicos" /><published>2023-02-20T00:00:00-03:00</published><updated>2023-02-20T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Experiential-Learning</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-20-Experiential-Learning.html"><![CDATA[<blockquote class="block-tip">
+<p>Caso você tenha interesse em aprofundar seus conhecimentos Onboarding, seguem abaixo algumas referências úteis:</p>]]></content><author><name>Carla Rocha</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Ideia Principal O principal foco do Onboarding é guiar novos desenvolvedores na adoção de práticas e cultura organizacionais, além da mentoria/liderança serem crucial para o compartilhamento.]]></summary></entry><entry><title type="html">Aprendizado por Experiência</title><link href="http://localhost:4000/Onboarding/jekyll/2023-02-20-Experiential-Learning.html" rel="alternate" type="text/html" title="Aprendizado por Experiência" /><published>2023-02-20T00:00:00-03:00</published><updated>2023-02-20T00:00:00-03:00</updated><id>http://localhost:4000/Onboarding/jekyll/Experiential-Learning</id><content type="html" xml:base="http://localhost:4000/Onboarding/jekyll/2023-02-20-Experiential-Learning.html"><![CDATA[<blockquote class="block-tip">
   <h5 id="ideia-principal">Ideia Principal</h5>
 
   <p>O principal foco do aprendizado orientado à experiência é criar a “jornada de descoberta”, para que 
