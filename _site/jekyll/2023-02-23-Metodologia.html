@@ -11,6 +11,8 @@
 <link rel="stylesheet" href="/Onboarding/assets/gitbook/rouge/colorful.css">
 
 <link rel="stylesheet" href="/Onboarding/assets/gitbook/custom.css">
+<link rel="shortcut icon" type="image/png" href="/assets/figs/gpp_mds.png">
+
 
 <meta name="HandheldFriendly" content="true"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -118,7 +120,7 @@
                             </a>
                             
                                 
-                                    
+                                    <ul><li><a href="#onboarding">Onboarding</a></li><li><a href="#aprendizagem-por-experiência">Aprendizagem por experiência</a></li><li><a href="#comunidades-de-software-livre">Comunidades de Software Livre</a></li><li><a href="#metodologia-proposta">Metodologia proposta</a></li></ul>
 
                                 
                             
@@ -198,20 +200,66 @@ além da mentoria/liderança serem crucial para o compartilhamento de práticas 
 
 <p>Ao combinar a aprendizagem orientada a experiência e a aprendizagem orientada a projetos com o desenvolvimento de um projeto open source, as equipes podem trabalhar em um projeto real, com uma comunidade de desenvolvedores que oferece suporte e feedback constante. Eles podem contribuir com código, documentação, testes e outras atividades relacionadas ao desenvolvimento de software, o que proporciona um ambiente de aprendizado ainda mais realista e desafiador.</p>
 
-<p><img src="../assets/figs/macroetapas.png" alt="image" /></p>
+<h2 id="onboarding">Onboarding</h2>
+
+<p>Do processo de onboarding, adotamos as práticas que aceleram os membros na adoção da práticas, cultura, ferramentas necessárias para o desenvolvimento de um projeto real.</p>
+
+<ul>
+  <li>
+    <p><em>Boas Vindas/Introdução</em> -  no primeiros(s) encontros, os times são formados, os temas de projetos alocados, os mentores/monitores apresentados, as ferramentas são compartilhadas para a comunicação assíncrona, síncrona, e cada membro é cadastrado no repositório do projeto para que possam iniciar os projetos, com canal de dúvidas/ajuda, e o time formado para se organizarem. O ideal é ter um mentor/monitor por equipe.</p>
+  </li>
+  <li>
+    <p><em>Treinamento</em> - principalmente no início do projeto, são necessários workshops e treinamentos práticos organizados pelos monitores. Esses workshops são bastante frequente no inicio do projeto e ao longo do desenvolvimento esses treinamentos são realizados sob demanda das equipes.</p>
+  </li>
+  <li>
+    <p><em>Feedback</em> - O instrutor e os mentores devem sistematizar momentos de dar feedbacks para as equipes, seja em apresentações <strong>show me the code</strong> durante as sessões teóricas, ou de forma assíncrona nos repositórios. Os feedbacks são cruciais para reforçar cultura, práticas e garantir a qualidade dos artefatos entregues.</p>
+  </li>
+</ul>
+
+<h2 id="aprendizagem-por-experiência">Aprendizagem por experiência</h2>
+
+<p>O aprendizagem por experiência guia a estruturação das sessões teóricas e também como as restrições dos projetos são apresentados durante o ciclo de projeto.</p>
+
+<p>Configuramos as sessões teóricas e mentoria dos participantes de acordo com as etapas de aprendizado:</p>
+
+<ul>
+  <li>
+    <p><em>Etapa dificuldade</em> - nas primeiras sprints do projeto, pouca informação e restrições de projeto são apresentados. Apenas a visão geral do problema ser resolvido, e dos entregáveis esperados ao final da primeira release. Essa etapa é de maior frustração dos participantes, que não sabem ainda se organizar, não sabem como desenvolver os artefatos. Nessa etapa, apresentamos a técnica do coelho, e sugerimos que uma sprint de entrega de artefato seja precedido de uma sprint de estudo.</p>
+  </li>
+  <li>
+    <p><em>Etapa Estruturar</em> - as aulas téoricas apresentam os conceitos teóricos necessários no projeto, e sessões práticas e de feedback direcionam a refatoração desses artefatos. É importante que nesse ponto uma versão “errada” de cada artefato já tenha sido disponibilizado pelos times. Isso faz com que os participantes consigam estruturar o que estão colocando em prática.</p>
+  </li>
+  <li>
+    <p><em>Etapa de Sistematizar/Sintetizar</em> - as aulas teóricas apresentam aspectos mais avançados e mostra a complexidade da interferência de habilidades não técnicas e técnicas na entrega dos artefatos do projeto. Um exemplo de sessão teórica é caso de estudo de projeto reais, mostrando como foi a execução de cada etapa do projeto, problemas encontrados, e solução técnica desenvolvida.</p>
+  </li>
+</ul>
+
+<h2 id="comunidades-de-software-livre">Comunidades de Software Livre</h2>
+
+<p>Comunidades de Software Livre possui um conjunto de padrões e boas práticas que são necessários para a colaboração assincrona distribuida. Normalmente, comunidades de Software Livre aderem as mesmas práticas da Industria de Software. Demandar que os participantes executem os padrões de comunidade de software livre garante que as práticas, padrões técnicos, documentação sejam alinhados com as demandas no mercado. Isso faz que a experiência das equipes no desenvolvimento do projeto possa ser usado no portfolio dos membros.</p>
+
+<p>Alguns padrões de Comunidades de Software Livre adotados são:</p>
+<ul>
+  <li>
+    <p><em>Documentação</em>: usar os templates e estrutura dos documentos propostos pela comunidade. Exemplos de documentos: Readme, código de conduta, guia de contribuição, arquivo de ambiente, licença, entre outros. Um guia completo desses padrões são disponibilizados em <a href="https://opensource.guide/pt/">https://opensource.guide/pt/</a></p>
+  </li>
+  <li>
+    <p><em>Issues</em>: a forma de documentar requisitos, questões/dúvidas, tarefas, bugs é única em comunidades de Software Livre e são as issues. Toda decisão do time, assim como todas as tarefas realizadas no ciclo do projeto são registradas nas issues. Isso dá transparência, rastreabilidade dos requisitos, além de ser uma forma eficiente de comunicação.</p>
+  </li>
+  <li>
+    <p><em>Pull Request</em>: a forma de integrar novas contribuições em um projeto de software livre é por meio de revisão de pull request. Nesse processo de contribuição, todo novo artefato, alteração deve ser avaliada e aprovada por, pelo menos, uma pessoa que não fez as alterações. Essa prática permite a revisão contínua, diminui a probablidade de inserção de codigo malicioso no projeto, além de diminuir a quantidade de bugs por causa da inspeção.</p>
+  </li>
+</ul>
+
+<h2 id="metodologia-proposta">Metodologia proposta</h2>
 
 <p>A imagem abaixo apresenta todos os elementos da metodologia utilizada para o desenvolvimento de um ciclo de formação a partir do projeto de software. A metodologia combina fundamentos de processo de onboarding, aprendizagem por experiência e práticas de comunidades de software livre para proporcionar uma experiência de aprendizagem completa e efetiva. A imagem ilustra a cronologia do ciclo de formação e destaca os principais pontos de cada fase.</p>
 
 <p><img src="../assets/figs/roadmap.png" alt="image" /></p>
 
-<p>Cada etapa do processo de onboarding tem seus próprios objetivos, que incluem:</p>
+<p>A cronologia do projeto do software é mostrado abaixo:</p>
 
-<ul>
-  <li>Boas-vindas: criar um ambiente acolhedor e encorajador para o novo colaborador.</li>
-  <li>Introdução: ajudar o novo colaborador a entender a cultura da empresa e se familiarizar com o ambiente de trabalho.</li>
-  <li>Treinamento: capacitar o novo colaborador para desempenhar suas funções.</li>
-  <li>Acompanhamento: oferecer suporte e orientação ao novo colaborador para garantir uma transição tranquila.</li>
-</ul>
+<p><img src="../assets/figs/macroetapas.png" alt="image" /></p>
 
 
                 </section>
@@ -353,7 +401,7 @@ MathJax = {
     },
     "gitbook": {
         "version": "3.2.3",
-        "time": "2023-03-16 21:49:47 -0300"
+        "time": "2023-03-20 18:07:37 -0300"
     },
     "basePath": "/Onboarding",
     "book": {
