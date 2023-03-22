@@ -6,6 +6,16 @@ category: Jekyll
 layout: post
 ---
 
+Uma cultura de inovação ágil é uma abordagem que valoriza a experimentação, a colaboração e a aprendizagem contínua para criar e implementar soluções inovadoras de maneira rápida e eficiente. Quando se fala em cultura, estamos falando sobre um conjunto de práticas e normas adotadas por um grupo. 
+
+A cultura ágil de inovação tem como base a o manifesto ágil, que foi a base para os princípios, valores, métodos e práticas ágeis. Ela enfatiza a colaboração entre equipes multifuncionais e auto-organizadas, feedback constante, entrega contínua e ajustes frequentes com base no aprendizado.  Isso envolve incentivar a criatividade e a experimentação, dar espaço para falhas e aprender com elas, e ter uma abordagem iterativa para a solução de problemas.
+
+Além disso, uma cultura de inovação ágil também valoriza a transparência, a comunicação aberta e a colaboração entre as equipes. Isso envolve o compartilhamento de ideias, conhecimentos e experiências entre diferentes áreas da empresa, além de trabalhar em conjunto em projetos e iniciativas.
+
+Neste capítulo, abordaremos os conceitos ágeis fundamentais e, em seguida, exploraremos práticas ágeis específicas que podem ser aplicadas em projetos e na adoção de uma cultura de inovação.
+
+
+
 # Ciclo de Desenvolvimento de Projeto de Software 
 
 Independente do tamanho, complexidade do produto a ser desnvolvido, do tamanho e maturidade da equipe de desenvolvimento,  qualquer projeto de software é um processo complexo e pode ser dividido em várias etapas, cada uma com suas próprias disciplinas e atividades específicas. Quanto as macro etapas de um ciclo de projeto de software, a figura abaixo ilustra tais etapas.
