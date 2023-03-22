@@ -6,11 +6,55 @@ category: Jekyll
 layout: post
 ---
 
+# Ciclo de Desenvolvimento de Projeto de Software 
+
+Independente do tamanho, complexidade do produto a ser desnvolvido, do tamanho e maturidade da equipe de desenvolvimento,  qualquer projeto de software é um processo complexo e pode ser dividido em várias etapas, cada uma com suas próprias disciplinas e atividades específicas. Quanto as macro etapas de um ciclo de projeto de software, a figura abaixo ilustra tais etapas.
+
+![image](../assets/figs/LDSP.png)
+
+- **Planejamento**: Esta etapa é fundamental para o sucesso do projeto de software. Envolve a identificação dos objetivos do projeto, a definição dos requisitos do sistema, a análise de riscos e a definição do escopo do projeto.
+
+- **Análise**: Nesta etapa, os requisitos do sistema são analisados em detalhes. Isso inclui a identificação de requisitos funcionais e não funcionais, a definição da arquitetura do sistema e a elaboração de modelos de dados.
+
+- **Arquitetura**: Na etapa de design, os modelos de dados são transformados em projetos técnicos e os requisitos funcionais são traduzidos em projetos de software. Isso inclui a definição das interfaces do usuário, a elaboração de diagramas de classe e a escolha das ferramentas e tecnologias a serem utilizadas.
+
+- **Implementação**: Nesta etapa, o código-fonte é escrito com base no projeto técnico. Isso envolve a codificação, testes unitários e a integração de diferentes módulos do software.
+
+- **Testes (Verificação e Validação)**: Na etapa de testes, o software é testado em diferentes níveis, incluindo testes de unidade, testes de integração e testes de sistema. Isso ajuda a identificar defeitos e garantir que o software atenda aos requisitos definidos.
+
+- **Implantação**: Na etapa de implantação, o software é instalado e configurado em um ambiente de produção. Isso pode incluir a migração de dados, a instalação de software de terceiros e a configuração de hardware.
+
+Além das etapas mencionadas anteriormente, é importante destacar que o desenvolvimento de software envolve diversas disciplinas, tais como programação, gerenciamento de projetos, análise de negócios, engenharia de software, testes de software, qualidade de software e segurança de software. Cada uma dessas disciplinas desempenha um papel importante no processo de desenvolvimento de software, contribuindo para garantir a qualidade e efetividade do produto final. Algumas das disciplinas mais comuns em um projeto de software são: 
+
+- **Engenharia de requisitos**: Esta disciplina envolve a coleta,  documentação e gestão dos requisitos do software, incluindo os requisitos funcionais e não funcionais, para que se possa desenvolver um plano de projeto.
+
+- **Arquitetura de software**: Esta disciplina envolve o projeto da estrutura do software, incluindo a definição das camadas, componentes e serviços, e a determinação da interação entre eles.
+
+- **Design de software**: Esta disciplina envolve a criação de modelos de design detalhados para cada componente ou serviço do software, incluindo interfaces de usuário, bancos de dados, APIs e outras partes.
+
+- **Desenvolvimento de software**: Esta disciplina envolve a implementação do software com base no design e na arquitetura definidos. Isso geralmente inclui a codificação, testes e integração.
+
+- **Teste de software**: Esta disciplina envolve a verificação e validação do software para garantir que ele atenda aos requisitos especificados e funcione corretamente.
+
+- **Gerenciamento de projetos**: Esta disciplina envolve a coordenação do planejamento, execução e monitoramento do projeto de software, incluindo o gerenciamento de recursos, prazos, orçamentos e riscos.
+
+- **Implantação de software**: Esta disciplina envolve a distribuição e instalação do software em um ambiente de produção, incluindo a configuração e gerenciamento de servidores e sistemas.
+
+Após a fase de implementação, há uma etapa crucial no ciclo de vida do software: a manutenção. Essa fase consiste em um conjunto de atividades que visam garantir a continuidade da operação do software após sua implantação. A manutenção contínua é necessária para corrigir defeitos, atualizar dependências, implementar novas funcionalidades, refatorar código, aplicar patches de segurança e garantir que o software continue a funcionar corretamente. Essa fase pode ser subdividida em manutenção corretiva, preventiva e evolutiva, cada uma com seus próprios objetivos e atividades específicas.
+
+É importante destacar que o entregável varia de acordo com as necessidades e objetivos do projeto. É responsabilidade do gerente de projeto definir claramente o entregável e as etapas necessárias para chegar a ele, garantindo que o projeto seja concluído com sucesso e dentro do prazo e orçamento previstos. Dependendo do objetivo do projeto, do tempo e investimento,  o entregável ao fim de um ciclo de projeto pode ser:
+
+- **Protótipo**: um protótipo é uma versão preliminar do software, geralmente usada para testar conceitos e validar requisitos de usuário. É comum que um protótipo contenha apenas uma pequena parte das funcionalidades finais do software.
+- **Prova de conceito (PoC)**: É uma demonstração de um conceito ou ideia para verificar a sua viabilidade ou para avaliar se é possível implementar algo. Geralmente, a PoC é uma versão simplificada do produto ou solução final, desenvolvida para validar a tecnologia, a arquitetura ou as funcionalidades-chave do projeto.
+- **Mínimo Produto Viável (MVP)**: É a versão mais básica de um produto ou serviço que pode ser lançada no mercado para validar a sua aceitação pelos clientes. O MVP é desenvolvido com o objetivo de obter feedback dos usuários e testar hipóteses sobre o produto, sem a necessidade de investir muito tempo e recursos em seu desenvolvimento.
+- **Release de software**: É a versão de um produto de software que é lançada para uso público. A release inclui as funcionalidades desenvolvidas e testadas até aquele momento, com o objetivo de fornecer aos usuários uma versão estável e confiável do produto. Cada release é numerada e pode incluir correções de bugs, melhorias de desempenho e novas funcionalidades em relação às versões anteriores. As releases são normalmente numeradas seguindo um esquema de versionamento, como o SemVer (Semantic Versioning).
+
+
 # Agilidade
 
 O desenvolvimento ágil é um método adaptativo, ao invés de preditivo, e coloca as pessoas em primeiro lugar, ao invés de focar nos processos. Isso significa que não há uma divisão clara entre as fases e as disciplinas podem, muitas vezes, ser executadas em paralelo. O objetivo principal dos projetos ágeis é entregar um produto de qualidade para o cliente, e no caso de projetos de software, essa entrega envolve a criação de software de qualidade. Esse resultado é alcançado através de um planejamento, projeto e desenvolvimento iterativo e incremental do produto de software, com a participação e validação contínua dos clientes ou patrocinadores da ideia.
 
-# Pessoas envolvidas em um projeto de software
+## Pessoas envolvidas em um projeto de software
 
 Stakeholders são todas as pessoas, grupos ou organizações que têm interesse ou influência no resultado de um projeto de software. Eles podem ser internos, como membros da equipe de desenvolvimento, gerentes de projeto, líderes de equipe, ou externos, como clientes, usuários finais, fornecedores ou parceiros comerciais. Entre os stakeholders comuns em um ciclo de projeto de software, estão:
 
@@ -94,8 +138,6 @@ No que se refere ao Produto, as metodologias ágeis buscam a eficácia na criaç
 Finalmente, um conceito chave das metodologias ágeis é o *Time-Box*. O conceito de time-boxing é uma das práticas-chave das metodologias ágeis. Time-boxing significa definir um tempo limite para a realização de uma atividade, reunião ou ciclo de desenvolvimento. Por exemplo, as sprints do Scrum são time-boxes para o desenvolvimento de software, com um período definido de 1 a 4 semanas para concluir uma série de tarefas. A prática de time-boxing ajuda a criar um senso de urgência e foco na equipe, além de garantir que as atividades sejam concluídas dentro de um período definido. Isso também ajuda a evitar o desperdício de tempo e recursos, uma vez que a equipe sabe que tem um prazo limitado para concluir uma determinada atividade.
 
 
-
-
 ### Scrum - Produtividade da Equipe
 
 O Scrum é um framework ágil que visa a entrega de produtos complexos. Embora tenha sido inicialmente proposto para projetos de desenvolvimento de software, ele pode ser aplicado em qualquer contexto de projetos complexos e inovadores, especialmente aqueles com requisitos emergentes ou que mudam rapidamente. Foi proposto pelo Jeff Sutherland, e o guia completo do Scrum é constantemente atualizado e disponibilizado em português [aqui](https://scrumguides.org/index.html).
@@ -108,11 +150,11 @@ O Scrum é um framework ágil que visa a entrega de produtos complexos. Embora t
 
 Uma das características essenciais do Scrum é a formação de um time colaborativo, multifuncional e auto-organizado. A equipe é responsável pela entrega do produto e deve trabalhar de forma alinhada e conjunta para alcançar os objetivos definidos. No Scrum, o processo é dividido em sprints, períodos de tempo curtos que geralmente variam entre uma a quatro semanas, nos quais o time se concentra em uma parte específica do produto e trabalha para entregá-la até o final da sprint.
 
-O Scrum é composto por atribuições/papéis, eventos e artefatos. Os papéis incluem o Scrum Master, o Product Owner e o time de desenvolvimento. Os eventos incluem a sprint, a reunião diária, a revisão da sprint e a retrospectiva da sprint. Os artefatos incluem a lista do produto, a lista da sprint e o incremento do produto. Por ser um framework flexível e adaptável, o Scrum pode ser utilizado em diferentes tipos de projetos, desde que a equipe esteja comprometida com os valores e princípios do framework. A Figura abaixo ilustra o Scrum, no qual as cores distiguem os papeis, dos rituais (reuniões) e 
+O Scrum é composto por atribuições/papéis, eventos e artefatos. Os papéis incluem o Scrum Master, o Product Owner e o time de desenvolvimento. Os eventos incluem a sprint, a reunião diária, a revisão da sprint e a retrospectiva da sprint. Os artefatos incluem a lista do produto, a lista da sprint e o incremento do produto. Por ser um framework flexível e adaptável, o Scrum pode ser utilizado em diferentes tipos de projetos, desde que a equipe esteja comprometida com os valores e princípios do framework. A Figura abaixo ilustra o Scrum, no qual as cores distiguem os papéis, dos Cerimônias (reuniões) e  artefatos.
 
 ![image](../assets/figs/scrum.png)
 
-### Extreme Programming (XP) - Produtividade do Código
+### Extreme Programming (XP) - Otimizando Produtividade
 
 Extreme Programming, conhecido como XP, busca unir toda a equipe de desenvolvimento de software em torno de metas comuns e alcançáveis. Usando os valores e princípios do XP, as equipes aplicam as práticas apropriadas em seu próprio contexto, escolhendo aquelas que incentivam a criatividade humana e aceitam a fragilidade humana. Equipes XP produzem software de qualidade a um ritmo sustentável.
 
@@ -173,7 +215,6 @@ Abaixo, segue uma breve definição de cada uma das práticas:
 
 
 
-
 ### Spotify - Escalando Times Ágeis
 
 O Método Agile Spotify é uma abordagem de gestão de projetos que foi criada pela Spotify. Essa metodologia foi desenvolvida para atender às necessidades da empresa, que precisava de uma forma mais eficiente de gerenciar grandes equipes.
@@ -188,59 +229,18 @@ A Figura abaixo mostra a estrutura organizacional ágil que permite que grandes 
 
 ![image](../assets/figs/spotify.png)
 
-### Entrega contínua e DevOps
+
+
+## Ciclo de Projeto Ágil
+
+![image](../assets/figs/project-cycle_agile.png)
+
+# Entrega contínua e DevOps
 
 DevOps é uma evolução do movimento ágil. DevOps é um esforço colaborativo e multidisciplinar dentro de uma organização para automatizar a entrega contínua de novas versões de software, garantindo sua correção e confiabilidade. Do ponto de vista organizacional, o movimento DevOps promove uma colaboração mais próxima entre desenvolvedores e operadores.
 
 No livro (Continuous Delivery)[1], Humble defende um pipeline de implantação automatizado, no qual qualquer versão de software comitada no repositório deve ser uma versão candidata à produção. Depois de passar por *stages*, como compilação e testes automatizados, o software é enviado para produção com o apertar de um botão. Este processo é chamado de Entrega Contínua (*Continuous Delivery*). Uma variante é o Deploy Contínuo, que envia automaticamente para produção toda versão que passa pelo pipeline. Muitos autores relacionam DevOps com entrega e deploy contínuos.
 
-
-# Ciclo de Desenvolvimento de Projeto de Software 
-
-Independente do tamanho, complexidade do produto a ser desnvolvido, do tamanho e maturidade da equipe de desenvolvimento,  qualquer projeto de software é um processo complexo e pode ser dividido em várias etapas, cada uma com suas próprias disciplinas e atividades específicas. Quanto as macro etapas de um ciclo de projeto de software, a figura abaixo ilustra tais etapas.
-
-![image](../assets/figs/LDSP.png)
-
-- **Planejamento**: Esta etapa é fundamental para o sucesso do projeto de software. Envolve a identificação dos objetivos do projeto, a definição dos requisitos do sistema, a análise de riscos e a definição do escopo do projeto.
-
-- **Análise**: Nesta etapa, os requisitos do sistema são analisados em detalhes. Isso inclui a identificação de requisitos funcionais e não funcionais, a definição da arquitetura do sistema e a elaboração de modelos de dados.
-
-- **Arquitetura**: Na etapa de design, os modelos de dados são transformados em projetos técnicos e os requisitos funcionais são traduzidos em projetos de software. Isso inclui a definição das interfaces do usuário, a elaboração de diagramas de classe e a escolha das ferramentas e tecnologias a serem utilizadas.
-
-- **Implementação**: Nesta etapa, o código-fonte é escrito com base no projeto técnico. Isso envolve a codificação, testes unitários e a integração de diferentes módulos do software.
-
-- **Testes (Verificação e Validação)**: Na etapa de testes, o software é testado em diferentes níveis, incluindo testes de unidade, testes de integração e testes de sistema. Isso ajuda a identificar defeitos e garantir que o software atenda aos requisitos definidos.
-
-- **Implantação**: Na etapa de implantação, o software é instalado e configurado em um ambiente de produção. Isso pode incluir a migração de dados, a instalação de software de terceiros e a configuração de hardware.
-
-Além das etapas mencionadas anteriormente, é importante destacar que o desenvolvimento de software envolve diversas disciplinas, tais como programação, gerenciamento de projetos, análise de negócios, engenharia de software, testes de software, qualidade de software e segurança de software. Cada uma dessas disciplinas desempenha um papel importante no processo de desenvolvimento de software, contribuindo para garantir a qualidade e efetividade do produto final. Algumas das disciplinas mais comuns em um projeto de software são: 
-
-- **Engenharia de requisitos**: Esta disciplina envolve a coleta,  documentação e gestão dos requisitos do software, incluindo os requisitos funcionais e não funcionais, para que se possa desenvolver um plano de projeto.
-
-- **Arquitetura de software**: Esta disciplina envolve o projeto da estrutura do software, incluindo a definição das camadas, componentes e serviços, e a determinação da interação entre eles.
-
-- **Design de software**: Esta disciplina envolve a criação de modelos de design detalhados para cada componente ou serviço do software, incluindo interfaces de usuário, bancos de dados, APIs e outras partes.
-
-- **Desenvolvimento de software**: Esta disciplina envolve a implementação do software com base no design e na arquitetura definidos. Isso geralmente inclui a codificação, testes e integração.
-
-- **Teste de software**: Esta disciplina envolve a verificação e validação do software para garantir que ele atenda aos requisitos especificados e funcione corretamente.
-
-- **Gerenciamento de projetos**: Esta disciplina envolve a coordenação do planejamento, execução e monitoramento do projeto de software, incluindo o gerenciamento de recursos, prazos, orçamentos e riscos.
-
-- **Implantação de software**: Esta disciplina envolve a distribuição e instalação do software em um ambiente de produção, incluindo a configuração e gerenciamento de servidores e sistemas.
-
-Após a fase de implementação, há uma etapa crucial no ciclo de vida do software: a manutenção. Essa fase consiste em um conjunto de atividades que visam garantir a continuidade da operação do software após sua implantação. A manutenção contínua é necessária para corrigir defeitos, atualizar dependências, implementar novas funcionalidades, refatorar código, aplicar patches de segurança e garantir que o software continue a funcionar corretamente. Essa fase pode ser subdividida em manutenção corretiva, preventiva e evolutiva, cada uma com seus próprios objetivos e atividades específicas.
-
-É importante destacar que o entregável varia de acordo com as necessidades e objetivos do projeto. É responsabilidade do gerente de projeto definir claramente o entregável e as etapas necessárias para chegar a ele, garantindo que o projeto seja concluído com sucesso e dentro do prazo e orçamento previstos. Dependendo do objetivo do projeto, do tempo e investimento,  o entregável ao fim de um ciclo de projeto pode ser:
-
-- **Protótipo**: um protótipo é uma versão preliminar do software, geralmente usada para testar conceitos e validar requisitos de usuário. É comum que um protótipo contenha apenas uma pequena parte das funcionalidades finais do software.
-- **Prova de conceito (PoC)**: É uma demonstração de um conceito ou ideia para verificar a sua viabilidade ou para avaliar se é possível implementar algo. Geralmente, a PoC é uma versão simplificada do produto ou solução final, desenvolvida para validar a tecnologia, a arquitetura ou as funcionalidades-chave do projeto.
-- **Mínimo Produto Viável (MVP)**: É a versão mais básica de um produto ou serviço que pode ser lançada no mercado para validar a sua aceitação pelos clientes. O MVP é desenvolvido com o objetivo de obter feedback dos usuários e testar hipóteses sobre o produto, sem a necessidade de investir muito tempo e recursos em seu desenvolvimento.
-- **Release de software**: É a versão de um produto de software que é lançada para uso público. A release inclui as funcionalidades desenvolvidas e testadas até aquele momento, com o objetivo de fornecer aos usuários uma versão estável e confiável do produto. Cada release é numerada e pode incluir correções de bugs, melhorias de desempenho e novas funcionalidades em relação às versões anteriores. As releases são normalmente numeradas seguindo um esquema de versionamento, como o SemVer (Semantic Versioning).
-
-## Ciclo de Projeto Ágil
-
-![image](../assets/figs/project-cycle_agile.png)
 
 # Práticas Ágeis
 
@@ -263,10 +263,6 @@ Após a fase de implementação, há uma etapa crucial no ciclo de vida do softw
 
 
 
-
-
-
-
 - Sit Together 
 - Whole Team 
 - Informative Workspace
@@ -281,9 +277,45 @@ Após a fase de implementação, há uma etapa crucial no ciclo de vida do softw
 - Test-First Programming 
 - Incremental Design 
 
-## Métricas Ágeis
 
-### Reuniões: por que elas existem?
+
+## Planejamento 
+
+### Atrasos de Entregas
+
+É importante lembrar que existem muitos outros fatores que podem contribuir para atrasos, como falta de recursos, problemas de comunicação ou mudanças nos requisitos do projeto. No entanto, durante as execuções da metodologia,  os três motivos abaixo são comumente citados como causas de atrasos:
+
+- **Falta de alinhamento sobre datas e entregáveis**: Quando não há um acordo claro sobre prazos e objetivos, pode haver uma falta de foco e priorização no projeto. Isso pode levar a um atraso na entrega dos trabalhos, uma vez que as equipes não estão trabalhando juntas em direção a um objetivo comum.
+- **Atraso da Sprint Zero**: A Sprint Zero é uma fase inicial em que a equipe se concentra em preparar o ambiente para o projeto e definir o escopo e os requisitos iniciais. Se essa fase não for concluída a tempo, pode levar a um atraso no início do desenvolvimento do projeto e, consequentemente, no prazo de entrega final. É importante ter uma visão realista do que é necessário para concluir a Sprint Zero com sucesso. Isso inclui alocar tempo e recursos suficientes para realizar todas as tarefas necessárias, incluindo a configuração do ambiente, a definição dos requisitos, a criação de protótipos e a documentação do projeto. Além disso, é importante ter uma comunicação clara entre a equipe e as partes interessadas para que todos entendam o que é necessário para concluir a Sprint Zero e quais são as expectativas para o projeto. Dessa forma, é possível minimizar os riscos de atrasos na Sprint Zero e garantir que o projeto comece com o pé direito.
+- **Problemas de comunicação**: 
+- **Membros do time com dedicação/ritmo de trabalho heterogêneos**: Quando membros da equipe não alinham o ritmo de trabalho esperados, isso pode afetar a produtividade e a eficiência do projeto, uma vez que há uma curva de aprendizado para os membros se adaptem ao projeto e trabalhem efetivamente. Isso pode resultar em atrasos no desenvolvimento e na entrega do projeto, conflitos entre membros, não compartilhamento do conhecimento, sobrecarga de alguns membros.
+
+## Reunião diária em pé
+
+A reunião diária em pé, também conhecida como "daily scrum" e "stand up", é uma breve atualização de status em que toda a equipe se reúne diariamente.  São uma solução recorrente para um conjunto particular de problemas que surgem quando um grupo de pessoas tenta trabalhar juntas como equipe. Ficamos em pé para manter a reunião curta. Cada membro da equipe deve responder a 3 perguntas relativas as suas atividades no projeto: (1) o que fez ontem, (2) o que planeja fazer hoje, (3) quais são os problemas que tem enfrentado para realizar seu trabalho.  No entanto, essa definição simples não captura os detalhes sutis que distinguem uma reunião efetiva de uma perda de tempo. As reuniões diárias bem conduzidas agregam um valor significativo às equipes. Primeiro, é uma forma de manter o ritmo de trabalho, uma vez que diariamente a equipe deve compartilhar seu diário de bordo. Segundo, para gestores e lideres de projeto, é uma forma de identificar riscos no projeto (tarefas complexas, dependências organizacionais etc) e agir o mais rápido possivel para destravar essas travas de produtividades. Outros benefícios de sincronizar regularmente as equipes no stand up para:
+
+- Compartilhar problemas e melhorias. Um dos principais benefícios de uma equipe em relação ao trabalho individual é que os membros da equipe podem se ajudar quando alguém encontra um problema ou descobre uma maneira melhor de fazer algo. Uma "equipe" em que os membros da equipe não se sentem confortáveis em compartilhar problemas e/ou não se ajudam tende a ser ineficaz. Problemas podem ser identificados no stand-up, os membros da equipe que podem ajudar a resolve-los mapeados, e após o stand-up essas pessoas se reúnem para planejar a solução.
+
+- Compartilhar a compreensão dos objetivos. Mesmo que tenhamos pensado que entendemos uns aos outros no início (o que provavelmente não era o caso), nossa compreensão tende a se afastar, assim como o contexto em que estamos operando. Uma "equipe" em que cada membro está trabalhando em direção a objetivos diferentes tende a ser ineficaz.
+
+- Coordenar esforços. Se o trabalho não precisa ser coordenado, você não precisa de uma equipe. Por outro lado, se você tem uma equipe, presumo que o trabalho exija coordenação. Uma coordenação deficiente entre os membros da equipe tende a levar a resultados ruins.
+
+
+- Identificar-se como equipe. É muito difícil identificar-se psicologicamente com um grupo se você não se envolver regularmente com o grupo. Você não desenvolverá um forte senso de relacionamento mesmo que acredite que eles sejam capazes e busquem os mesmos objetivos.
+
+
+
+Time alinhado
+Troca de conhecimento
+Como começar?
+Erros mais comuns de uma reunião em pé
+
+## Review
+
+## Retrospectiva
+
+
+## Reuniões: por que elas existem?
 
 As reuniões existem para atender à necessidade humana de comunicação e colaboração.  Elas são utilizadas para compartilhar informações importantes, alinhar objetivos e tomar decisões. No entanto, as reuniões devem ser bem organizadas e estruturadas para que sejam eficazes.
 
@@ -322,28 +354,6 @@ Ao lidar com um grande número de pessoas, a pessoa Tech Lead deve buscar o cons
 
 Com essas estratégias em mente, a pessoa Tech Lead pode garantir uma reunião produtiva e eficaz para todos os participantes.
 
-## Reunião diária em pé
-
-A reunião diária em pé, também conhecida como "daily scrum" e "stand up", é uma breve atualização de status em que toda a equipe se reúne diariamente.  São uma solução recorrente para um conjunto particular de problemas que surgem quando um grupo de pessoas tenta trabalhar juntas como equipe. Ficamos em pé para manter a reunião curta. Cada membro da equipe deve responder a 3 perguntas relativas as suas atividades no projeto: (1) o que fez ontem, (2) o que planeja fazer hoje, (3) quais são os problemas que tem enfrentado para realizar seu trabalho.  No entanto, essa definição simples não captura os detalhes sutis que distinguem uma reunião efetiva de uma perda de tempo. As reuniões diárias bem conduzidas agregam um valor significativo às equipes. Primeiro, é uma forma de manter o ritmo de trabalho, uma vez que diariamente a equipe deve compartilhar seu diário de bordo. Segundo, para gestores e lideres de projeto, é uma forma de identificar riscos no projeto (tarefas complexas, dependências organizacionais etc) e agir o mais rápido possivel para destravar essas travas de produtividades. Outros benefícios de sincronizar regularmente as equipes no stand up para:
-
-- Compartilhar problemas e melhorias. Um dos principais benefícios de uma equipe em relação ao trabalho individual é que os membros da equipe podem se ajudar quando alguém encontra um problema ou descobre uma maneira melhor de fazer algo. Uma "equipe" em que os membros da equipe não se sentem confortáveis em compartilhar problemas e/ou não se ajudam tende a ser ineficaz. Problemas podem ser identificados no stand-up, os membros da equipe que podem ajudar a resolve-los mapeados, e após o stand-up essas pessoas se reúnem para planejar a solução.
-
-- Compartilhar a compreensão dos objetivos. Mesmo que tenhamos pensado que entendemos uns aos outros no início (o que provavelmente não era o caso), nossa compreensão tende a se afastar, assim como o contexto em que estamos operando. Uma "equipe" em que cada membro está trabalhando em direção a objetivos diferentes tende a ser ineficaz.
-
-- Coordenar esforços. Se o trabalho não precisa ser coordenado, você não precisa de uma equipe. Por outro lado, se você tem uma equipe, presumo que o trabalho exija coordenação. Uma coordenação deficiente entre os membros da equipe tende a levar a resultados ruins.
-
-
-- Identificar-se como equipe. É muito difícil identificar-se psicologicamente com um grupo se você não se envolver regularmente com o grupo. Você não desenvolverá um forte senso de relacionamento mesmo que acredite que eles sejam capazes e busquem os mesmos objetivos.
-
-
-
-Time alinhado
-Troca de conhecimento
-Como começar?
-Erros mais comuns de uma reunião em pé
-
-
-
 
 
 ## Melhoria contínua com retrospectivas
@@ -362,7 +372,7 @@ Erros mais comuns de uma reunião em pé
 - Faça acordos prévios
 - Intervalos regulares
 
-## Produtividade de Software
+## Qualidade de Software
 
 1. Desenvolvimento guiado por testes (Test Driven Development - TDD): os testes são escritos antes do código, para garantir que a funcionalidade esteja correta e funcionando corretamente.
 2. Integração contínua (Continuous Integration - CI): o código é integrado e testado automaticamente várias vezes ao dia para evitar conflitos e detectar erros de integração.
@@ -371,15 +381,6 @@ Erros mais comuns de uma reunião em pé
 5. Programação orientada a objetos (Object-Oriented Programming - OOP): o código é organizado em objetos para facilitar a compreensão e a manutenção.
 
 
-### Atrasos de Entregas
-
-
-É importante lembrar que existem muitos outros fatores que podem contribuir para atrasos, como falta de recursos, problemas de comunicação ou mudanças nos requisitos do projeto. No entanto, durante as execuções da metodologia,  os três motivos abaixo são comumente citados como causas de atrasos:
-
-- **Falta de alinhamento sobre datas e entregáveis**: Quando não há um acordo claro sobre prazos e objetivos, pode haver uma falta de foco e priorização no projeto. Isso pode levar a um atraso na entrega dos trabalhos, uma vez que as equipes não estão trabalhando juntas em direção a um objetivo comum.
-- **Atraso da Sprint Zero**: A Sprint Zero é uma fase inicial em que a equipe se concentra em preparar o ambiente para o projeto e definir o escopo e os requisitos iniciais. Se essa fase não for concluída a tempo, pode levar a um atraso no início do desenvolvimento do projeto e, consequentemente, no prazo de entrega final. É importante ter uma visão realista do que é necessário para concluir a Sprint Zero com sucesso. Isso inclui alocar tempo e recursos suficientes para realizar todas as tarefas necessárias, incluindo a configuração do ambiente, a definição dos requisitos, a criação de protótipos e a documentação do projeto. Além disso, é importante ter uma comunicação clara entre a equipe e as partes interessadas para que todos entendam o que é necessário para concluir a Sprint Zero e quais são as expectativas para o projeto. Dessa forma, é possível minimizar os riscos de atrasos na Sprint Zero e garantir que o projeto comece com o pé direito.
-- **Problemas de comunicação**: 
-- **Membros do time com dedicação/ritmo de trabalho heterogêneos**: Quando membros da equipe não alinham o ritmo de trabalho esperados, isso pode afetar a produtividade e a eficiência do projeto, uma vez que há uma curva de aprendizado para os membros se adaptem ao projeto e trabalhem efetivamente. Isso pode resultar em atrasos no desenvolvimento e na entrega do projeto, conflitos entre membros, não compartilhamento do conhecimento, sobrecarga de alguns membros.
 
 ### Dicas para aumentar a produtividade
 
